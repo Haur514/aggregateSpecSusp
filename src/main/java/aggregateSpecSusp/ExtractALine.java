@@ -22,21 +22,21 @@ class ExtractALine{
              * 
              * 
              */
-            int nextIndex=-1;
+            int currentIndex=-1;
             while((text = br.readLine()) != null){
 
                 /**
                  * textが実行経路情報を表していた場合の処理
                  */
                 if(text.charAt(0) == '|'){
-
+                    fileNameAndLineNumList.get(currentIndex).readALine(text);
                 }
                  /**
                  * textがファイル名を表していた場合の処理
                  */
                 else{
                     fileNameAndLineNumList.add(new FileNameAndLineNum(text));
-                    nextIndex++;
+                    currentIndex++;
                 }
                 System.out.println(text);
             }

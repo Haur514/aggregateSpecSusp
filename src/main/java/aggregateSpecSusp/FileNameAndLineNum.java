@@ -21,4 +21,20 @@ public class FileNameAndLineNum {
     public void addExecutionRoute(int passedType){
 
     }
+
+    public void readALine(String text){
+        String[] split;
+        split = text.split("|");
+        System.out.println(split[0]);
+        executedLineNum.add(Integer.parseInt(split[0]));
+        for(int i = 1; i < split.length;i++){
+            if(split[i].equals("o")){
+                executionRoute.add(0);
+            }else if(split[i].equals("x")){
+                executionRoute.add(1);
+            }else{
+                executionRoute.add(-1);
+            }
+        }
+    }
 }
