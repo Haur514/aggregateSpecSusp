@@ -4,11 +4,8 @@
 package aggregateSpecSusp;
 
 public class App {
-    public String getGreeting() {
-        return "Hello world.";
-    }
-
     public static void main(String[] args) {
-        ExtractALine extractALine = new ExtractALine(0);
+        ExtractLineData extractLine = new ExtractLineData();
+        
     }
 }
