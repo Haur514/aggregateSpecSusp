@@ -14,7 +14,8 @@ public class CalcProximity {
 
     private Set<Integer> failedTestList;
 
-    private List<Double> weightTestCase = new ArrayList<>();
+    // regist weight of test case
+    private List<Double> weightTestCase = new ArrayList<Double>();
 
     private int numberOfTest;
 
@@ -74,9 +75,12 @@ public class CalcProximity {
                 numberOfNotCorrespondingBlock.set(i, numberOfNotCorrespondingBlock.get(i) + notcorresponding);
             }
         }
-        for (int i = 0; i < numberOfCorrespondingBlock.size(); i++) {
+        for (int i = 0; i < numberOfTest; i++) {
             weightTestCase.add(formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
             System.out.println(formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
+        }
+        for (int i = 0; i < weightTestCase.size(); i++) {
+            System.out.println(weightTestCase.get(i));
         }
     }
 
@@ -87,7 +91,7 @@ public class CalcProximity {
         // Haruka 0
         switch (type) {
         case 0:
-            ret = (double) corresponding / (1 + notcorresponding);
+            ret = (double) corresponding / (0.1 + notcorresponding);
             break;
         }
 

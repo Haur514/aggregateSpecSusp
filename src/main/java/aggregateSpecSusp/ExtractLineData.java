@@ -106,6 +106,10 @@ class ExtractLineData {
         return text.split(",").length;
     }
 
+    public int getNumberOfTest() {
+        return this.numberOfTests;
+    }
+
     public List<ExecutionRoute> getExecutionRoutes() {
         return executionRoutes;
     }

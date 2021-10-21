@@ -19,6 +19,18 @@ public class ExecutionRoute {
         init(numberOfTest);
     }
 
+    public String getFileName() {
+        return this.fileName;
+    }
+
+    public List<List<Integer>> getExecutionRoutes() {
+        return this.executionRoutes;
+    }
+
+    public List<Integer> getExecutedLineNum() {
+        return this.executedLineNum;
+    }
+
     public void init(int numberOfTest) {
         for (int i = 0; i < numberOfTest; i++) {
             List<Integer> executionRoute = new ArrayList<Integer>();
