@@ -35,7 +35,6 @@ public class ExecutionRoute {
         String[] segment = text.split(",");
         executedLineNum.add(Integer.parseInt(segment[0]));
         transExecutionRoutesToVertical(segment);
-        System.out.println(text);
     }
 
     /**

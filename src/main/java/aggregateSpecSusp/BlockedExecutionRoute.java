@@ -67,21 +67,15 @@ public class BlockedExecutionRoute {
         }
     }
 
-    public void printBlockedExecutionRoutes() {
-        for (int i = 0; i < blockedExecutionRoutes.size(); i++) {
-            System.out.println(blockedExecutionRoutes.get(i));
-        }
-    }
-
     public int transExecutionRouteStringToInt(String c) {
         char ch = c.charAt(0);
         switch (ch) {
-            case ('o'):
-                return 1;
-            case ('x'):
-                return -1;
-            case ('-'):
-                return 0;
+        case ('o'):
+            return 1;
+        case ('x'):
+            return -1;
+        case ('-'):
+            return 0;
         }
         throw new RuntimeException("ERROR in TR file");
     }

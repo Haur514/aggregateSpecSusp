@@ -8,7 +8,9 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * Extract a line and get information about TestResult : PASS / FAIL / Spectrum
@@ -18,27 +20,33 @@ class ExtractLineData {
     private List<ExecutionRoute> executionRoutes = new ArrayList<>();
     private List<BlockedExecutionRoute> blockedExecutionRoutes = new ArrayList<>();
 
-    private List<Integer> failedTestNumber = new ArrayList<>();
+    private Set<Integer> failedTestList = new HashSet<>();
 
     ExtractLineData() {
         List<String> text = readTRText();
         numberOfTests = getNumberOfTests(text.get(0));
-        setFailedTestNumber(text.get(2));
         setExecutionRoutes(text);
         setBlockedExecutionRoutes(text);
+        setFailedTestNumber();
     }
 
-    private void setFailedTestNumber(String text) {
-        String[] segment = text.split(",");
+    public Set<Integer> getFailedTestList() {
+        return this.failedTestList;
+    }
+
+    private void setFailedTestNumber() {
         for (int i = 0; i < numberOfTests; i++) {
-            if (segment[i + 1].equals("-")) {
-                failedTestNumber.add(i);
+            for (BlockedExecutionRoute ber : blockedExecutionRoutes) {
+                for (int line = 0; line < ber.getBlockedExecutionRoutes().get(0).size(); line++) {
+                    if (ber.getBlockedExecutionRoutes().get(i).get(line) == -1) {
+                        failedTestList.add(i);
+                        continue;
+                    } else if (ber.getBlockedExecutionRoutes().get(i).get(line) == 1) {
+                        continue;
+                    }
+                }
             }
         }
-    }
-
-    public List<Integer> getFailedTestNumber() {
-        return this.failedTestNumber;
     }
 
     private void setExecutionRoutes(List<String> text) {

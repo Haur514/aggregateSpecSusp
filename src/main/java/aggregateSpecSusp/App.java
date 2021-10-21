@@ -5,7 +5,7 @@ package aggregateSpecSusp;
 
 public class App {
     public static void main(String[] args) {
-        ExtractLineData extractLine = new ExtractLineData();
-        
+        ExtractLineData extractLineData = new ExtractLineData();
+        CalcProximity calcProximity = new CalcProximity(extractLineData);
     }
 }
