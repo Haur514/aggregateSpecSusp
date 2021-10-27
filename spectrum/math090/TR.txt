@@ -1,0 +1,3 @@
+[org.apache.commons.math.stat.FrequencyTest.testEmptyTable, org.apache.commons.math.stat.FrequencyTest.testAdd, org.apache.commons.math.stat.FrequencyTest.testCounts, org.apache.commons.math.stat.FrequencyTest.testToString, org.apache.commons.math.stat.FrequencyTest.testPcts, org.apache.commons.math.stat.FrequencyTest.testAddNonComparable, org.apache.commons.math.stat.FrequencyTest.testIntegerValues]
+src/java/org/apache/commons/math/stat/Frequency.java
+00484,-,o,o,o,o,-,o

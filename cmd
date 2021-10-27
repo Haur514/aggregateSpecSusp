@@ -1,0 +1,1 @@
+java -jar ./kGenProg-1.8.2.jar -r ./ -s ./example/math002/src/main -t ./example/math002/src/test
