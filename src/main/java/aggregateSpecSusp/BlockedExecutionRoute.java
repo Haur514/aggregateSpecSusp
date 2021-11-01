@@ -47,8 +47,8 @@ public class BlockedExecutionRoute {
      * check if a line's execution route is identical with before line
      */
     private boolean isIdenticalWithBeforeLine(String text, int lineNum) {
-        if (!text.substring(7, (2 * numberOfTests)).equals(beforeTestResult)) {
-            beforeTestResult = text.substring(7, (2 * numberOfTests));
+        if (!text.substring(6, 6 + (2 * numberOfTests - 1)).equals(beforeTestResult)) {
+            beforeTestResult = text.substring(6, 6 + (2 * numberOfTests - 1));
             return false;
         }
         return true;

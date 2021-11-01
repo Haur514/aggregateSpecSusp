@@ -10,7 +10,7 @@ public class BlockedSpectrumBasedFaultLocalization extends FaultLocalization {
 
     @Override
     double weight(int j) {
-        return this.calcProximity.getWeightTestCase().get(j);
+        return this.weightTestCase.get(j);
     }
 
     @Override

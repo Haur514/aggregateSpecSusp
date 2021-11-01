@@ -28,6 +28,22 @@ public class CalcProximity {
         for (Integer failedTestNumber : failedTestList) {
             calcurateProximity(failedTestNumber);
         }
+
+        for (int i = 0; i < numberOfTest; i++) {
+            System.out.println(weightTestCase.get(i));
+        }
+
+        for (int i = 0; i < numberOfTest; i++) {
+            double tmp = 0;
+            for (int j = 0; j < failedTestList.size(); j++) {
+                tmp += weightTestCase.get(i + j * numberOfTest);
+            }
+            weightTestCase.set(i, tmp / failedTestList.size());
+        }
+        System.out.println("----");
+        for (int i = 0; i < numberOfTest; i++) {
+            System.out.println(weightTestCase.get(i));
+        }
     }
 
     public List<Double> getWeightTestCase() {
@@ -77,21 +93,25 @@ public class CalcProximity {
         }
         for (int i = 0; i < numberOfTest; i++) {
             weightTestCase.add(formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
-            System.out.println(formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
-        }
-        for (int i = 0; i < weightTestCase.size(); i++) {
-            System.out.println(weightTestCase.get(i));
         }
     }
 
     private double formura(int corresponding, int notcorresponding) {
 
         double ret = 0;
-        int type = 0;
+        int type = 2;
         // Haruka 0
+        // Yoshiruka 1
+        // Ruka 2
         switch (type) {
         case 0:
-            ret = (double) corresponding / (0.1 + notcorresponding);
+            ret = (double) corresponding / Math.sqrt((1 + notcorresponding));
+            break;
+        case 1:
+            ret = (double) (corresponding * corresponding) / Math.sqrt((1 + notcorresponding));
+            break;
+        case 2:
+            ret = (double) (corresponding * corresponding * corresponding) / Math.sqrt((1 + notcorresponding));
             break;
         }
 

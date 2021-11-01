@@ -14,6 +14,8 @@ public abstract class FaultLocalization {
     private List<Double> suspiciousValue = new ArrayList<>();
     private List<ExecutionRoute> executionRoutes;
 
+    public List<Double> weightTestCase;
+
     private List<SuspValueInfo> suspValueInfos = new ArrayList<>();
 
     private Set<Integer> failedTestList;
@@ -41,6 +43,7 @@ public abstract class FaultLocalization {
         this.failedTestList = extractLineData.getFailedTestList();
         this.numberOfTest = extractLineData.getNumberOfTest();
         this.calcProximity = calcProximity;
+        this.weightTestCase = calcProximity.getWeightTestCase();
         setFileName();
         init();
         run();
@@ -80,10 +83,10 @@ public abstract class FaultLocalization {
                     } else {
                         switch (executionRoute.getExecutionRoutes().get(i).get(lineNum)) {
                         case 0:
-                            np += 1 + weight(i);
+                            np += weight(i);
                             break;
                         case 1:
-                            ep += 1 + weight(i);
+                            ep += weight(i);
                             break;
                         }
                     }
@@ -93,6 +96,10 @@ public abstract class FaultLocalization {
                         ochiai(ef, nf, ep, np)));
             }
         }
+    }
+
+    private void executeALineFL() {
+
     }
 
     private void print() {
