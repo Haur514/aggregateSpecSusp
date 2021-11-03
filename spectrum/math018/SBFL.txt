@@ -1,632 +1,632 @@
-87 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-1019 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-927 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-953 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-975 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-976 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-521 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-522 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-523 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-527 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-528 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-534 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-535 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-536 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-537 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-538 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-541 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-616 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-80 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-254 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-272 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-273 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-274 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-275 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-276 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-277 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-278 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-279 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-280 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-281 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-282 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-283 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-284 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-285 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-286 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-287 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-288 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-289 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-290 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-291 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-292 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-293 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-294 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-295 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-296 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-528 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-529 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-531 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-532 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-534 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-547 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-86 src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java
-600 src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java
-610 src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java
-96 src/main/java/org/apache/commons/math3/util/Precision.java
-97 src/main/java/org/apache/commons/math3/util/Precision.java
-272 src/main/java/org/apache/commons/math3/util/Precision.java
-330 src/main/java/org/apache/commons/math3/util/Precision.java
-331 src/main/java/org/apache/commons/math3/util/Precision.java
-334 src/main/java/org/apache/commons/math3/util/Precision.java
-337 src/main/java/org/apache/commons/math3/util/Precision.java
-341 src/main/java/org/apache/commons/math3/util/Precision.java
-343 src/main/java/org/apache/commons/math3/util/Precision.java
-63 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-68 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-69 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-70 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-71 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-72 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-73 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-74 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-77 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-86 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-87 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-89 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-98 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-99 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-100 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-101 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-102 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-103 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-104 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-105 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-106 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-107 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-108 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-109 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-110 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-111 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-112 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-113 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-114 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-115 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-116 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-117 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-118 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-119 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-120 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-121 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-122 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-123 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-124 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-125 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-126 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-127 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-128 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-131 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-175 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-185 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-193 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-194 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-195 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-196 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-197 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-198 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-199 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-200 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-201 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-202 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-203 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-204 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-205 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-206 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-207 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-208 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-209 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-210 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-211 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-212 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-213 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-214 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-215 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-216 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-217 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-218 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-219 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-220 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-221 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-222 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-223 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-224 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-225 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-226 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-227 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-228 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-229 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-230 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-231 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-232 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-233 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-234 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-235 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-236 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-237 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-238 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-239 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-240 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-241 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-242 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-243 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-244 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-245 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-246 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-247 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-248 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-249 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-250 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-251 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-252 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java
-264 src/main/java/org/apache/commons/math3/util/MathUtils.java
-929 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-930 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-931 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-932 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-933 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-934 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-955 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-956 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-957 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-958 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-959 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-960 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-970 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-971 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-972 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-973 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1014 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1015 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1016 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1018 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1021 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1024 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1033 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1034 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1035 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1036 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1037 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1038 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-233 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-234 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-235 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-236 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-237 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-238 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-239 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-240 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-241 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-242 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-243 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-244 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-245 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-246 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-247 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-248 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-249 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-250 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-251 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-253 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-256 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-257 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-258 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-259 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-261 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-41 src/main/java/org/apache/commons/math3/linear/DefaultRealMatrixPreservingVisitor.java
-68 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-71 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-79 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-81 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-82 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-83 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-84 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-85 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-86 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-90 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-96 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-98 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-99 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-100 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-101 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-102 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-103 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-107 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-112 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-113 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-114 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-115 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-116 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-117 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-121 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-126 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-127 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-128 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-129 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-130 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-131 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-135 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-141 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-143 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-144 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-145 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-146 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-147 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-148 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-149 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-150 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-151 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-152 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-153 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-154 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-157 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-280 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-281 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-282 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-283 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-284 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-285 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-286 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-287 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-288 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-289 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-290 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-291 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-292 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-293 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-294 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-295 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-296 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-297 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-298 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-299 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-300 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-301 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-466 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-467 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-468 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-469 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-470 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-473 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-559 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-560 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-561 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-562 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-563 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-566 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-598 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-599 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-600 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-601 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-602 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-603 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-604 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-605 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-606 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-607 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-608 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-609 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-611 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-873 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-77 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java
-78 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java
-79 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java
-80 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java
-81 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java
-82 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java
-85 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-86 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-87 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-99 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-100 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-101 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-102 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-103 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-104 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-105 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-106 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-107 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-108 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-109 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-110 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-111 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-113 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-61 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-62 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-102 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-105 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-108 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-109 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-112 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-113 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-116 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-117 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-121 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-145 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-306 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-307 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-314 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-315 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-339 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-345 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-410 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-411 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-412 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-413 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-414 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-415 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-416 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-417 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-418 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-419 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
-3788 src/main/java/org/apache/commons/math3/util/FastMath.java
-3794 src/main/java/org/apache/commons/math3/util/FastMath.java
-3795 src/main/java/org/apache/commons/math3/util/FastMath.java
-3796 src/main/java/org/apache/commons/math3/util/FastMath.java
-3798 src/main/java/org/apache/commons/math3/util/FastMath.java
-3799 src/main/java/org/apache/commons/math3/util/FastMath.java
-3800 src/main/java/org/apache/commons/math3/util/FastMath.java
-3801 src/main/java/org/apache/commons/math3/util/FastMath.java
-3803 src/main/java/org/apache/commons/math3/util/FastMath.java
-3804 src/main/java/org/apache/commons/math3/util/FastMath.java
-3805 src/main/java/org/apache/commons/math3/util/FastMath.java
-3806 src/main/java/org/apache/commons/math3/util/FastMath.java
-3808 src/main/java/org/apache/commons/math3/util/FastMath.java
-3809 src/main/java/org/apache/commons/math3/util/FastMath.java
-3818 src/main/java/org/apache/commons/math3/util/FastMath.java
-3819 src/main/java/org/apache/commons/math3/util/FastMath.java
-3820 src/main/java/org/apache/commons/math3/util/FastMath.java
-3827 src/main/java/org/apache/commons/math3/util/FastMath.java
-3833 src/main/java/org/apache/commons/math3/util/FastMath.java
-3839 src/main/java/org/apache/commons/math3/util/FastMath.java
-72 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-82 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-95 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-99 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-105 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-148 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-155 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-547 src/main/java/org/apache/commons/math3/util/MathArrays.java
-548 src/main/java/org/apache/commons/math3/util/MathArrays.java
-549 src/main/java/org/apache/commons/math3/util/MathArrays.java
-73 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java
-74 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java
-65 src/main/java/org/apache/commons/math3/util/Pair.java
-74 src/main/java/org/apache/commons/math3/util/Pair.java
-123 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-124 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-125 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-131 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-132 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-133 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-140 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-85 src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java
-92 src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java
-917 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-918 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-926 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-942 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-943 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-944 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-952 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-969 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-974 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-978 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-1006 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
-128 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-131 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-134 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-139 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-140 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-143 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-144 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-145 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-162 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-73 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-80 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-122 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-126 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-127 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-130 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-134 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-135 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-108 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-110 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-111 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-112 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-113 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-114 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-115 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-116 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-117 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-118 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-119 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-47 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java
-61 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java
-62 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java
-63 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java
-64 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java
-46 src/main/java/org/apache/commons/math3/util/Pair.java
-47 src/main/java/org/apache/commons/math3/util/Pair.java
-67 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java
-66 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-95 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-96 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-99 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-100 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-101 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-102 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-103 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-104 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-105 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-106 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-107 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-65 src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java
-66 src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java
-128 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-136 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-109 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-97 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-107 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-108 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-144 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-146 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-147 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-148 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-149 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-150 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-151 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-152 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-154 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-167 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-168 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-169 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-170 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-172 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-173 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-174 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-176 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-177 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-178 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-179 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-180 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-181 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-182 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-183 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-184 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-185 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-186 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-187 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-188 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-189 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-191 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-192 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-193 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-194 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-195 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-196 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-197 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-198 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-199 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-200 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-201 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-203 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-205 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-216 src/main/java/org/apache/commons/math3/random/MersenneTwister.java
-36 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-165 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-46 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java
-62 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java
-63 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java
-64 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java
-50 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-51 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-52 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-53 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-67 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-69 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-70 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-50 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java
-369 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-380 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-381 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-382 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-394 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-37 src/main/java/org/apache/commons/math3/exception/NotPositiveException.java
-82 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-107 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-108 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-109 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-110 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-111 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-112 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-113 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-162 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-171 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java
-65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-137 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-147 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-171 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-172 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-173 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-174 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-175 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-176 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-177 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-178 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-179 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-180 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-181 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-182 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-183 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-184 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-186 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-6174 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-70 src/main/java/org/apache/commons/math3/util/Precision.java
-77 src/main/java/org/apache/commons/math3/util/Precision.java
-44 src/main/java/org/apache/commons/math3/exception/MathUnsupportedOperationException.java
-53 src/main/java/org/apache/commons/math3/exception/MathUnsupportedOperationException.java
-54 src/main/java/org/apache/commons/math3/exception/MathUnsupportedOperationException.java
-71 src/main/java/org/apache/commons/math3/exception/MathUnsupportedOperationException.java
-44 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java
-45 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java
-56 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java
-43 src/main/java/org/apache/commons/math3/util/CompositeFormat.java
-54 src/main/java/org/apache/commons/math3/util/CompositeFormat.java
-55 src/main/java/org/apache/commons/math3/util/CompositeFormat.java
-56 src/main/java/org/apache/commons/math3/util/CompositeFormat.java
-99 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-100 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-115 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-116 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-134 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-135 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-136 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-137 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-138 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-139 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-140 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-142 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-207 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-215 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-224 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java
-45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-51 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-63 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-50 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-51 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-52 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-53 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-98 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java
-1017 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java
+87 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.7071067811865475
+1019 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.5
+927 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.3651483716701107
+953 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.3651483716701107
+975 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.3651483716701107
+976 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.3651483716701107
+521 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+522 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+523 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+527 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+528 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+534 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+535 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+536 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+537 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+538 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+541 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+616 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.35355339059327373
+80 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+254 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+272 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+273 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+274 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+275 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+276 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+277 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+278 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+279 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+280 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+281 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+282 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+283 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+284 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+285 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+286 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+287 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+288 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+289 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+290 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+291 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+292 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+293 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+294 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+295 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+296 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+528 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+529 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+531 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+532 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+534 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+547 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.35355339059327373
+86 src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java 0.35355339059327373
+600 src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java 0.35355339059327373
+610 src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java 0.35355339059327373
+96 src/main/java/org/apache/commons/math3/util/Precision.java 0.35355339059327373
+97 src/main/java/org/apache/commons/math3/util/Precision.java 0.35355339059327373
+272 src/main/java/org/apache/commons/math3/util/Precision.java 0.35355339059327373
+330 src/main/java/org/apache/commons/math3/util/Precision.java 0.35355339059327373
+331 src/main/java/org/apache/commons/math3/util/Precision.java 0.35355339059327373
+334 src/main/java/org/apache/commons/math3/util/Precision.java 0.35355339059327373
+337 src/main/java/org/apache/commons/math3/util/Precision.java 0.35355339059327373
+341 src/main/java/org/apache/commons/math3/util/Precision.java 0.35355339059327373
+343 src/main/java/org/apache/commons/math3/util/Precision.java 0.35355339059327373
+63 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+68 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+69 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+70 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+71 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+72 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+73 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+74 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+77 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+86 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+87 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+89 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+98 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+99 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+100 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+101 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+102 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+103 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+104 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+105 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+106 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+107 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+108 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+109 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+110 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+111 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+112 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+113 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+114 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+115 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+116 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+117 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+118 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+119 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+120 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+121 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+122 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+123 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+124 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+125 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+126 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+127 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+128 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+131 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+175 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+185 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+193 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+194 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+195 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+196 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+197 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+198 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+199 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+200 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+201 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+202 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+203 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+204 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+205 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+206 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+207 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+208 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+209 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+210 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+211 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+212 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+213 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+214 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+215 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+216 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+217 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+218 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+219 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+220 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+221 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+222 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+223 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+224 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+225 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+226 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+227 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+228 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+229 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+230 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+231 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+232 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+233 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+234 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+235 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+236 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+237 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+238 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+239 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+240 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+241 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+242 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+243 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+244 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+245 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+246 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+247 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+248 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+249 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+250 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+251 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+252 src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java 0.35355339059327373
+264 src/main/java/org/apache/commons/math3/util/MathUtils.java 0.35355339059327373
+929 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+930 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+931 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+932 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+933 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+934 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+955 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+956 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+957 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+958 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+959 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+960 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+970 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+971 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+972 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+973 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1014 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1015 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1016 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1018 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1021 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1024 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1033 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1034 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1035 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1036 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1037 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+1038 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.35355339059327373
+233 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+234 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+235 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+236 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+237 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+238 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+239 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+240 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+241 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+242 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+243 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+244 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+245 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+246 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+247 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+248 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+249 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+250 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+251 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+253 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+256 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+257 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+258 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+259 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+261 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.34299717028501764
+41 src/main/java/org/apache/commons/math3/linear/DefaultRealMatrixPreservingVisitor.java 0.34299717028501764
+68 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+71 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+79 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+81 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+82 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+83 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+84 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+85 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+86 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+90 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+96 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+98 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+99 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+100 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+101 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+102 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+103 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+107 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+112 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+113 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+114 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+115 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+116 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+117 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+121 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+126 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+127 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+128 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+129 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+130 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+131 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+135 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+141 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+143 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+144 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+145 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+146 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+147 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+148 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+149 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+150 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+151 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+152 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+153 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+154 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+157 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+280 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+281 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+282 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+283 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+284 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+285 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+286 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+287 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+288 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+289 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+290 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+291 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+292 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+293 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+294 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+295 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+296 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+297 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+298 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+299 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+300 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+301 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+466 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+467 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+468 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+469 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+470 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+473 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+559 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+560 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+561 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+562 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+563 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+566 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+598 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+599 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+600 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+601 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+602 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+603 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+604 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+605 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+606 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+607 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+608 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+609 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+611 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+873 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.34299717028501764
+77 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java 0.34299717028501764
+78 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java 0.34299717028501764
+79 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java 0.34299717028501764
+80 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java 0.34299717028501764
+81 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java 0.34299717028501764
+82 src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java 0.34299717028501764
+85 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+86 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+87 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+99 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+100 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+101 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+102 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+103 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+104 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+105 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+106 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+107 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+108 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+109 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+110 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+111 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+113 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.34299717028501764
+61 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+62 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+102 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+105 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+108 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+109 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+112 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+113 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+116 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+117 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+121 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+145 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+306 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+307 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+314 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+315 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+339 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+345 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+410 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+411 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+412 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+413 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+414 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+415 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+416 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+417 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+418 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+419 src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java 0.34299717028501764
+3788 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3794 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3795 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3796 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3798 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3799 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3800 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3801 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3803 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3804 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3805 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3806 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3808 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3809 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3818 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3819 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3820 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3827 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3833 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+3839 src/main/java/org/apache/commons/math3/util/FastMath.java 0.34299717028501764
+72 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.34299717028501764
+82 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.34299717028501764
+95 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.34299717028501764
+99 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.34299717028501764
+105 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.34299717028501764
+148 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.34299717028501764
+155 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.34299717028501764
+547 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.34299717028501764
+548 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.34299717028501764
+549 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.34299717028501764
+73 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java 0.34299717028501764
+74 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java 0.34299717028501764
+65 src/main/java/org/apache/commons/math3/util/Pair.java 0.34299717028501764
+74 src/main/java/org/apache/commons/math3/util/Pair.java 0.34299717028501764
+123 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.34299717028501764
+124 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.34299717028501764
+125 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.34299717028501764
+131 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.34299717028501764
+132 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.34299717028501764
+133 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.34299717028501764
+140 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.34299717028501764
+85 src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java 0.34299717028501764
+92 src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java 0.34299717028501764
+917 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+918 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+926 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+942 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+943 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+944 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+952 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+969 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+974 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+978 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+1006 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.34299717028501764
+128 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.29488391230979427
+131 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.29488391230979427
+134 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.29488391230979427
+139 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.29488391230979427
+140 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.29488391230979427
+143 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.29488391230979427
+144 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.29488391230979427
+145 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.29488391230979427
+162 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.29488391230979427
+73 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.29488391230979427
+80 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.29488391230979427
+122 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.29488391230979427
+126 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.29488391230979427
+127 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.29488391230979427
+130 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.29488391230979427
+134 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.29488391230979427
+135 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.29488391230979427
+108 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+110 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+111 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+112 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+113 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+114 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+115 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+116 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+117 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+118 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+119 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2886751345948129
+47 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java 0.282842712474619
+61 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java 0.282842712474619
+62 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java 0.282842712474619
+63 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java 0.282842712474619
+64 src/main/java/org/apache/commons/math3/optimization/PointValuePair.java 0.282842712474619
+46 src/main/java/org/apache/commons/math3/util/Pair.java 0.282842712474619
+47 src/main/java/org/apache/commons/math3/util/Pair.java 0.282842712474619
+67 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java 0.2773500981126146
+66 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+95 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+96 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+99 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+100 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+101 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+102 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+103 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+104 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+105 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+106 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+107 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.2773500981126146
+65 src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java 0.2773500981126146
+66 src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java 0.2773500981126146
+128 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.25
+136 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.25
+109 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.23570226039551587
+97 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.21320071635561041
+107 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+108 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+144 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+146 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+147 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+148 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+149 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+150 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+151 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+152 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+154 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+167 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+168 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+169 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+170 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+172 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+173 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+174 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+176 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+177 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+178 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+179 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+180 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+181 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+182 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+183 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+184 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+185 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+186 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+187 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+188 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+189 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+191 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+192 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+193 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+194 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+195 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+196 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+197 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+198 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+199 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+200 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+201 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+203 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+205 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+216 src/main/java/org/apache/commons/math3/random/MersenneTwister.java 0.14744195615489714
+36 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.14744195615489714
+165 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.14744195615489714
+46 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java 0.0
+62 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java 0.0
+63 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java 0.0
+64 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java 0.0
+50 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+52 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+53 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+67 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+69 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+70 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+50 src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java 0.0
+369 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+380 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+381 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+382 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+394 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+37 src/main/java/org/apache/commons/math3/exception/NotPositiveException.java 0.0
+82 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+107 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+108 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+109 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+110 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+111 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+112 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+113 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+162 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+171 src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java 0.0
+65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+137 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+147 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+171 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+172 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+173 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+174 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+175 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+176 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+177 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+178 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+179 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+180 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+181 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+182 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+183 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+184 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+186 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+6174 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+70 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+77 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+44 src/main/java/org/apache/commons/math3/exception/MathUnsupportedOperationException.java 0.0
+53 src/main/java/org/apache/commons/math3/exception/MathUnsupportedOperationException.java 0.0
+54 src/main/java/org/apache/commons/math3/exception/MathUnsupportedOperationException.java 0.0
+71 src/main/java/org/apache/commons/math3/exception/MathUnsupportedOperationException.java 0.0
+44 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java 0.0
+56 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java 0.0
+43 src/main/java/org/apache/commons/math3/util/CompositeFormat.java 0.0
+54 src/main/java/org/apache/commons/math3/util/CompositeFormat.java 0.0
+55 src/main/java/org/apache/commons/math3/util/CompositeFormat.java 0.0
+56 src/main/java/org/apache/commons/math3/util/CompositeFormat.java 0.0
+99 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+100 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+115 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+116 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+134 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+135 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+136 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+137 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+138 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+139 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+140 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+142 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+207 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+215 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+224 src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+63 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+50 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+52 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+53 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+98 src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.0
+1017 src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java 0.0

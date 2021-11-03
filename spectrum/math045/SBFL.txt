@@ -1,16 +1,16 @@
-49 src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java
-50 src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java
-51 src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java
-52 src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java
-100 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-118 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-119 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-120 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-121 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-122 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-123 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-150 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-153 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-154 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-155 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
-156 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java
+49 src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java 1.0
+50 src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java 1.0
+51 src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java 1.0
+52 src/main/java/org/apache/commons/math/linear/OpenMapRealMatrix.java 1.0
+100 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+118 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+119 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+120 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+121 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+122 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+123 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+150 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+153 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+154 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+155 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0
+156 src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java 1.0

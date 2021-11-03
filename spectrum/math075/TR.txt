@@ -1,5 +1,22 @@
 [org.apache.commons.math.stat.FrequencyTest.testEmptyTable, org.apache.commons.math.stat.FrequencyTest.testAdd, org.apache.commons.math.stat.FrequencyTest.testCounts, org.apache.commons.math.stat.FrequencyTest.testToString, org.apache.commons.math.stat.FrequencyTest.testPcts, org.apache.commons.math.stat.FrequencyTest.testSerial, org.apache.commons.math.stat.FrequencyTest.testAddNonComparable, org.apache.commons.math.stat.FrequencyTest.testIntegerValues]
 src/main/java/org/apache/commons/math/MathRuntimeException.java
 00305,-,o,-,-,-,-,o,-
+00306,-,o,-,-,-,-,o,-
+00307,-,o,-,-,-,-,o,-
+00308,-,o,-,-,-,-,o,-
+00309,-,o,-,-,-,-,o,-
+00310,-,o,-,-,-,-,o,-
+00311,-,o,-,-,-,-,o,-
+00312,-,o,-,-,-,-,o,-
+00313,-,o,-,-,-,-,o,-
+00314,-,o,-,-,-,-,o,-
+00315,-,o,-,-,-,-,o,-
+00316,-,o,-,-,-,-,o,-
+00317,-,o,-,-,-,-,o,-
+00318,-,o,-,-,-,-,o,-
+00319,-,o,-,-,-,-,o,-
+00320,-,o,-,-,-,-,o,-
+00321,-,o,-,-,-,-,o,-
+00322,-,o,-,-,-,-,o,-
 src/main/java/org/apache/commons/math/stat/Frequency.java
 00561,-,o,o,o,x,-,-,o

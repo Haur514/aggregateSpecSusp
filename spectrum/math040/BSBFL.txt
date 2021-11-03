@@ -1,330 +1,330 @@
-42 src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java
-54 src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java
-55 src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java
-62 src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java
-46 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java
-47 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java
-69 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java
-74 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java
-80 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java
-86 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java
-296 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-37 src/main/java/org/apache/commons/math/exception/TooManyEvaluationsException.java
-38 src/main/java/org/apache/commons/math/exception/TooManyEvaluationsException.java
-128 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-373 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-374 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-386 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-137 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-147 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-171 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-172 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-173 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-174 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-175 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-176 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-177 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-178 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-179 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-180 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-181 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-182 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-183 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-184 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-186 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-42 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-43 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-44 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-45 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-46 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-47 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-49 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-50 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-51 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-52 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-54 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-65 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-66 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-67 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-68 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-87 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-88 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-393 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-128 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-129 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-59 src/main/java/org/apache/commons/math/analysis/solvers/AbstractUnivariateRealSolver.java
-124 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-125 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-235 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-128 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-134 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-140 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-195 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-198 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-199 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-200 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-201 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-202 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-203 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-204 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-205 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-211 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-212 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-213 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-233 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-236 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-241 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-246 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-247 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-251 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-252 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-254 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-255 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-256 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-257 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-258 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-259 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-260 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-261 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-262 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-263 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-264 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-265 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-266 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-267 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-268 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-269 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-270 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-271 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-273 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-275 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-276 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-277 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-278 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-279 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-280 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-283 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-284 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-290 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-291 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-292 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-293 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-294 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-295 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-296 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-297 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-298 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-299 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-300 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-301 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-302 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-303 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-304 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-305 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-306 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-307 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-308 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-309 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-310 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-311 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-312 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-316 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-317 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-318 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-319 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-320 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-323 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-324 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-325 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-326 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-327 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-328 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-329 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-330 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-365 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-366 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-367 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-368 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-369 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-370 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-373 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-374 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-375 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-378 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-282 src/main/java/org/apache/commons/math/util/Precision.java
-91 src/main/java/org/apache/commons/math/util/Incrementor.java
-150 src/main/java/org/apache/commons/math/util/Incrementor.java
-159 src/main/java/org/apache/commons/math/util/Incrementor.java
-110 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-116 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-122 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-153 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-154 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-173 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-176 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-177 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-178 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-179 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-180 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-181 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-187 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-268 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-294 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-277 src/main/java/org/apache/commons/math/util/Precision.java
-278 src/main/java/org/apache/commons/math/util/Precision.java
-281 src/main/java/org/apache/commons/math/util/Precision.java
-284 src/main/java/org/apache/commons/math/util/Precision.java
-288 src/main/java/org/apache/commons/math/util/Precision.java
-290 src/main/java/org/apache/commons/math/util/Precision.java
-146 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-147 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-148 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-149 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-150 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-151 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-154 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-155 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-161 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-162 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-169 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-170 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-171 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-172 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-173 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-174 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-175 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-336 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-354 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-355 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-257 src/main/java/org/apache/commons/math/util/MathUtils.java
-52 src/main/java/org/apache/commons/math/util/Incrementor.java
-61 src/main/java/org/apache/commons/math/util/Incrementor.java
-62 src/main/java/org/apache/commons/math/util/Incrementor.java
-63 src/main/java/org/apache/commons/math/util/Incrementor.java
-64 src/main/java/org/apache/commons/math/util/Incrementor.java
-65 src/main/java/org/apache/commons/math/util/Incrementor.java
-66 src/main/java/org/apache/commons/math/util/Incrementor.java
-67 src/main/java/org/apache/commons/math/util/Incrementor.java
-79 src/main/java/org/apache/commons/math/util/Incrementor.java
-80 src/main/java/org/apache/commons/math/util/Incrementor.java
-93 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-94 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-95 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-37 src/main/java/org/apache/commons/math/analysis/solvers/AbstractUnivariateRealSolver.java
-47 src/main/java/org/apache/commons/math/analysis/solvers/AbstractUnivariateRealSolver.java
-109 src/main/java/org/apache/commons/math/util/Incrementor.java
-3796 src/main/java/org/apache/commons/math/util/FastMath.java
-3797 src/main/java/org/apache/commons/math/util/FastMath.java
-3798 src/main/java/org/apache/commons/math/util/FastMath.java
-3799 src/main/java/org/apache/commons/math/util/FastMath.java
-3800 src/main/java/org/apache/commons/math/util/FastMath.java
-3801 src/main/java/org/apache/commons/math/util/FastMath.java
-3802 src/main/java/org/apache/commons/math/util/FastMath.java
-3803 src/main/java/org/apache/commons/math/util/FastMath.java
-3804 src/main/java/org/apache/commons/math/util/FastMath.java
-3807 src/main/java/org/apache/commons/math/util/FastMath.java
-47 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
-66 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
-74 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
-75 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
-77 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
-80 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
-81 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
-82 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
-85 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
-65 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-66 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-67 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-78 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-79 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-80 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-104 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-190 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-195 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-200 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
-46 src/main/java/org/apache/commons/math/exception/MathIllegalNumberException.java
-47 src/main/java/org/apache/commons/math/exception/MathIllegalNumberException.java
-42 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java
-67 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java
-68 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java
-77 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java
-78 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java
-67 src/main/java/org/apache/commons/math/exception/NumberIsTooLargeException.java
-69 src/main/java/org/apache/commons/math/exception/NumberIsTooLargeException.java
-70 src/main/java/org/apache/commons/math/exception/NumberIsTooLargeException.java
-51 src/main/java/org/apache/commons/math/exception/NoBracketingException.java
-68 src/main/java/org/apache/commons/math/exception/NoBracketingException.java
-69 src/main/java/org/apache/commons/math/exception/NoBracketingException.java
-70 src/main/java/org/apache/commons/math/exception/NoBracketingException.java
-71 src/main/java/org/apache/commons/math/exception/NoBracketingException.java
-72 src/main/java/org/apache/commons/math/exception/NoBracketingException.java
-362 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-69 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-82 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-83 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-84 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-86 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-87 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-102 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-103 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-104 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-106 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-107 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-126 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-136 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-157 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-164 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-178 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-179 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-181 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-184 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-185 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-186 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-187 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-188 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-189 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-214 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-215 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-216 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-217 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-218 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-219 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-220 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-221 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-222 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-223 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-224 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-225 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-226 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-227 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-228 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-238 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-287 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-332 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-333 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-334 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-335 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-336 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-339 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-385 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-386 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-394 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java
-288 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-337 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-338 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-50 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java
-51 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java
-52 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java
-53 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java
-68 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java
-70 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java
-71 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java
-6142 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6150 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6158 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6166 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6174 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-45 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java
-46 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java
-63 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java
+42 src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java 1.0
+54 src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java 1.0
+55 src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java 1.0
+62 src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java 1.0
+46 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java 1.0
+47 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java 1.0
+69 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java 1.0
+74 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java 1.0
+80 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java 1.0
+86 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java 1.0
+296 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 1.0
+37 src/main/java/org/apache/commons/math/exception/TooManyEvaluationsException.java 1.0
+38 src/main/java/org/apache/commons/math/exception/TooManyEvaluationsException.java 1.0
+128 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 1.0
+393 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+373 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.5
+374 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.5
+386 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.5
+128 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+129 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+137 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+147 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+171 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+172 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+173 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+174 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+175 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+176 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+177 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+178 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+179 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+180 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+181 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+182 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+183 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+184 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+186 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.5
+59 src/main/java/org/apache/commons/math/analysis/solvers/AbstractUnivariateRealSolver.java 0.4472135954999579
+124 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.4472135954999579
+125 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.4472135954999579
+42 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+43 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+44 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+45 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+46 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+47 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+48 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+49 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+50 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+51 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+52 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+54 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.4472135954999579
+65 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.4472135954999579
+66 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.4472135954999579
+67 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.4472135954999579
+68 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.4472135954999579
+87 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.4472135954999579
+88 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.4472135954999579
+235 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.35355339059327373
+128 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.3333333333333333
+134 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.3333333333333333
+140 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.3333333333333333
+195 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+198 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+199 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+200 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+201 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+202 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+203 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+204 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+205 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+211 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+212 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+213 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+233 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+236 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+241 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+246 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+247 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+251 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+252 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+254 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+255 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+256 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+257 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+258 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+259 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+260 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+261 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+262 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+263 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+264 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+265 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+266 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+267 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+268 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+269 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+270 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+271 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+273 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+275 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+276 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+277 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+278 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+279 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+280 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+283 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+284 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+290 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+291 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+292 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+293 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+294 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+295 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+296 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+297 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+298 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+299 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+300 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+301 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+302 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+303 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+304 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+305 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+306 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+307 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+308 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+309 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+310 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+311 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+312 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+316 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+317 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+318 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+319 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+320 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+323 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+324 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+325 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+326 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+327 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+328 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+329 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+330 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+365 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+366 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+367 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+368 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+369 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+370 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+373 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+374 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+375 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+378 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.3333333333333333
+282 src/main/java/org/apache/commons/math/util/Precision.java 0.31622776601683794
+91 src/main/java/org/apache/commons/math/util/Incrementor.java 0.30151134457776363
+150 src/main/java/org/apache/commons/math/util/Incrementor.java 0.30151134457776363
+159 src/main/java/org/apache/commons/math/util/Incrementor.java 0.30151134457776363
+110 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+116 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+122 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+153 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+154 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+173 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+176 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+177 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+178 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+179 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+180 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+181 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+187 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+268 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+294 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.30151134457776363
+277 src/main/java/org/apache/commons/math/util/Precision.java 0.30151134457776363
+278 src/main/java/org/apache/commons/math/util/Precision.java 0.30151134457776363
+281 src/main/java/org/apache/commons/math/util/Precision.java 0.30151134457776363
+284 src/main/java/org/apache/commons/math/util/Precision.java 0.30151134457776363
+288 src/main/java/org/apache/commons/math/util/Precision.java 0.30151134457776363
+290 src/main/java/org/apache/commons/math/util/Precision.java 0.30151134457776363
+146 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+147 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+148 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+149 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+150 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+151 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+154 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+155 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+161 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+162 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+169 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+170 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+171 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+172 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+173 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+174 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+175 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.30151134457776363
+336 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.30151134457776363
+354 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.30151134457776363
+355 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.30151134457776363
+257 src/main/java/org/apache/commons/math/util/MathUtils.java 0.30151134457776363
+52 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+61 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+62 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+63 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+64 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+65 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+66 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+67 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+79 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+80 src/main/java/org/apache/commons/math/util/Incrementor.java 0.2581988897471611
+93 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.2581988897471611
+94 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.2581988897471611
+95 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.2581988897471611
+37 src/main/java/org/apache/commons/math/analysis/solvers/AbstractUnivariateRealSolver.java 0.0
+47 src/main/java/org/apache/commons/math/analysis/solvers/AbstractUnivariateRealSolver.java 0.0
+109 src/main/java/org/apache/commons/math/util/Incrementor.java 0.0
+3796 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3797 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3798 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3799 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3800 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3801 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3802 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3803 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3804 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3807 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+47 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java 0.0
+66 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java 0.0
+74 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java 0.0
+75 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java 0.0
+77 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java 0.0
+80 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java 0.0
+81 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java 0.0
+82 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java 0.0
+85 src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java 0.0
+65 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+66 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+67 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+78 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+79 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+80 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+104 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+190 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+195 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+200 src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java 0.0
+46 src/main/java/org/apache/commons/math/exception/MathIllegalNumberException.java 0.0
+47 src/main/java/org/apache/commons/math/exception/MathIllegalNumberException.java 0.0
+42 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java 0.0
+67 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java 0.0
+68 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java 0.0
+77 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java 0.0
+78 src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java 0.0
+67 src/main/java/org/apache/commons/math/exception/NumberIsTooLargeException.java 0.0
+69 src/main/java/org/apache/commons/math/exception/NumberIsTooLargeException.java 0.0
+70 src/main/java/org/apache/commons/math/exception/NumberIsTooLargeException.java 0.0
+51 src/main/java/org/apache/commons/math/exception/NoBracketingException.java 0.0
+68 src/main/java/org/apache/commons/math/exception/NoBracketingException.java 0.0
+69 src/main/java/org/apache/commons/math/exception/NoBracketingException.java 0.0
+70 src/main/java/org/apache/commons/math/exception/NoBracketingException.java 0.0
+71 src/main/java/org/apache/commons/math/exception/NoBracketingException.java 0.0
+72 src/main/java/org/apache/commons/math/exception/NoBracketingException.java 0.0
+362 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+69 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+82 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+83 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+84 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+86 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+87 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+102 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+103 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+104 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+106 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+107 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+126 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+136 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+157 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+164 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+178 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+179 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+181 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+184 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+185 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+186 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+187 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+188 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+189 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+214 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+215 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+216 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+217 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+218 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+219 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+220 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+221 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+222 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+223 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+224 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+225 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+226 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+227 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+228 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+238 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+287 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+332 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+333 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+334 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+335 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+336 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+339 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+385 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+386 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+394 src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+288 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.0
+337 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.0
+338 src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.0
+50 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java 0.0
+51 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java 0.0
+52 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java 0.0
+53 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java 0.0
+68 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java 0.0
+70 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java 0.0
+71 src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java 0.0
+6142 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+6150 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+6158 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+6166 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+6174 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+45 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java 0.0
+46 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java 0.0
+63 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java 0.0

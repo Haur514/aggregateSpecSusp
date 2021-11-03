@@ -1,257 +1,308 @@
-349 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-190 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-151 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-297 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-338 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-339 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-340 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-342 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-310 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-311 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-312 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-313 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-314 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-315 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-313 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-317 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-319 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-320 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-134 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-171 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-178 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-179 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-249 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-250 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-441 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-81 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java
-129 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-132 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-133 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-134 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-137 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-171 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-172 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-176 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-340 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-341 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-342 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-343 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-344 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-345 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-346 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-344 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-351 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-352 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-357 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-458 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-481 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-49 src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java
-50 src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java
-86 src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java
-884 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-885 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-886 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-887 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-889 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-1287 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-92 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java
-154 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-192 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-106 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
-296 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-307 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-146 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-149 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-150 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-187 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-188 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-189 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-105 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-106 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-107 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-108 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-109 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-110 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-112 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-114 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-115 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-126 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-127 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-129 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-130 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-133 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-136 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-137 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-140 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-141 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-144 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-150 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-151 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-152 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-153 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-154 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-152 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-157 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-160 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-166 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-169 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-176 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-183 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-190 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-198 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-199 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-200 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-202 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-211 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-216 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-225 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-234 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-235 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-236 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-237 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-240 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-248 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-248 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-273 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-291 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-292 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-293 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-294 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-295 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-300 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-331 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-370 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-371 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-387 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-388 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-398 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-406 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-415 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-449 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-497 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-78 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-854 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-1157 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-58 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java
-66 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java
-67 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java
-75 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java
-83 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java
-100 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java
-101 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java
-102 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java
-168 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java
-176 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java
-184 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java
-95 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-314 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-315 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-314 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-320 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-325 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-326 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-330 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-331 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-334 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-335 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-336 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-335 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-341 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-354 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-367 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-404 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-410 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-622 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java
-367 src/main/java/org/apache/commons/math/util/MathUtils.java
-368 src/main/java/org/apache/commons/math/util/MathUtils.java
-369 src/main/java/org/apache/commons/math/util/MathUtils.java
-370 src/main/java/org/apache/commons/math/util/MathUtils.java
-372 src/main/java/org/apache/commons/math/util/MathUtils.java
-395 src/main/java/org/apache/commons/math/util/MathUtils.java
-411 src/main/java/org/apache/commons/math/util/MathUtils.java
-42 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-50 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-59 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-60 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-61 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-62 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-63 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-64 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-62 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-67 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-77 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-78 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-79 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-80 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-81 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-82 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-83 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-84 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-85 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-83 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-81 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-79 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-89 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-102 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-104 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-105 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-106 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-111 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-112 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-115 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-116 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-117 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-118 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-116 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-167 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-185 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-62 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
-67 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
-86 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
-98 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
-99 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
-100 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
-101 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
-103 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
-45 src/main/java/org/apache/commons/math/ConvergenceException.java
-37 src/main/java/org/apache/commons/math/optimization/linear/NoFeasibleSolutionException.java
-145 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-161 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-170 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-172 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-177 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-260 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-261 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-262 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-264 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-308 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-433 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java
-70 src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java
-60 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-1206 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java
-37 src/main/java/org/apache/commons/math/optimization/linear/UnboundedSolutionException.java
-42 src/main/java/org/apache/commons/math/optimization/OptimizationException.java
-60 src/main/java/org/apache/commons/math/MathException.java
-73 src/main/java/org/apache/commons/math/MathException.java
-85 src/main/java/org/apache/commons/math/MathException.java
-106 src/main/java/org/apache/commons/math/MathException.java
-107 src/main/java/org/apache/commons/math/MathException.java
-108 src/main/java/org/apache/commons/math/MathException.java
-166 src/main/java/org/apache/commons/math/MathException.java
-172 src/main/java/org/apache/commons/math/MathException.java
-54 src/main/java/org/apache/commons/math/util/CompositeFormat.java
-55 src/main/java/org/apache/commons/math/util/CompositeFormat.java
-56 src/main/java/org/apache/commons/math/util/CompositeFormat.java
-94 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-118 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-119 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-120 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-121 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-122 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-123 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-124 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-173 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-182 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java
-107 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-168 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
-177 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java
+190 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.10153461651336192
+151 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.10101525445522107
+338 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.09284766908852593
+339 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.09284766908852593
+340 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.09284766908852593
+342 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.09284766908852593
+310 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+311 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+312 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+313 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+314 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+315 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+316 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+317 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+318 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+319 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+320 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0854357657716761
+134 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.08512565307587486
+249 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.08512565307587486
+250 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.08512565307587486
+441 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.08512565307587486
+129 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.08512565307587486
+132 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.08512565307587486
+133 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.08512565307587486
+134 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.08512565307587486
+137 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.08512565307587486
+171 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.08512565307587486
+172 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.08512565307587486
+176 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.08512565307587486
+297 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0827605888602368
+81 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java 0.08164965809277261
+340 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+341 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+342 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+343 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+344 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+345 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+346 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+347 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+348 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+349 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+350 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+351 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+352 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+353 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+354 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+355 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+356 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+357 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+458 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+481 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07808688094430304
+49 src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java 0.07808688094430304
+50 src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java 0.07808688094430304
+86 src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java 0.07808688094430304
+884 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.07808688094430304
+885 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.07808688094430304
+886 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.07808688094430304
+887 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.07808688094430304
+889 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.07808688094430304
+1287 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.07808688094430304
+92 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java 0.07808688094430304
+154 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07808688094430304
+192 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07808688094430304
+106 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.07808688094430304
+296 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0778498944161523
+307 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0778498944161523
+146 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0778498944161523
+149 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0778498944161523
+150 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0778498944161523
+187 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0778498944161523
+188 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0778498944161523
+189 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0778498944161523
+105 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+106 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+107 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+108 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+109 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+110 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+111 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+112 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+113 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+114 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+115 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+126 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+127 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+128 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+129 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+130 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+133 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+136 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+137 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+140 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+141 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+142 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+144 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+150 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+151 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+152 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+153 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+154 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+155 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+156 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+157 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+158 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+159 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+160 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+161 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+162 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+163 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+164 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+165 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+166 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+167 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+168 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+169 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+170 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+171 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+172 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+173 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+174 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+175 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+176 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+177 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+178 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+179 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+180 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+181 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+183 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+190 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+198 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+199 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+200 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+201 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+202 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+211 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+216 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+217 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+225 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+234 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+235 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+236 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+237 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+238 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+239 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+240 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+248 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+251 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+273 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+291 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+292 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+293 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+294 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+295 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+300 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+331 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+370 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+371 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+387 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+388 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+389 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+398 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+406 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+415 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+449 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+497 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.07761505257063328
+78 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.07761505257063328
+854 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.07761505257063328
+1157 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.07761505257063328
+58 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java 0.07761505257063328
+66 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java 0.07761505257063328
+67 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java 0.07761505257063328
+75 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java 0.07761505257063328
+83 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java 0.07761505257063328
+100 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java 0.07761505257063328
+101 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java 0.07761505257063328
+102 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java 0.07761505257063328
+168 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java 0.07761505257063328
+176 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java 0.07761505257063328
+184 src/main/java/org/apache/commons/math/optimization/linear/LinearConstraint.java 0.07761505257063328
+95 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+314 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+315 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+316 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+317 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+318 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+319 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+320 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+321 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+322 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+323 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+324 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+325 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+326 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+327 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+328 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+329 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+330 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+331 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+332 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+333 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+334 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+335 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+336 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+337 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+338 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+339 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+340 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+341 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+342 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+343 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+354 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+367 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+404 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+410 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+622 src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java 0.07761505257063328
+367 src/main/java/org/apache/commons/math/util/MathUtils.java 0.07761505257063328
+368 src/main/java/org/apache/commons/math/util/MathUtils.java 0.07761505257063328
+369 src/main/java/org/apache/commons/math/util/MathUtils.java 0.07761505257063328
+370 src/main/java/org/apache/commons/math/util/MathUtils.java 0.07761505257063328
+372 src/main/java/org/apache/commons/math/util/MathUtils.java 0.07761505257063328
+395 src/main/java/org/apache/commons/math/util/MathUtils.java 0.07761505257063328
+411 src/main/java/org/apache/commons/math/util/MathUtils.java 0.07761505257063328
+42 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+50 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+59 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+60 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+61 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+62 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+63 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+64 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+65 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+67 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+77 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+78 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+79 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+80 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+81 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+82 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+83 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+84 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+85 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+86 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+87 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+88 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+89 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+102 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+104 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+105 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+106 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+111 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+112 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+115 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+116 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+117 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+118 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+119 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+167 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+185 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+186 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.07761505257063328
+62 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.07761505257063328
+67 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.07761505257063328
+86 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.07761505257063328
+98 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.07761505257063328
+99 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.07761505257063328
+100 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.07761505257063328
+101 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.07761505257063328
+103 src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.07761505257063328
+45 src/main/java/org/apache/commons/math/ConvergenceException.java 0.0
+37 src/main/java/org/apache/commons/math/optimization/linear/NoFeasibleSolutionException.java 0.0
+145 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
+146 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
+260 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
+261 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
+262 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
+263 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
+264 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
+308 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
+433 src/main/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
+70 src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java 0.0
+60 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.0
+1206 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.0
+37 src/main/java/org/apache/commons/math/optimization/linear/UnboundedSolutionException.java 0.0
+42 src/main/java/org/apache/commons/math/optimization/OptimizationException.java 0.0
+60 src/main/java/org/apache/commons/math/MathException.java 0.0
+61 src/main/java/org/apache/commons/math/MathException.java 0.0
+73 src/main/java/org/apache/commons/math/MathException.java 0.0
+85 src/main/java/org/apache/commons/math/MathException.java 0.0
+106 src/main/java/org/apache/commons/math/MathException.java 0.0
+107 src/main/java/org/apache/commons/math/MathException.java 0.0
+108 src/main/java/org/apache/commons/math/MathException.java 0.0
+166 src/main/java/org/apache/commons/math/MathException.java 0.0
+172 src/main/java/org/apache/commons/math/MathException.java 0.0
+54 src/main/java/org/apache/commons/math/util/CompositeFormat.java 0.0
+55 src/main/java/org/apache/commons/math/util/CompositeFormat.java 0.0
+56 src/main/java/org/apache/commons/math/util/CompositeFormat.java 0.0
+94 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+118 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+119 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+120 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+121 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+122 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+123 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+124 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+173 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+182 src/main/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
+107 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0
+168 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0
+177 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0

@@ -1,178 +1,262 @@
-199 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-119 src/java/org/apache/commons/math/MathException.java
-120 src/java/org/apache/commons/math/MathException.java
-121 src/java/org/apache/commons/math/MathException.java
-166 src/java/org/apache/commons/math/MathException.java
-172 src/java/org/apache/commons/math/MathException.java
-88 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-97 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-100 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-104 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-170 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-173 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-177 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-182 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-183 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-186 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-189 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-190 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-191 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-193 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-194 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-195 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-198 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-178 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-181 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-184 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-200 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-203 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-206 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-221 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-223 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-224 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-229 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-69 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-81 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-82 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-83 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-85 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-43 src/java/org/apache/commons/math/MaxIterationsExceededException.java
-44 src/java/org/apache/commons/math/MaxIterationsExceededException.java
-45 src/java/org/apache/commons/math/ConvergenceException.java
-60 src/java/org/apache/commons/math/MathException.java
-73 src/java/org/apache/commons/math/MathException.java
-85 src/java/org/apache/commons/math/MathException.java
-106 src/java/org/apache/commons/math/MathException.java
-107 src/java/org/apache/commons/math/MathException.java
-108 src/java/org/apache/commons/math/MathException.java
-129 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-131 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-132 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-62 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-72 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-88 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-51 src/java/org/apache/commons/math/special/Erf.java
-52 src/java/org/apache/commons/math/special/Erf.java
-55 src/java/org/apache/commons/math/special/Erf.java
-126 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-54 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-55 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-56 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-80 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-97 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-102 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-46 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-39 src/java/org/apache/commons/math/distribution/AbstractDistribution.java
-53 src/java/org/apache/commons/math/special/Erf.java
-53 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-54 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-127 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-207 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-227 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
-61 src/java/org/apache/commons/math/MathRuntimeException.java
-74 src/java/org/apache/commons/math/MathRuntimeException.java
-87 src/java/org/apache/commons/math/MathRuntimeException.java
-282 src/java/org/apache/commons/math/MathRuntimeException.java
-62 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java
-63 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java
-64 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java
-65 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java
-66 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java
-67 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java
-68 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java
-52 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverFactory.java
-56 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-158 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-159 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-161 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-163 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-164 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-167 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-168 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-183 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-185 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-195 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-221 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-222 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-224 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-225 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-226 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-226 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-228 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-229 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-230 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-231 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-232 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-233 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-235 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-235 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-242 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-243 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-245 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-246 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-247 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-245 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-249 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-250 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-255 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-261 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-261 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-263 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-264 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-267 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-268 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-269 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-270 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-272 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-273 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-275 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-277 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-278 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-285 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-286 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-225 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-290 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-291 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-293 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-294 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-295 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-296 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-297 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-298 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-300 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-301 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-302 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-303 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-304 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-305 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-301 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-307 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
-38 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverFactoryImpl.java
-50 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverFactoryImpl.java
-93 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java
-94 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java
-95 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java
-141 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java
-142 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java
-143 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java
-165 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java
-166 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java
-208 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java
-98 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-112 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-113 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-130 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-156 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-157 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-159 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-160 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-162 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-179 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-201 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-222 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
-63 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-108 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-110 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
-61 src/java/org/apache/commons/math/distribution/AbstractDistribution.java
-62 src/java/org/apache/commons/math/distribution/AbstractDistribution.java
-66 src/java/org/apache/commons/math/distribution/AbstractDistribution.java
+199 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 1.0
+200 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 1.0
+201 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 1.0
+202 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 1.0
+203 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 1.0
+204 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 1.0
+119 src/java/org/apache/commons/math/MathException.java 1.0
+120 src/java/org/apache/commons/math/MathException.java 1.0
+121 src/java/org/apache/commons/math/MathException.java 1.0
+166 src/java/org/apache/commons/math/MathException.java 1.0
+172 src/java/org/apache/commons/math/MathException.java 1.0
+88 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+89 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+90 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+91 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+92 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+93 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+94 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+95 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+96 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+97 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+98 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+99 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+100 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+101 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+102 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+103 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+104 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+105 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 1.0
+170 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+173 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+177 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+182 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+183 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+186 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+189 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+190 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+191 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+193 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+194 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+195 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+196 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+198 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.7071067811865475
+43 src/java/org/apache/commons/math/MaxIterationsExceededException.java 0.7071067811865475
+44 src/java/org/apache/commons/math/MaxIterationsExceededException.java 0.7071067811865475
+45 src/java/org/apache/commons/math/ConvergenceException.java 0.7071067811865475
+60 src/java/org/apache/commons/math/MathException.java 0.7071067811865475
+61 src/java/org/apache/commons/math/MathException.java 0.7071067811865475
+73 src/java/org/apache/commons/math/MathException.java 0.7071067811865475
+85 src/java/org/apache/commons/math/MathException.java 0.7071067811865475
+106 src/java/org/apache/commons/math/MathException.java 0.7071067811865475
+107 src/java/org/apache/commons/math/MathException.java 0.7071067811865475
+108 src/java/org/apache/commons/math/MathException.java 0.7071067811865475
+129 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+131 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+132 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+178 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+181 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+184 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+200 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+203 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+206 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+221 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+223 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+224 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+229 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.7071067811865475
+69 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+70 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+71 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+72 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+73 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+74 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+75 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+76 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+77 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+78 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+81 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+82 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+83 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+85 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+86 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+87 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.7071067811865475
+62 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.5773502691896258
+72 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.3779644730092272
+88 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.3779644730092272
+51 src/java/org/apache/commons/math/special/Erf.java 0.35355339059327373
+52 src/java/org/apache/commons/math/special/Erf.java 0.35355339059327373
+55 src/java/org/apache/commons/math/special/Erf.java 0.35355339059327373
+126 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.35355339059327373
+127 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.35355339059327373
+54 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.2773500981126146
+55 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.2773500981126146
+56 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.2773500981126146
+80 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.2773500981126146
+97 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.2773500981126146
+102 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.2773500981126146
+46 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.2773500981126146
+39 src/java/org/apache/commons/math/distribution/AbstractDistribution.java 0.2773500981126146
+53 src/java/org/apache/commons/math/special/Erf.java 0.0
+53 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.0
+54 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.0
+127 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.0
+128 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.0
+207 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.0
+227 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java 0.0
+61 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+62 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+74 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+87 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+282 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+283 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+284 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+285 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+286 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+287 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+288 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+289 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+290 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+291 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+292 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+293 src/java/org/apache/commons/math/MathRuntimeException.java 0.0
+62 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java 0.0
+63 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java 0.0
+64 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java 0.0
+65 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java 0.0
+66 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java 0.0
+67 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java 0.0
+68 src/java/org/apache/commons/math/ConvergingAlgorithmImpl.java 0.0
+52 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverFactory.java 0.0
+56 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+158 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+159 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+161 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+163 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+164 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+167 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+168 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+183 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+185 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+195 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+221 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+222 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+224 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+225 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+226 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+227 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+228 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+229 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+230 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+231 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+232 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+233 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+234 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+235 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+236 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+237 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+238 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+239 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+240 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+241 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+242 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+243 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+244 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+245 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+246 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+247 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+248 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+249 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+250 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+251 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+252 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+253 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+254 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+255 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+261 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+262 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+263 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+264 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+265 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+267 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+268 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+269 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+270 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+272 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+273 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+275 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+277 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+278 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+279 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+280 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+281 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+282 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+283 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+284 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+285 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+286 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+256 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+257 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+258 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+259 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+260 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+266 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+271 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+274 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+276 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+287 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+288 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+289 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+290 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+291 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+292 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+293 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+294 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+295 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+296 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+297 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+298 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+299 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+300 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+301 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+302 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+303 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+304 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+305 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+306 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+307 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+308 src/java/org/apache/commons/math/analysis/solvers/BrentSolver.java 0.0
+38 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverFactoryImpl.java 0.0
+50 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverFactoryImpl.java 0.0
+93 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java 0.0
+94 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java 0.0
+95 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java 0.0
+141 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java 0.0
+142 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java 0.0
+143 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java 0.0
+165 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java 0.0
+166 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java 0.0
+208 src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java 0.0
+98 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+99 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+100 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+112 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+113 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+130 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+156 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+157 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+159 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+160 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+162 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+179 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+201 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+222 src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java 0.0
+63 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.0
+64 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.0
+108 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.0
+109 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.0
+110 src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java 0.0
+61 src/java/org/apache/commons/math/distribution/AbstractDistribution.java 0.0
+62 src/java/org/apache/commons/math/distribution/AbstractDistribution.java 0.0
+63 src/java/org/apache/commons/math/distribution/AbstractDistribution.java 0.0
+64 src/java/org/apache/commons/math/distribution/AbstractDistribution.java 0.0
+66 src/java/org/apache/commons/math/distribution/AbstractDistribution.java 0.0

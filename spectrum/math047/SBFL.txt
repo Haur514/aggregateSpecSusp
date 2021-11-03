@@ -1,1304 +1,1304 @@
-1179 src/main/java/org/apache/commons/math/complex/Complex.java
-257 src/main/java/org/apache/commons/math/complex/Complex.java
-583 src/main/java/org/apache/commons/math/complex/Complex.java
-584 src/main/java/org/apache/commons/math/complex/Complex.java
-256 src/main/java/org/apache/commons/math/complex/Complex.java
-251 src/main/java/org/apache/commons/math/complex/Complex.java
-252 src/main/java/org/apache/commons/math/complex/Complex.java
-579 src/main/java/org/apache/commons/math/complex/Complex.java
-268 src/main/java/org/apache/commons/math/complex/Complex.java
-269 src/main/java/org/apache/commons/math/complex/Complex.java
-270 src/main/java/org/apache/commons/math/complex/Complex.java
-271 src/main/java/org/apache/commons/math/complex/Complex.java
-273 src/main/java/org/apache/commons/math/complex/Complex.java
-274 src/main/java/org/apache/commons/math/complex/Complex.java
-275 src/main/java/org/apache/commons/math/complex/Complex.java
-276 src/main/java/org/apache/commons/math/complex/Complex.java
-747 src/main/java/org/apache/commons/math/complex/Complex.java
-1315 src/main/java/org/apache/commons/math/util/FastMath.java
-1316 src/main/java/org/apache/commons/math/util/FastMath.java
-1317 src/main/java/org/apache/commons/math/util/FastMath.java
-1318 src/main/java/org/apache/commons/math/util/FastMath.java
-1319 src/main/java/org/apache/commons/math/util/FastMath.java
-1320 src/main/java/org/apache/commons/math/util/FastMath.java
-1321 src/main/java/org/apache/commons/math/util/FastMath.java
-1322 src/main/java/org/apache/commons/math/util/FastMath.java
-1323 src/main/java/org/apache/commons/math/util/FastMath.java
-1324 src/main/java/org/apache/commons/math/util/FastMath.java
-1325 src/main/java/org/apache/commons/math/util/FastMath.java
-1326 src/main/java/org/apache/commons/math/util/FastMath.java
-1327 src/main/java/org/apache/commons/math/util/FastMath.java
-1328 src/main/java/org/apache/commons/math/util/FastMath.java
-1329 src/main/java/org/apache/commons/math/util/FastMath.java
-1330 src/main/java/org/apache/commons/math/util/FastMath.java
-1331 src/main/java/org/apache/commons/math/util/FastMath.java
-1332 src/main/java/org/apache/commons/math/util/FastMath.java
-1333 src/main/java/org/apache/commons/math/util/FastMath.java
-1334 src/main/java/org/apache/commons/math/util/FastMath.java
-1335 src/main/java/org/apache/commons/math/util/FastMath.java
-1336 src/main/java/org/apache/commons/math/util/FastMath.java
-1337 src/main/java/org/apache/commons/math/util/FastMath.java
-1338 src/main/java/org/apache/commons/math/util/FastMath.java
-1339 src/main/java/org/apache/commons/math/util/FastMath.java
-1340 src/main/java/org/apache/commons/math/util/FastMath.java
-1341 src/main/java/org/apache/commons/math/util/FastMath.java
-1342 src/main/java/org/apache/commons/math/util/FastMath.java
-1343 src/main/java/org/apache/commons/math/util/FastMath.java
-1344 src/main/java/org/apache/commons/math/util/FastMath.java
-1345 src/main/java/org/apache/commons/math/util/FastMath.java
-1346 src/main/java/org/apache/commons/math/util/FastMath.java
-1347 src/main/java/org/apache/commons/math/util/FastMath.java
-1348 src/main/java/org/apache/commons/math/util/FastMath.java
-1349 src/main/java/org/apache/commons/math/util/FastMath.java
-1350 src/main/java/org/apache/commons/math/util/FastMath.java
-1351 src/main/java/org/apache/commons/math/util/FastMath.java
-1352 src/main/java/org/apache/commons/math/util/FastMath.java
-1353 src/main/java/org/apache/commons/math/util/FastMath.java
-1354 src/main/java/org/apache/commons/math/util/FastMath.java
-1355 src/main/java/org/apache/commons/math/util/FastMath.java
-1356 src/main/java/org/apache/commons/math/util/FastMath.java
-1357 src/main/java/org/apache/commons/math/util/FastMath.java
-1358 src/main/java/org/apache/commons/math/util/FastMath.java
-162 src/main/java/org/apache/commons/math/complex/Complex.java
-163 src/main/java/org/apache/commons/math/complex/Complex.java
-2978 src/main/java/org/apache/commons/math/util/FastMath.java
-2979 src/main/java/org/apache/commons/math/util/FastMath.java
-2980 src/main/java/org/apache/commons/math/util/FastMath.java
-260 src/main/java/org/apache/commons/math/complex/Complex.java
-264 src/main/java/org/apache/commons/math/complex/Complex.java
-265 src/main/java/org/apache/commons/math/complex/Complex.java
-267 src/main/java/org/apache/commons/math/complex/Complex.java
-419 src/main/java/org/apache/commons/math/complex/Complex.java
-428 src/main/java/org/apache/commons/math/complex/Complex.java
-429 src/main/java/org/apache/commons/math/complex/Complex.java
-493 src/main/java/org/apache/commons/math/complex/Complex.java
-494 src/main/java/org/apache/commons/math/complex/Complex.java
-132 src/main/java/org/apache/commons/math/complex/Complex.java
-133 src/main/java/org/apache/commons/math/complex/Complex.java
-157 src/main/java/org/apache/commons/math/complex/Complex.java
-158 src/main/java/org/apache/commons/math/complex/Complex.java
-129 src/main/java/org/apache/commons/math/complex/Complex.java
-488 src/main/java/org/apache/commons/math/complex/Complex.java
-489 src/main/java/org/apache/commons/math/complex/Complex.java
-750 src/main/java/org/apache/commons/math/complex/Complex.java
-751 src/main/java/org/apache/commons/math/complex/Complex.java
-1256 src/main/java/org/apache/commons/math/util/FastMath.java
-1362 src/main/java/org/apache/commons/math/util/FastMath.java
-1373 src/main/java/org/apache/commons/math/util/FastMath.java
-1375 src/main/java/org/apache/commons/math/util/FastMath.java
-1376 src/main/java/org/apache/commons/math/util/FastMath.java
-1378 src/main/java/org/apache/commons/math/util/FastMath.java
-1379 src/main/java/org/apache/commons/math/util/FastMath.java
-1380 src/main/java/org/apache/commons/math/util/FastMath.java
-1381 src/main/java/org/apache/commons/math/util/FastMath.java
-1382 src/main/java/org/apache/commons/math/util/FastMath.java
-1383 src/main/java/org/apache/commons/math/util/FastMath.java
-1384 src/main/java/org/apache/commons/math/util/FastMath.java
-1385 src/main/java/org/apache/commons/math/util/FastMath.java
-1386 src/main/java/org/apache/commons/math/util/FastMath.java
-1387 src/main/java/org/apache/commons/math/util/FastMath.java
-1388 src/main/java/org/apache/commons/math/util/FastMath.java
-1389 src/main/java/org/apache/commons/math/util/FastMath.java
-1390 src/main/java/org/apache/commons/math/util/FastMath.java
-1391 src/main/java/org/apache/commons/math/util/FastMath.java
-1392 src/main/java/org/apache/commons/math/util/FastMath.java
-1393 src/main/java/org/apache/commons/math/util/FastMath.java
-1394 src/main/java/org/apache/commons/math/util/FastMath.java
-1395 src/main/java/org/apache/commons/math/util/FastMath.java
-1396 src/main/java/org/apache/commons/math/util/FastMath.java
-1397 src/main/java/org/apache/commons/math/util/FastMath.java
-1398 src/main/java/org/apache/commons/math/util/FastMath.java
-1399 src/main/java/org/apache/commons/math/util/FastMath.java
-1400 src/main/java/org/apache/commons/math/util/FastMath.java
-1401 src/main/java/org/apache/commons/math/util/FastMath.java
-1402 src/main/java/org/apache/commons/math/util/FastMath.java
-1403 src/main/java/org/apache/commons/math/util/FastMath.java
-1404 src/main/java/org/apache/commons/math/util/FastMath.java
-1405 src/main/java/org/apache/commons/math/util/FastMath.java
-1406 src/main/java/org/apache/commons/math/util/FastMath.java
-1407 src/main/java/org/apache/commons/math/util/FastMath.java
-1408 src/main/java/org/apache/commons/math/util/FastMath.java
-1409 src/main/java/org/apache/commons/math/util/FastMath.java
-1410 src/main/java/org/apache/commons/math/util/FastMath.java
-1411 src/main/java/org/apache/commons/math/util/FastMath.java
-1412 src/main/java/org/apache/commons/math/util/FastMath.java
-1413 src/main/java/org/apache/commons/math/util/FastMath.java
-1414 src/main/java/org/apache/commons/math/util/FastMath.java
-1415 src/main/java/org/apache/commons/math/util/FastMath.java
-1416 src/main/java/org/apache/commons/math/util/FastMath.java
-1417 src/main/java/org/apache/commons/math/util/FastMath.java
-1418 src/main/java/org/apache/commons/math/util/FastMath.java
-1419 src/main/java/org/apache/commons/math/util/FastMath.java
-1420 src/main/java/org/apache/commons/math/util/FastMath.java
-1421 src/main/java/org/apache/commons/math/util/FastMath.java
-1422 src/main/java/org/apache/commons/math/util/FastMath.java
-1423 src/main/java/org/apache/commons/math/util/FastMath.java
-1424 src/main/java/org/apache/commons/math/util/FastMath.java
-1425 src/main/java/org/apache/commons/math/util/FastMath.java
-1426 src/main/java/org/apache/commons/math/util/FastMath.java
-1452 src/main/java/org/apache/commons/math/util/FastMath.java
-1453 src/main/java/org/apache/commons/math/util/FastMath.java
-1454 src/main/java/org/apache/commons/math/util/FastMath.java
-1455 src/main/java/org/apache/commons/math/util/FastMath.java
-1456 src/main/java/org/apache/commons/math/util/FastMath.java
-1457 src/main/java/org/apache/commons/math/util/FastMath.java
-1459 src/main/java/org/apache/commons/math/util/FastMath.java
-1460 src/main/java/org/apache/commons/math/util/FastMath.java
-1461 src/main/java/org/apache/commons/math/util/FastMath.java
-1462 src/main/java/org/apache/commons/math/util/FastMath.java
-1464 src/main/java/org/apache/commons/math/util/FastMath.java
-1465 src/main/java/org/apache/commons/math/util/FastMath.java
-1466 src/main/java/org/apache/commons/math/util/FastMath.java
-1467 src/main/java/org/apache/commons/math/util/FastMath.java
-1469 src/main/java/org/apache/commons/math/util/FastMath.java
-1470 src/main/java/org/apache/commons/math/util/FastMath.java
-1471 src/main/java/org/apache/commons/math/util/FastMath.java
-1472 src/main/java/org/apache/commons/math/util/FastMath.java
-1474 src/main/java/org/apache/commons/math/util/FastMath.java
-1475 src/main/java/org/apache/commons/math/util/FastMath.java
-1476 src/main/java/org/apache/commons/math/util/FastMath.java
-1477 src/main/java/org/apache/commons/math/util/FastMath.java
-1479 src/main/java/org/apache/commons/math/util/FastMath.java
-1482 src/main/java/org/apache/commons/math/util/FastMath.java
-1484 src/main/java/org/apache/commons/math/util/FastMath.java
-323 src/main/java/org/apache/commons/math/complex/Complex.java
-324 src/main/java/org/apache/commons/math/complex/Complex.java
-421 src/main/java/org/apache/commons/math/complex/Complex.java
-422 src/main/java/org/apache/commons/math/complex/Complex.java
-423 src/main/java/org/apache/commons/math/complex/Complex.java
-424 src/main/java/org/apache/commons/math/complex/Complex.java
-1292 src/main/java/org/apache/commons/math/util/FastMath.java
-1294 src/main/java/org/apache/commons/math/util/FastMath.java
-1295 src/main/java/org/apache/commons/math/util/FastMath.java
-1296 src/main/java/org/apache/commons/math/util/FastMath.java
-1297 src/main/java/org/apache/commons/math/util/FastMath.java
-1298 src/main/java/org/apache/commons/math/util/FastMath.java
-1299 src/main/java/org/apache/commons/math/util/FastMath.java
-1300 src/main/java/org/apache/commons/math/util/FastMath.java
-1301 src/main/java/org/apache/commons/math/util/FastMath.java
-1302 src/main/java/org/apache/commons/math/util/FastMath.java
-1303 src/main/java/org/apache/commons/math/util/FastMath.java
-1304 src/main/java/org/apache/commons/math/util/FastMath.java
-1305 src/main/java/org/apache/commons/math/util/FastMath.java
-1306 src/main/java/org/apache/commons/math/util/FastMath.java
-1307 src/main/java/org/apache/commons/math/util/FastMath.java
-1308 src/main/java/org/apache/commons/math/util/FastMath.java
-1309 src/main/java/org/apache/commons/math/util/FastMath.java
-1310 src/main/java/org/apache/commons/math/util/FastMath.java
-1311 src/main/java/org/apache/commons/math/util/FastMath.java
-1314 src/main/java/org/apache/commons/math/util/FastMath.java
-364 src/main/java/org/apache/commons/math/complex/Complex.java
-355 src/main/java/org/apache/commons/math/complex/Complex.java
-322 src/main/java/org/apache/commons/math/complex/Complex.java
-326 src/main/java/org/apache/commons/math/complex/Complex.java
-327 src/main/java/org/apache/commons/math/complex/Complex.java
-328 src/main/java/org/apache/commons/math/complex/Complex.java
-329 src/main/java/org/apache/commons/math/complex/Complex.java
-1269 src/main/java/org/apache/commons/math/util/FastMath.java
-1272 src/main/java/org/apache/commons/math/util/FastMath.java
-1283 src/main/java/org/apache/commons/math/util/FastMath.java
-1285 src/main/java/org/apache/commons/math/util/FastMath.java
-1286 src/main/java/org/apache/commons/math/util/FastMath.java
-1287 src/main/java/org/apache/commons/math/util/FastMath.java
-1288 src/main/java/org/apache/commons/math/util/FastMath.java
-1289 src/main/java/org/apache/commons/math/util/FastMath.java
-1266 src/main/java/org/apache/commons/math/util/FastMath.java
-746 src/main/java/org/apache/commons/math/complex/Complex.java
-2977 src/main/java/org/apache/commons/math/util/FastMath.java
-2981 src/main/java/org/apache/commons/math/util/FastMath.java
-2982 src/main/java/org/apache/commons/math/util/FastMath.java
-2983 src/main/java/org/apache/commons/math/util/FastMath.java
-2984 src/main/java/org/apache/commons/math/util/FastMath.java
-2985 src/main/java/org/apache/commons/math/util/FastMath.java
-2986 src/main/java/org/apache/commons/math/util/FastMath.java
-2987 src/main/java/org/apache/commons/math/util/FastMath.java
-2988 src/main/java/org/apache/commons/math/util/FastMath.java
-2989 src/main/java/org/apache/commons/math/util/FastMath.java
-2990 src/main/java/org/apache/commons/math/util/FastMath.java
-2991 src/main/java/org/apache/commons/math/util/FastMath.java
-2992 src/main/java/org/apache/commons/math/util/FastMath.java
-2993 src/main/java/org/apache/commons/math/util/FastMath.java
-2994 src/main/java/org/apache/commons/math/util/FastMath.java
-2995 src/main/java/org/apache/commons/math/util/FastMath.java
-2996 src/main/java/org/apache/commons/math/util/FastMath.java
-2997 src/main/java/org/apache/commons/math/util/FastMath.java
-2998 src/main/java/org/apache/commons/math/util/FastMath.java
-2999 src/main/java/org/apache/commons/math/util/FastMath.java
-2973 src/main/java/org/apache/commons/math/util/FastMath.java
-99 src/main/java/org/apache/commons/math/complex/Complex.java
-100 src/main/java/org/apache/commons/math/complex/Complex.java
-102 src/main/java/org/apache/commons/math/complex/Complex.java
-103 src/main/java/org/apache/commons/math/complex/Complex.java
-104 src/main/java/org/apache/commons/math/complex/Complex.java
-417 src/main/java/org/apache/commons/math/complex/Complex.java
-418 src/main/java/org/apache/commons/math/complex/Complex.java
-122 src/main/java/org/apache/commons/math/complex/Complex.java
-124 src/main/java/org/apache/commons/math/complex/Complex.java
-125 src/main/java/org/apache/commons/math/complex/Complex.java
-126 src/main/java/org/apache/commons/math/complex/Complex.java
-127 src/main/java/org/apache/commons/math/complex/Complex.java
-128 src/main/java/org/apache/commons/math/complex/Complex.java
-302 src/main/java/org/apache/commons/math/util/FastMath.java
-319 src/main/java/org/apache/commons/math/complex/Complex.java
-119 src/main/java/org/apache/commons/math/complex/Complex.java
-116 src/main/java/org/apache/commons/math/complex/Complex.java
-3410 src/main/java/org/apache/commons/math/util/FastMath.java
-388 src/main/java/org/apache/commons/math/complex/Complex.java
-1127 src/main/java/org/apache/commons/math/complex/Complex.java
-89 src/main/java/org/apache/commons/math/complex/Complex.java
-117 src/main/java/org/apache/commons/math/complex/Complex.java
-120 src/main/java/org/apache/commons/math/complex/Complex.java
-123 src/main/java/org/apache/commons/math/complex/Complex.java
-130 src/main/java/org/apache/commons/math/complex/Complex.java
-159 src/main/java/org/apache/commons/math/complex/Complex.java
-175 src/main/java/org/apache/commons/math/complex/Complex.java
-176 src/main/java/org/apache/commons/math/complex/Complex.java
-179 src/main/java/org/apache/commons/math/complex/Complex.java
-197 src/main/java/org/apache/commons/math/complex/Complex.java
-198 src/main/java/org/apache/commons/math/complex/Complex.java
-201 src/main/java/org/apache/commons/math/complex/Complex.java
-253 src/main/java/org/apache/commons/math/complex/Complex.java
-261 src/main/java/org/apache/commons/math/complex/Complex.java
-289 src/main/java/org/apache/commons/math/complex/Complex.java
-290 src/main/java/org/apache/commons/math/complex/Complex.java
-292 src/main/java/org/apache/commons/math/complex/Complex.java
-293 src/main/java/org/apache/commons/math/complex/Complex.java
-295 src/main/java/org/apache/commons/math/complex/Complex.java
-296 src/main/java/org/apache/commons/math/complex/Complex.java
-298 src/main/java/org/apache/commons/math/complex/Complex.java
-299 src/main/java/org/apache/commons/math/complex/Complex.java
-320 src/main/java/org/apache/commons/math/complex/Complex.java
-325 src/main/java/org/apache/commons/math/complex/Complex.java
-330 src/main/java/org/apache/commons/math/complex/Complex.java
-342 src/main/java/org/apache/commons/math/complex/Complex.java
-343 src/main/java/org/apache/commons/math/complex/Complex.java
-345 src/main/java/org/apache/commons/math/complex/Complex.java
-346 src/main/java/org/apache/commons/math/complex/Complex.java
-375 src/main/java/org/apache/commons/math/complex/Complex.java
-426 src/main/java/org/apache/commons/math/complex/Complex.java
-441 src/main/java/org/apache/commons/math/complex/Complex.java
-442 src/main/java/org/apache/commons/math/complex/Complex.java
-444 src/main/java/org/apache/commons/math/complex/Complex.java
-445 src/main/java/org/apache/commons/math/complex/Complex.java
-446 src/main/java/org/apache/commons/math/complex/Complex.java
-448 src/main/java/org/apache/commons/math/complex/Complex.java
-450 src/main/java/org/apache/commons/math/complex/Complex.java
-461 src/main/java/org/apache/commons/math/complex/Complex.java
-462 src/main/java/org/apache/commons/math/complex/Complex.java
-465 src/main/java/org/apache/commons/math/complex/Complex.java
-490 src/main/java/org/apache/commons/math/complex/Complex.java
-506 src/main/java/org/apache/commons/math/complex/Complex.java
-507 src/main/java/org/apache/commons/math/complex/Complex.java
-509 src/main/java/org/apache/commons/math/complex/Complex.java
-529 src/main/java/org/apache/commons/math/complex/Complex.java
-530 src/main/java/org/apache/commons/math/complex/Complex.java
-533 src/main/java/org/apache/commons/math/complex/Complex.java
-534 src/main/java/org/apache/commons/math/complex/Complex.java
-554 src/main/java/org/apache/commons/math/complex/Complex.java
-555 src/main/java/org/apache/commons/math/complex/Complex.java
-558 src/main/java/org/apache/commons/math/complex/Complex.java
-559 src/main/java/org/apache/commons/math/complex/Complex.java
-580 src/main/java/org/apache/commons/math/complex/Complex.java
-620 src/main/java/org/apache/commons/math/complex/Complex.java
-621 src/main/java/org/apache/commons/math/complex/Complex.java
-624 src/main/java/org/apache/commons/math/complex/Complex.java
-625 src/main/java/org/apache/commons/math/complex/Complex.java
-660 src/main/java/org/apache/commons/math/complex/Complex.java
-661 src/main/java/org/apache/commons/math/complex/Complex.java
-664 src/main/java/org/apache/commons/math/complex/Complex.java
-665 src/main/java/org/apache/commons/math/complex/Complex.java
-701 src/main/java/org/apache/commons/math/complex/Complex.java
-702 src/main/java/org/apache/commons/math/complex/Complex.java
-705 src/main/java/org/apache/commons/math/complex/Complex.java
-706 src/main/java/org/apache/commons/math/complex/Complex.java
-707 src/main/java/org/apache/commons/math/complex/Complex.java
-776 src/main/java/org/apache/commons/math/complex/Complex.java
-777 src/main/java/org/apache/commons/math/complex/Complex.java
-788 src/main/java/org/apache/commons/math/complex/Complex.java
-824 src/main/java/org/apache/commons/math/complex/Complex.java
-825 src/main/java/org/apache/commons/math/complex/Complex.java
-828 src/main/java/org/apache/commons/math/complex/Complex.java
-829 src/main/java/org/apache/commons/math/complex/Complex.java
-864 src/main/java/org/apache/commons/math/complex/Complex.java
-865 src/main/java/org/apache/commons/math/complex/Complex.java
-868 src/main/java/org/apache/commons/math/complex/Complex.java
-869 src/main/java/org/apache/commons/math/complex/Complex.java
-907 src/main/java/org/apache/commons/math/complex/Complex.java
-908 src/main/java/org/apache/commons/math/complex/Complex.java
-911 src/main/java/org/apache/commons/math/complex/Complex.java
-915 src/main/java/org/apache/commons/math/complex/Complex.java
-916 src/main/java/org/apache/commons/math/complex/Complex.java
-917 src/main/java/org/apache/commons/math/complex/Complex.java
-919 src/main/java/org/apache/commons/math/complex/Complex.java
-920 src/main/java/org/apache/commons/math/complex/Complex.java
-942 src/main/java/org/apache/commons/math/complex/Complex.java
-978 src/main/java/org/apache/commons/math/complex/Complex.java
-979 src/main/java/org/apache/commons/math/complex/Complex.java
-982 src/main/java/org/apache/commons/math/complex/Complex.java
-983 src/main/java/org/apache/commons/math/complex/Complex.java
-984 src/main/java/org/apache/commons/math/complex/Complex.java
-986 src/main/java/org/apache/commons/math/complex/Complex.java
-987 src/main/java/org/apache/commons/math/complex/Complex.java
-1023 src/main/java/org/apache/commons/math/complex/Complex.java
-1024 src/main/java/org/apache/commons/math/complex/Complex.java
-1027 src/main/java/org/apache/commons/math/complex/Complex.java
-1028 src/main/java/org/apache/commons/math/complex/Complex.java
-1029 src/main/java/org/apache/commons/math/complex/Complex.java
-1031 src/main/java/org/apache/commons/math/complex/Complex.java
-1032 src/main/java/org/apache/commons/math/complex/Complex.java
-1055 src/main/java/org/apache/commons/math/complex/Complex.java
-1082 src/main/java/org/apache/commons/math/complex/Complex.java
-1087 src/main/java/org/apache/commons/math/complex/Complex.java
-1089 src/main/java/org/apache/commons/math/complex/Complex.java
-1090 src/main/java/org/apache/commons/math/complex/Complex.java
-1091 src/main/java/org/apache/commons/math/complex/Complex.java
-1092 src/main/java/org/apache/commons/math/complex/Complex.java
-1093 src/main/java/org/apache/commons/math/complex/Complex.java
-1094 src/main/java/org/apache/commons/math/complex/Complex.java
-1095 src/main/java/org/apache/commons/math/complex/Complex.java
-1096 src/main/java/org/apache/commons/math/complex/Complex.java
-1099 src/main/java/org/apache/commons/math/complex/Complex.java
-1102 src/main/java/org/apache/commons/math/complex/Complex.java
-1103 src/main/java/org/apache/commons/math/complex/Complex.java
-1104 src/main/java/org/apache/commons/math/complex/Complex.java
-1105 src/main/java/org/apache/commons/math/complex/Complex.java
-1106 src/main/java/org/apache/commons/math/complex/Complex.java
-1107 src/main/java/org/apache/commons/math/complex/Complex.java
-1108 src/main/java/org/apache/commons/math/complex/Complex.java
-1109 src/main/java/org/apache/commons/math/complex/Complex.java
-1110 src/main/java/org/apache/commons/math/complex/Complex.java
-1111 src/main/java/org/apache/commons/math/complex/Complex.java
-1113 src/main/java/org/apache/commons/math/complex/Complex.java
-1168 src/main/java/org/apache/commons/math/complex/Complex.java
-233 src/main/java/org/apache/commons/math/util/FastMath.java
-234 src/main/java/org/apache/commons/math/util/FastMath.java
-235 src/main/java/org/apache/commons/math/util/FastMath.java
-238 src/main/java/org/apache/commons/math/util/FastMath.java
-239 src/main/java/org/apache/commons/math/util/FastMath.java
-242 src/main/java/org/apache/commons/math/util/FastMath.java
-243 src/main/java/org/apache/commons/math/util/FastMath.java
-244 src/main/java/org/apache/commons/math/util/FastMath.java
-245 src/main/java/org/apache/commons/math/util/FastMath.java
-246 src/main/java/org/apache/commons/math/util/FastMath.java
-247 src/main/java/org/apache/commons/math/util/FastMath.java
-248 src/main/java/org/apache/commons/math/util/FastMath.java
-249 src/main/java/org/apache/commons/math/util/FastMath.java
-250 src/main/java/org/apache/commons/math/util/FastMath.java
-251 src/main/java/org/apache/commons/math/util/FastMath.java
-252 src/main/java/org/apache/commons/math/util/FastMath.java
-253 src/main/java/org/apache/commons/math/util/FastMath.java
-256 src/main/java/org/apache/commons/math/util/FastMath.java
-257 src/main/java/org/apache/commons/math/util/FastMath.java
-258 src/main/java/org/apache/commons/math/util/FastMath.java
-259 src/main/java/org/apache/commons/math/util/FastMath.java
-260 src/main/java/org/apache/commons/math/util/FastMath.java
-263 src/main/java/org/apache/commons/math/util/FastMath.java
-264 src/main/java/org/apache/commons/math/util/FastMath.java
-265 src/main/java/org/apache/commons/math/util/FastMath.java
-266 src/main/java/org/apache/commons/math/util/FastMath.java
-269 src/main/java/org/apache/commons/math/util/FastMath.java
-288 src/main/java/org/apache/commons/math/util/FastMath.java
-291 src/main/java/org/apache/commons/math/util/FastMath.java
-292 src/main/java/org/apache/commons/math/util/FastMath.java
-293 src/main/java/org/apache/commons/math/util/FastMath.java
-722 src/main/java/org/apache/commons/math/util/FastMath.java
-741 src/main/java/org/apache/commons/math/util/FastMath.java
-742 src/main/java/org/apache/commons/math/util/FastMath.java
-743 src/main/java/org/apache/commons/math/util/FastMath.java
-744 src/main/java/org/apache/commons/math/util/FastMath.java
-745 src/main/java/org/apache/commons/math/util/FastMath.java
-746 src/main/java/org/apache/commons/math/util/FastMath.java
-747 src/main/java/org/apache/commons/math/util/FastMath.java
-748 src/main/java/org/apache/commons/math/util/FastMath.java
-749 src/main/java/org/apache/commons/math/util/FastMath.java
-750 src/main/java/org/apache/commons/math/util/FastMath.java
-751 src/main/java/org/apache/commons/math/util/FastMath.java
-752 src/main/java/org/apache/commons/math/util/FastMath.java
-753 src/main/java/org/apache/commons/math/util/FastMath.java
-754 src/main/java/org/apache/commons/math/util/FastMath.java
-755 src/main/java/org/apache/commons/math/util/FastMath.java
-756 src/main/java/org/apache/commons/math/util/FastMath.java
-757 src/main/java/org/apache/commons/math/util/FastMath.java
-758 src/main/java/org/apache/commons/math/util/FastMath.java
-759 src/main/java/org/apache/commons/math/util/FastMath.java
-760 src/main/java/org/apache/commons/math/util/FastMath.java
-761 src/main/java/org/apache/commons/math/util/FastMath.java
-762 src/main/java/org/apache/commons/math/util/FastMath.java
-763 src/main/java/org/apache/commons/math/util/FastMath.java
-764 src/main/java/org/apache/commons/math/util/FastMath.java
-765 src/main/java/org/apache/commons/math/util/FastMath.java
-766 src/main/java/org/apache/commons/math/util/FastMath.java
-767 src/main/java/org/apache/commons/math/util/FastMath.java
-768 src/main/java/org/apache/commons/math/util/FastMath.java
-769 src/main/java/org/apache/commons/math/util/FastMath.java
-770 src/main/java/org/apache/commons/math/util/FastMath.java
-771 src/main/java/org/apache/commons/math/util/FastMath.java
-772 src/main/java/org/apache/commons/math/util/FastMath.java
-773 src/main/java/org/apache/commons/math/util/FastMath.java
-774 src/main/java/org/apache/commons/math/util/FastMath.java
-775 src/main/java/org/apache/commons/math/util/FastMath.java
-776 src/main/java/org/apache/commons/math/util/FastMath.java
-777 src/main/java/org/apache/commons/math/util/FastMath.java
-778 src/main/java/org/apache/commons/math/util/FastMath.java
-779 src/main/java/org/apache/commons/math/util/FastMath.java
-781 src/main/java/org/apache/commons/math/util/FastMath.java
-782 src/main/java/org/apache/commons/math/util/FastMath.java
-783 src/main/java/org/apache/commons/math/util/FastMath.java
-784 src/main/java/org/apache/commons/math/util/FastMath.java
-785 src/main/java/org/apache/commons/math/util/FastMath.java
-786 src/main/java/org/apache/commons/math/util/FastMath.java
-787 src/main/java/org/apache/commons/math/util/FastMath.java
-789 src/main/java/org/apache/commons/math/util/FastMath.java
-790 src/main/java/org/apache/commons/math/util/FastMath.java
-797 src/main/java/org/apache/commons/math/util/FastMath.java
-798 src/main/java/org/apache/commons/math/util/FastMath.java
-799 src/main/java/org/apache/commons/math/util/FastMath.java
-805 src/main/java/org/apache/commons/math/util/FastMath.java
-814 src/main/java/org/apache/commons/math/util/FastMath.java
-815 src/main/java/org/apache/commons/math/util/FastMath.java
-816 src/main/java/org/apache/commons/math/util/FastMath.java
-817 src/main/java/org/apache/commons/math/util/FastMath.java
-818 src/main/java/org/apache/commons/math/util/FastMath.java
-825 src/main/java/org/apache/commons/math/util/FastMath.java
-826 src/main/java/org/apache/commons/math/util/FastMath.java
-832 src/main/java/org/apache/commons/math/util/FastMath.java
-834 src/main/java/org/apache/commons/math/util/FastMath.java
-835 src/main/java/org/apache/commons/math/util/FastMath.java
-837 src/main/java/org/apache/commons/math/util/FastMath.java
-840 src/main/java/org/apache/commons/math/util/FastMath.java
-841 src/main/java/org/apache/commons/math/util/FastMath.java
-842 src/main/java/org/apache/commons/math/util/FastMath.java
-843 src/main/java/org/apache/commons/math/util/FastMath.java
-844 src/main/java/org/apache/commons/math/util/FastMath.java
-846 src/main/java/org/apache/commons/math/util/FastMath.java
-1012 src/main/java/org/apache/commons/math/util/FastMath.java
-1013 src/main/java/org/apache/commons/math/util/FastMath.java
-1014 src/main/java/org/apache/commons/math/util/FastMath.java
-1015 src/main/java/org/apache/commons/math/util/FastMath.java
-1016 src/main/java/org/apache/commons/math/util/FastMath.java
-1017 src/main/java/org/apache/commons/math/util/FastMath.java
-1019 src/main/java/org/apache/commons/math/util/FastMath.java
-1020 src/main/java/org/apache/commons/math/util/FastMath.java
-1021 src/main/java/org/apache/commons/math/util/FastMath.java
-1022 src/main/java/org/apache/commons/math/util/FastMath.java
-1023 src/main/java/org/apache/commons/math/util/FastMath.java
-1024 src/main/java/org/apache/commons/math/util/FastMath.java
-1025 src/main/java/org/apache/commons/math/util/FastMath.java
-1026 src/main/java/org/apache/commons/math/util/FastMath.java
-1027 src/main/java/org/apache/commons/math/util/FastMath.java
-1028 src/main/java/org/apache/commons/math/util/FastMath.java
-1029 src/main/java/org/apache/commons/math/util/FastMath.java
-1030 src/main/java/org/apache/commons/math/util/FastMath.java
-1032 src/main/java/org/apache/commons/math/util/FastMath.java
-1033 src/main/java/org/apache/commons/math/util/FastMath.java
-1034 src/main/java/org/apache/commons/math/util/FastMath.java
-1035 src/main/java/org/apache/commons/math/util/FastMath.java
-1037 src/main/java/org/apache/commons/math/util/FastMath.java
-1046 src/main/java/org/apache/commons/math/util/FastMath.java
-1047 src/main/java/org/apache/commons/math/util/FastMath.java
-1048 src/main/java/org/apache/commons/math/util/FastMath.java
-1049 src/main/java/org/apache/commons/math/util/FastMath.java
-1050 src/main/java/org/apache/commons/math/util/FastMath.java
-1051 src/main/java/org/apache/commons/math/util/FastMath.java
-1052 src/main/java/org/apache/commons/math/util/FastMath.java
-1053 src/main/java/org/apache/commons/math/util/FastMath.java
-1054 src/main/java/org/apache/commons/math/util/FastMath.java
-1062 src/main/java/org/apache/commons/math/util/FastMath.java
-1063 src/main/java/org/apache/commons/math/util/FastMath.java
-1065 src/main/java/org/apache/commons/math/util/FastMath.java
-1066 src/main/java/org/apache/commons/math/util/FastMath.java
-1067 src/main/java/org/apache/commons/math/util/FastMath.java
-1068 src/main/java/org/apache/commons/math/util/FastMath.java
-1069 src/main/java/org/apache/commons/math/util/FastMath.java
-1070 src/main/java/org/apache/commons/math/util/FastMath.java
-1071 src/main/java/org/apache/commons/math/util/FastMath.java
-1072 src/main/java/org/apache/commons/math/util/FastMath.java
-1073 src/main/java/org/apache/commons/math/util/FastMath.java
-1082 src/main/java/org/apache/commons/math/util/FastMath.java
-1083 src/main/java/org/apache/commons/math/util/FastMath.java
-1086 src/main/java/org/apache/commons/math/util/FastMath.java
-1095 src/main/java/org/apache/commons/math/util/FastMath.java
-1096 src/main/java/org/apache/commons/math/util/FastMath.java
-1098 src/main/java/org/apache/commons/math/util/FastMath.java
-1123 src/main/java/org/apache/commons/math/util/FastMath.java
-1124 src/main/java/org/apache/commons/math/util/FastMath.java
-1125 src/main/java/org/apache/commons/math/util/FastMath.java
-1126 src/main/java/org/apache/commons/math/util/FastMath.java
-1128 src/main/java/org/apache/commons/math/util/FastMath.java
-1129 src/main/java/org/apache/commons/math/util/FastMath.java
-1131 src/main/java/org/apache/commons/math/util/FastMath.java
-1132 src/main/java/org/apache/commons/math/util/FastMath.java
-1136 src/main/java/org/apache/commons/math/util/FastMath.java
-1138 src/main/java/org/apache/commons/math/util/FastMath.java
-1139 src/main/java/org/apache/commons/math/util/FastMath.java
-1140 src/main/java/org/apache/commons/math/util/FastMath.java
-1141 src/main/java/org/apache/commons/math/util/FastMath.java
-1142 src/main/java/org/apache/commons/math/util/FastMath.java
-1143 src/main/java/org/apache/commons/math/util/FastMath.java
-1144 src/main/java/org/apache/commons/math/util/FastMath.java
-1145 src/main/java/org/apache/commons/math/util/FastMath.java
-1146 src/main/java/org/apache/commons/math/util/FastMath.java
-1155 src/main/java/org/apache/commons/math/util/FastMath.java
-1156 src/main/java/org/apache/commons/math/util/FastMath.java
-1157 src/main/java/org/apache/commons/math/util/FastMath.java
-1160 src/main/java/org/apache/commons/math/util/FastMath.java
-1161 src/main/java/org/apache/commons/math/util/FastMath.java
-1162 src/main/java/org/apache/commons/math/util/FastMath.java
-1164 src/main/java/org/apache/commons/math/util/FastMath.java
-1165 src/main/java/org/apache/commons/math/util/FastMath.java
-1168 src/main/java/org/apache/commons/math/util/FastMath.java
-1169 src/main/java/org/apache/commons/math/util/FastMath.java
-1171 src/main/java/org/apache/commons/math/util/FastMath.java
-1172 src/main/java/org/apache/commons/math/util/FastMath.java
-1173 src/main/java/org/apache/commons/math/util/FastMath.java
-1174 src/main/java/org/apache/commons/math/util/FastMath.java
-1175 src/main/java/org/apache/commons/math/util/FastMath.java
-1176 src/main/java/org/apache/commons/math/util/FastMath.java
-1179 src/main/java/org/apache/commons/math/util/FastMath.java
-1180 src/main/java/org/apache/commons/math/util/FastMath.java
-1181 src/main/java/org/apache/commons/math/util/FastMath.java
-1183 src/main/java/org/apache/commons/math/util/FastMath.java
-1184 src/main/java/org/apache/commons/math/util/FastMath.java
-1185 src/main/java/org/apache/commons/math/util/FastMath.java
-1186 src/main/java/org/apache/commons/math/util/FastMath.java
-1187 src/main/java/org/apache/commons/math/util/FastMath.java
-1188 src/main/java/org/apache/commons/math/util/FastMath.java
-1191 src/main/java/org/apache/commons/math/util/FastMath.java
-1192 src/main/java/org/apache/commons/math/util/FastMath.java
-1193 src/main/java/org/apache/commons/math/util/FastMath.java
-1195 src/main/java/org/apache/commons/math/util/FastMath.java
-1196 src/main/java/org/apache/commons/math/util/FastMath.java
-1197 src/main/java/org/apache/commons/math/util/FastMath.java
-1198 src/main/java/org/apache/commons/math/util/FastMath.java
-1199 src/main/java/org/apache/commons/math/util/FastMath.java
-1200 src/main/java/org/apache/commons/math/util/FastMath.java
-1210 src/main/java/org/apache/commons/math/util/FastMath.java
-1211 src/main/java/org/apache/commons/math/util/FastMath.java
-1212 src/main/java/org/apache/commons/math/util/FastMath.java
-1221 src/main/java/org/apache/commons/math/util/FastMath.java
-1222 src/main/java/org/apache/commons/math/util/FastMath.java
-1224 src/main/java/org/apache/commons/math/util/FastMath.java
-1226 src/main/java/org/apache/commons/math/util/FastMath.java
-1227 src/main/java/org/apache/commons/math/util/FastMath.java
-1228 src/main/java/org/apache/commons/math/util/FastMath.java
-1229 src/main/java/org/apache/commons/math/util/FastMath.java
-1230 src/main/java/org/apache/commons/math/util/FastMath.java
-1231 src/main/java/org/apache/commons/math/util/FastMath.java
-1232 src/main/java/org/apache/commons/math/util/FastMath.java
-1233 src/main/java/org/apache/commons/math/util/FastMath.java
-1234 src/main/java/org/apache/commons/math/util/FastMath.java
-1235 src/main/java/org/apache/commons/math/util/FastMath.java
-1236 src/main/java/org/apache/commons/math/util/FastMath.java
-1238 src/main/java/org/apache/commons/math/util/FastMath.java
-1239 src/main/java/org/apache/commons/math/util/FastMath.java
-1240 src/main/java/org/apache/commons/math/util/FastMath.java
-1241 src/main/java/org/apache/commons/math/util/FastMath.java
-1242 src/main/java/org/apache/commons/math/util/FastMath.java
-1243 src/main/java/org/apache/commons/math/util/FastMath.java
-1245 src/main/java/org/apache/commons/math/util/FastMath.java
-1267 src/main/java/org/apache/commons/math/util/FastMath.java
-1284 src/main/java/org/apache/commons/math/util/FastMath.java
-1427 src/main/java/org/apache/commons/math/util/FastMath.java
-1428 src/main/java/org/apache/commons/math/util/FastMath.java
-1429 src/main/java/org/apache/commons/math/util/FastMath.java
-1430 src/main/java/org/apache/commons/math/util/FastMath.java
-1431 src/main/java/org/apache/commons/math/util/FastMath.java
-1432 src/main/java/org/apache/commons/math/util/FastMath.java
-1433 src/main/java/org/apache/commons/math/util/FastMath.java
-1434 src/main/java/org/apache/commons/math/util/FastMath.java
-1435 src/main/java/org/apache/commons/math/util/FastMath.java
-1436 src/main/java/org/apache/commons/math/util/FastMath.java
-1480 src/main/java/org/apache/commons/math/util/FastMath.java
-1481 src/main/java/org/apache/commons/math/util/FastMath.java
-1560 src/main/java/org/apache/commons/math/util/FastMath.java
-1562 src/main/java/org/apache/commons/math/util/FastMath.java
-1566 src/main/java/org/apache/commons/math/util/FastMath.java
-1571 src/main/java/org/apache/commons/math/util/FastMath.java
-1572 src/main/java/org/apache/commons/math/util/FastMath.java
-1573 src/main/java/org/apache/commons/math/util/FastMath.java
-1574 src/main/java/org/apache/commons/math/util/FastMath.java
-1575 src/main/java/org/apache/commons/math/util/FastMath.java
-1576 src/main/java/org/apache/commons/math/util/FastMath.java
-1577 src/main/java/org/apache/commons/math/util/FastMath.java
-1578 src/main/java/org/apache/commons/math/util/FastMath.java
-1579 src/main/java/org/apache/commons/math/util/FastMath.java
-1580 src/main/java/org/apache/commons/math/util/FastMath.java
-1581 src/main/java/org/apache/commons/math/util/FastMath.java
-1582 src/main/java/org/apache/commons/math/util/FastMath.java
-1583 src/main/java/org/apache/commons/math/util/FastMath.java
-1584 src/main/java/org/apache/commons/math/util/FastMath.java
-1585 src/main/java/org/apache/commons/math/util/FastMath.java
-1586 src/main/java/org/apache/commons/math/util/FastMath.java
-1587 src/main/java/org/apache/commons/math/util/FastMath.java
-1588 src/main/java/org/apache/commons/math/util/FastMath.java
-1589 src/main/java/org/apache/commons/math/util/FastMath.java
-1590 src/main/java/org/apache/commons/math/util/FastMath.java
-1591 src/main/java/org/apache/commons/math/util/FastMath.java
-1592 src/main/java/org/apache/commons/math/util/FastMath.java
-1593 src/main/java/org/apache/commons/math/util/FastMath.java
-1594 src/main/java/org/apache/commons/math/util/FastMath.java
-1595 src/main/java/org/apache/commons/math/util/FastMath.java
-1596 src/main/java/org/apache/commons/math/util/FastMath.java
-1597 src/main/java/org/apache/commons/math/util/FastMath.java
-1598 src/main/java/org/apache/commons/math/util/FastMath.java
-1600 src/main/java/org/apache/commons/math/util/FastMath.java
-1601 src/main/java/org/apache/commons/math/util/FastMath.java
-1602 src/main/java/org/apache/commons/math/util/FastMath.java
-1603 src/main/java/org/apache/commons/math/util/FastMath.java
-1604 src/main/java/org/apache/commons/math/util/FastMath.java
-1605 src/main/java/org/apache/commons/math/util/FastMath.java
-1606 src/main/java/org/apache/commons/math/util/FastMath.java
-1607 src/main/java/org/apache/commons/math/util/FastMath.java
-1608 src/main/java/org/apache/commons/math/util/FastMath.java
-1609 src/main/java/org/apache/commons/math/util/FastMath.java
-1611 src/main/java/org/apache/commons/math/util/FastMath.java
-1612 src/main/java/org/apache/commons/math/util/FastMath.java
-1613 src/main/java/org/apache/commons/math/util/FastMath.java
-1614 src/main/java/org/apache/commons/math/util/FastMath.java
-1615 src/main/java/org/apache/commons/math/util/FastMath.java
-1616 src/main/java/org/apache/commons/math/util/FastMath.java
-1617 src/main/java/org/apache/commons/math/util/FastMath.java
-1618 src/main/java/org/apache/commons/math/util/FastMath.java
-1619 src/main/java/org/apache/commons/math/util/FastMath.java
-1620 src/main/java/org/apache/commons/math/util/FastMath.java
-1621 src/main/java/org/apache/commons/math/util/FastMath.java
-1623 src/main/java/org/apache/commons/math/util/FastMath.java
-1624 src/main/java/org/apache/commons/math/util/FastMath.java
-1625 src/main/java/org/apache/commons/math/util/FastMath.java
-1626 src/main/java/org/apache/commons/math/util/FastMath.java
-1627 src/main/java/org/apache/commons/math/util/FastMath.java
-1628 src/main/java/org/apache/commons/math/util/FastMath.java
-1629 src/main/java/org/apache/commons/math/util/FastMath.java
-1630 src/main/java/org/apache/commons/math/util/FastMath.java
-1631 src/main/java/org/apache/commons/math/util/FastMath.java
-1632 src/main/java/org/apache/commons/math/util/FastMath.java
-1633 src/main/java/org/apache/commons/math/util/FastMath.java
-1634 src/main/java/org/apache/commons/math/util/FastMath.java
-1635 src/main/java/org/apache/commons/math/util/FastMath.java
-1636 src/main/java/org/apache/commons/math/util/FastMath.java
-1637 src/main/java/org/apache/commons/math/util/FastMath.java
-1638 src/main/java/org/apache/commons/math/util/FastMath.java
-1639 src/main/java/org/apache/commons/math/util/FastMath.java
-1640 src/main/java/org/apache/commons/math/util/FastMath.java
-1641 src/main/java/org/apache/commons/math/util/FastMath.java
-1642 src/main/java/org/apache/commons/math/util/FastMath.java
-1643 src/main/java/org/apache/commons/math/util/FastMath.java
-1644 src/main/java/org/apache/commons/math/util/FastMath.java
-1645 src/main/java/org/apache/commons/math/util/FastMath.java
-1647 src/main/java/org/apache/commons/math/util/FastMath.java
-1648 src/main/java/org/apache/commons/math/util/FastMath.java
-1649 src/main/java/org/apache/commons/math/util/FastMath.java
-1650 src/main/java/org/apache/commons/math/util/FastMath.java
-1651 src/main/java/org/apache/commons/math/util/FastMath.java
-1652 src/main/java/org/apache/commons/math/util/FastMath.java
-1653 src/main/java/org/apache/commons/math/util/FastMath.java
-1654 src/main/java/org/apache/commons/math/util/FastMath.java
-1655 src/main/java/org/apache/commons/math/util/FastMath.java
-1656 src/main/java/org/apache/commons/math/util/FastMath.java
-1657 src/main/java/org/apache/commons/math/util/FastMath.java
-1658 src/main/java/org/apache/commons/math/util/FastMath.java
-1661 src/main/java/org/apache/commons/math/util/FastMath.java
-1662 src/main/java/org/apache/commons/math/util/FastMath.java
-1663 src/main/java/org/apache/commons/math/util/FastMath.java
-1664 src/main/java/org/apache/commons/math/util/FastMath.java
-1665 src/main/java/org/apache/commons/math/util/FastMath.java
-1666 src/main/java/org/apache/commons/math/util/FastMath.java
-1667 src/main/java/org/apache/commons/math/util/FastMath.java
-1668 src/main/java/org/apache/commons/math/util/FastMath.java
-1669 src/main/java/org/apache/commons/math/util/FastMath.java
-1670 src/main/java/org/apache/commons/math/util/FastMath.java
-1671 src/main/java/org/apache/commons/math/util/FastMath.java
-1672 src/main/java/org/apache/commons/math/util/FastMath.java
-1673 src/main/java/org/apache/commons/math/util/FastMath.java
-1678 src/main/java/org/apache/commons/math/util/FastMath.java
-1679 src/main/java/org/apache/commons/math/util/FastMath.java
-1680 src/main/java/org/apache/commons/math/util/FastMath.java
-1681 src/main/java/org/apache/commons/math/util/FastMath.java
-1682 src/main/java/org/apache/commons/math/util/FastMath.java
-1683 src/main/java/org/apache/commons/math/util/FastMath.java
-1684 src/main/java/org/apache/commons/math/util/FastMath.java
-1685 src/main/java/org/apache/commons/math/util/FastMath.java
-1686 src/main/java/org/apache/commons/math/util/FastMath.java
-1687 src/main/java/org/apache/commons/math/util/FastMath.java
-1690 src/main/java/org/apache/commons/math/util/FastMath.java
-1691 src/main/java/org/apache/commons/math/util/FastMath.java
-1695 src/main/java/org/apache/commons/math/util/FastMath.java
-1696 src/main/java/org/apache/commons/math/util/FastMath.java
-1699 src/main/java/org/apache/commons/math/util/FastMath.java
-1700 src/main/java/org/apache/commons/math/util/FastMath.java
-1701 src/main/java/org/apache/commons/math/util/FastMath.java
-1702 src/main/java/org/apache/commons/math/util/FastMath.java
-1705 src/main/java/org/apache/commons/math/util/FastMath.java
-1706 src/main/java/org/apache/commons/math/util/FastMath.java
-1708 src/main/java/org/apache/commons/math/util/FastMath.java
-1709 src/main/java/org/apache/commons/math/util/FastMath.java
-1711 src/main/java/org/apache/commons/math/util/FastMath.java
-1712 src/main/java/org/apache/commons/math/util/FastMath.java
-1713 src/main/java/org/apache/commons/math/util/FastMath.java
-1714 src/main/java/org/apache/commons/math/util/FastMath.java
-1715 src/main/java/org/apache/commons/math/util/FastMath.java
-1716 src/main/java/org/apache/commons/math/util/FastMath.java
-1718 src/main/java/org/apache/commons/math/util/FastMath.java
-1720 src/main/java/org/apache/commons/math/util/FastMath.java
-1743 src/main/java/org/apache/commons/math/util/FastMath.java
-1744 src/main/java/org/apache/commons/math/util/FastMath.java
-1745 src/main/java/org/apache/commons/math/util/FastMath.java
-1746 src/main/java/org/apache/commons/math/util/FastMath.java
-1748 src/main/java/org/apache/commons/math/util/FastMath.java
-1751 src/main/java/org/apache/commons/math/util/FastMath.java
-1752 src/main/java/org/apache/commons/math/util/FastMath.java
-1753 src/main/java/org/apache/commons/math/util/FastMath.java
-1754 src/main/java/org/apache/commons/math/util/FastMath.java
-1755 src/main/java/org/apache/commons/math/util/FastMath.java
-1756 src/main/java/org/apache/commons/math/util/FastMath.java
-1757 src/main/java/org/apache/commons/math/util/FastMath.java
-1758 src/main/java/org/apache/commons/math/util/FastMath.java
-1761 src/main/java/org/apache/commons/math/util/FastMath.java
-1767 src/main/java/org/apache/commons/math/util/FastMath.java
-1768 src/main/java/org/apache/commons/math/util/FastMath.java
-1770 src/main/java/org/apache/commons/math/util/FastMath.java
-1771 src/main/java/org/apache/commons/math/util/FastMath.java
-1772 src/main/java/org/apache/commons/math/util/FastMath.java
-1773 src/main/java/org/apache/commons/math/util/FastMath.java
-1774 src/main/java/org/apache/commons/math/util/FastMath.java
-1775 src/main/java/org/apache/commons/math/util/FastMath.java
-1776 src/main/java/org/apache/commons/math/util/FastMath.java
-1777 src/main/java/org/apache/commons/math/util/FastMath.java
-1779 src/main/java/org/apache/commons/math/util/FastMath.java
-1780 src/main/java/org/apache/commons/math/util/FastMath.java
-1781 src/main/java/org/apache/commons/math/util/FastMath.java
-1783 src/main/java/org/apache/commons/math/util/FastMath.java
-1793 src/main/java/org/apache/commons/math/util/FastMath.java
-1794 src/main/java/org/apache/commons/math/util/FastMath.java
-1795 src/main/java/org/apache/commons/math/util/FastMath.java
-1796 src/main/java/org/apache/commons/math/util/FastMath.java
-1797 src/main/java/org/apache/commons/math/util/FastMath.java
-1798 src/main/java/org/apache/commons/math/util/FastMath.java
-1800 src/main/java/org/apache/commons/math/util/FastMath.java
-1801 src/main/java/org/apache/commons/math/util/FastMath.java
-1802 src/main/java/org/apache/commons/math/util/FastMath.java
-1803 src/main/java/org/apache/commons/math/util/FastMath.java
-1804 src/main/java/org/apache/commons/math/util/FastMath.java
-1805 src/main/java/org/apache/commons/math/util/FastMath.java
-1806 src/main/java/org/apache/commons/math/util/FastMath.java
-1807 src/main/java/org/apache/commons/math/util/FastMath.java
-1808 src/main/java/org/apache/commons/math/util/FastMath.java
-1809 src/main/java/org/apache/commons/math/util/FastMath.java
-1810 src/main/java/org/apache/commons/math/util/FastMath.java
-1811 src/main/java/org/apache/commons/math/util/FastMath.java
-1812 src/main/java/org/apache/commons/math/util/FastMath.java
-1813 src/main/java/org/apache/commons/math/util/FastMath.java
-1814 src/main/java/org/apache/commons/math/util/FastMath.java
-1815 src/main/java/org/apache/commons/math/util/FastMath.java
-1816 src/main/java/org/apache/commons/math/util/FastMath.java
-1817 src/main/java/org/apache/commons/math/util/FastMath.java
-1818 src/main/java/org/apache/commons/math/util/FastMath.java
-1820 src/main/java/org/apache/commons/math/util/FastMath.java
-1821 src/main/java/org/apache/commons/math/util/FastMath.java
-1822 src/main/java/org/apache/commons/math/util/FastMath.java
-1823 src/main/java/org/apache/commons/math/util/FastMath.java
-1825 src/main/java/org/apache/commons/math/util/FastMath.java
-1836 src/main/java/org/apache/commons/math/util/FastMath.java
-1837 src/main/java/org/apache/commons/math/util/FastMath.java
-1838 src/main/java/org/apache/commons/math/util/FastMath.java
-1839 src/main/java/org/apache/commons/math/util/FastMath.java
-1840 src/main/java/org/apache/commons/math/util/FastMath.java
-1841 src/main/java/org/apache/commons/math/util/FastMath.java
-1843 src/main/java/org/apache/commons/math/util/FastMath.java
-1844 src/main/java/org/apache/commons/math/util/FastMath.java
-1845 src/main/java/org/apache/commons/math/util/FastMath.java
-1846 src/main/java/org/apache/commons/math/util/FastMath.java
-1847 src/main/java/org/apache/commons/math/util/FastMath.java
-1848 src/main/java/org/apache/commons/math/util/FastMath.java
-1849 src/main/java/org/apache/commons/math/util/FastMath.java
-1850 src/main/java/org/apache/commons/math/util/FastMath.java
-1851 src/main/java/org/apache/commons/math/util/FastMath.java
-1852 src/main/java/org/apache/commons/math/util/FastMath.java
-1853 src/main/java/org/apache/commons/math/util/FastMath.java
-1854 src/main/java/org/apache/commons/math/util/FastMath.java
-1855 src/main/java/org/apache/commons/math/util/FastMath.java
-1856 src/main/java/org/apache/commons/math/util/FastMath.java
-1857 src/main/java/org/apache/commons/math/util/FastMath.java
-1858 src/main/java/org/apache/commons/math/util/FastMath.java
-1859 src/main/java/org/apache/commons/math/util/FastMath.java
-1860 src/main/java/org/apache/commons/math/util/FastMath.java
-1861 src/main/java/org/apache/commons/math/util/FastMath.java
-1863 src/main/java/org/apache/commons/math/util/FastMath.java
-1864 src/main/java/org/apache/commons/math/util/FastMath.java
-1865 src/main/java/org/apache/commons/math/util/FastMath.java
-1866 src/main/java/org/apache/commons/math/util/FastMath.java
-1868 src/main/java/org/apache/commons/math/util/FastMath.java
-1874 src/main/java/org/apache/commons/math/util/FastMath.java
-1877 src/main/java/org/apache/commons/math/util/FastMath.java
-1878 src/main/java/org/apache/commons/math/util/FastMath.java
-1879 src/main/java/org/apache/commons/math/util/FastMath.java
-1880 src/main/java/org/apache/commons/math/util/FastMath.java
-1881 src/main/java/org/apache/commons/math/util/FastMath.java
-1882 src/main/java/org/apache/commons/math/util/FastMath.java
-1883 src/main/java/org/apache/commons/math/util/FastMath.java
-1884 src/main/java/org/apache/commons/math/util/FastMath.java
-1885 src/main/java/org/apache/commons/math/util/FastMath.java
-1886 src/main/java/org/apache/commons/math/util/FastMath.java
-1887 src/main/java/org/apache/commons/math/util/FastMath.java
-1890 src/main/java/org/apache/commons/math/util/FastMath.java
-1891 src/main/java/org/apache/commons/math/util/FastMath.java
-1892 src/main/java/org/apache/commons/math/util/FastMath.java
-1893 src/main/java/org/apache/commons/math/util/FastMath.java
-1894 src/main/java/org/apache/commons/math/util/FastMath.java
-1895 src/main/java/org/apache/commons/math/util/FastMath.java
-1896 src/main/java/org/apache/commons/math/util/FastMath.java
-1897 src/main/java/org/apache/commons/math/util/FastMath.java
-1898 src/main/java/org/apache/commons/math/util/FastMath.java
-1899 src/main/java/org/apache/commons/math/util/FastMath.java
-1900 src/main/java/org/apache/commons/math/util/FastMath.java
-1901 src/main/java/org/apache/commons/math/util/FastMath.java
-1902 src/main/java/org/apache/commons/math/util/FastMath.java
-1903 src/main/java/org/apache/commons/math/util/FastMath.java
-1904 src/main/java/org/apache/commons/math/util/FastMath.java
-1905 src/main/java/org/apache/commons/math/util/FastMath.java
-1906 src/main/java/org/apache/commons/math/util/FastMath.java
-1907 src/main/java/org/apache/commons/math/util/FastMath.java
-1908 src/main/java/org/apache/commons/math/util/FastMath.java
-1909 src/main/java/org/apache/commons/math/util/FastMath.java
-1910 src/main/java/org/apache/commons/math/util/FastMath.java
-1911 src/main/java/org/apache/commons/math/util/FastMath.java
-1912 src/main/java/org/apache/commons/math/util/FastMath.java
-1913 src/main/java/org/apache/commons/math/util/FastMath.java
-1914 src/main/java/org/apache/commons/math/util/FastMath.java
-1915 src/main/java/org/apache/commons/math/util/FastMath.java
-1916 src/main/java/org/apache/commons/math/util/FastMath.java
-1917 src/main/java/org/apache/commons/math/util/FastMath.java
-1918 src/main/java/org/apache/commons/math/util/FastMath.java
-1919 src/main/java/org/apache/commons/math/util/FastMath.java
-1920 src/main/java/org/apache/commons/math/util/FastMath.java
-1921 src/main/java/org/apache/commons/math/util/FastMath.java
-1922 src/main/java/org/apache/commons/math/util/FastMath.java
-1923 src/main/java/org/apache/commons/math/util/FastMath.java
-1924 src/main/java/org/apache/commons/math/util/FastMath.java
-1925 src/main/java/org/apache/commons/math/util/FastMath.java
-1926 src/main/java/org/apache/commons/math/util/FastMath.java
-1927 src/main/java/org/apache/commons/math/util/FastMath.java
-1928 src/main/java/org/apache/commons/math/util/FastMath.java
-1929 src/main/java/org/apache/commons/math/util/FastMath.java
-1930 src/main/java/org/apache/commons/math/util/FastMath.java
-1931 src/main/java/org/apache/commons/math/util/FastMath.java
-1932 src/main/java/org/apache/commons/math/util/FastMath.java
-1933 src/main/java/org/apache/commons/math/util/FastMath.java
-1934 src/main/java/org/apache/commons/math/util/FastMath.java
-1935 src/main/java/org/apache/commons/math/util/FastMath.java
-1936 src/main/java/org/apache/commons/math/util/FastMath.java
-1937 src/main/java/org/apache/commons/math/util/FastMath.java
-1938 src/main/java/org/apache/commons/math/util/FastMath.java
-1939 src/main/java/org/apache/commons/math/util/FastMath.java
-1940 src/main/java/org/apache/commons/math/util/FastMath.java
-1941 src/main/java/org/apache/commons/math/util/FastMath.java
-1942 src/main/java/org/apache/commons/math/util/FastMath.java
-1943 src/main/java/org/apache/commons/math/util/FastMath.java
-1946 src/main/java/org/apache/commons/math/util/FastMath.java
-1947 src/main/java/org/apache/commons/math/util/FastMath.java
-1948 src/main/java/org/apache/commons/math/util/FastMath.java
-1949 src/main/java/org/apache/commons/math/util/FastMath.java
-1950 src/main/java/org/apache/commons/math/util/FastMath.java
-1951 src/main/java/org/apache/commons/math/util/FastMath.java
-1952 src/main/java/org/apache/commons/math/util/FastMath.java
-1953 src/main/java/org/apache/commons/math/util/FastMath.java
-1954 src/main/java/org/apache/commons/math/util/FastMath.java
-1955 src/main/java/org/apache/commons/math/util/FastMath.java
-1956 src/main/java/org/apache/commons/math/util/FastMath.java
-1957 src/main/java/org/apache/commons/math/util/FastMath.java
-1958 src/main/java/org/apache/commons/math/util/FastMath.java
-1959 src/main/java/org/apache/commons/math/util/FastMath.java
-1960 src/main/java/org/apache/commons/math/util/FastMath.java
-1961 src/main/java/org/apache/commons/math/util/FastMath.java
-1962 src/main/java/org/apache/commons/math/util/FastMath.java
-1963 src/main/java/org/apache/commons/math/util/FastMath.java
-1975 src/main/java/org/apache/commons/math/util/FastMath.java
-1977 src/main/java/org/apache/commons/math/util/FastMath.java
-1978 src/main/java/org/apache/commons/math/util/FastMath.java
-1979 src/main/java/org/apache/commons/math/util/FastMath.java
-1980 src/main/java/org/apache/commons/math/util/FastMath.java
-1983 src/main/java/org/apache/commons/math/util/FastMath.java
-1985 src/main/java/org/apache/commons/math/util/FastMath.java
-1995 src/main/java/org/apache/commons/math/util/FastMath.java
-1997 src/main/java/org/apache/commons/math/util/FastMath.java
-1998 src/main/java/org/apache/commons/math/util/FastMath.java
-1999 src/main/java/org/apache/commons/math/util/FastMath.java
-2000 src/main/java/org/apache/commons/math/util/FastMath.java
-2001 src/main/java/org/apache/commons/math/util/FastMath.java
-2003 src/main/java/org/apache/commons/math/util/FastMath.java
-2014 src/main/java/org/apache/commons/math/util/FastMath.java
-2015 src/main/java/org/apache/commons/math/util/FastMath.java
-2018 src/main/java/org/apache/commons/math/util/FastMath.java
-2019 src/main/java/org/apache/commons/math/util/FastMath.java
-2020 src/main/java/org/apache/commons/math/util/FastMath.java
-2021 src/main/java/org/apache/commons/math/util/FastMath.java
-2024 src/main/java/org/apache/commons/math/util/FastMath.java
-2025 src/main/java/org/apache/commons/math/util/FastMath.java
-2027 src/main/java/org/apache/commons/math/util/FastMath.java
-2030 src/main/java/org/apache/commons/math/util/FastMath.java
-2031 src/main/java/org/apache/commons/math/util/FastMath.java
-2032 src/main/java/org/apache/commons/math/util/FastMath.java
-2033 src/main/java/org/apache/commons/math/util/FastMath.java
-2059 src/main/java/org/apache/commons/math/util/FastMath.java
-2060 src/main/java/org/apache/commons/math/util/FastMath.java
-2062 src/main/java/org/apache/commons/math/util/FastMath.java
-2063 src/main/java/org/apache/commons/math/util/FastMath.java
-2064 src/main/java/org/apache/commons/math/util/FastMath.java
-2065 src/main/java/org/apache/commons/math/util/FastMath.java
-2066 src/main/java/org/apache/commons/math/util/FastMath.java
-2068 src/main/java/org/apache/commons/math/util/FastMath.java
-2069 src/main/java/org/apache/commons/math/util/FastMath.java
-2070 src/main/java/org/apache/commons/math/util/FastMath.java
-2071 src/main/java/org/apache/commons/math/util/FastMath.java
-2072 src/main/java/org/apache/commons/math/util/FastMath.java
-2074 src/main/java/org/apache/commons/math/util/FastMath.java
-2089 src/main/java/org/apache/commons/math/util/FastMath.java
-2116 src/main/java/org/apache/commons/math/util/FastMath.java
-2117 src/main/java/org/apache/commons/math/util/FastMath.java
-2118 src/main/java/org/apache/commons/math/util/FastMath.java
-2119 src/main/java/org/apache/commons/math/util/FastMath.java
-2120 src/main/java/org/apache/commons/math/util/FastMath.java
-2121 src/main/java/org/apache/commons/math/util/FastMath.java
-2122 src/main/java/org/apache/commons/math/util/FastMath.java
-2123 src/main/java/org/apache/commons/math/util/FastMath.java
-2125 src/main/java/org/apache/commons/math/util/FastMath.java
-2127 src/main/java/org/apache/commons/math/util/FastMath.java
-2141 src/main/java/org/apache/commons/math/util/FastMath.java
-2142 src/main/java/org/apache/commons/math/util/FastMath.java
-2143 src/main/java/org/apache/commons/math/util/FastMath.java
-2145 src/main/java/org/apache/commons/math/util/FastMath.java
-2522 src/main/java/org/apache/commons/math/util/FastMath.java
-2523 src/main/java/org/apache/commons/math/util/FastMath.java
-2525 src/main/java/org/apache/commons/math/util/FastMath.java
-2528 src/main/java/org/apache/commons/math/util/FastMath.java
-2529 src/main/java/org/apache/commons/math/util/FastMath.java
-2530 src/main/java/org/apache/commons/math/util/FastMath.java
-2531 src/main/java/org/apache/commons/math/util/FastMath.java
-2532 src/main/java/org/apache/commons/math/util/FastMath.java
-2535 src/main/java/org/apache/commons/math/util/FastMath.java
-2536 src/main/java/org/apache/commons/math/util/FastMath.java
-2537 src/main/java/org/apache/commons/math/util/FastMath.java
-2538 src/main/java/org/apache/commons/math/util/FastMath.java
-2539 src/main/java/org/apache/commons/math/util/FastMath.java
-2540 src/main/java/org/apache/commons/math/util/FastMath.java
-2541 src/main/java/org/apache/commons/math/util/FastMath.java
-2543 src/main/java/org/apache/commons/math/util/FastMath.java
-2544 src/main/java/org/apache/commons/math/util/FastMath.java
-2548 src/main/java/org/apache/commons/math/util/FastMath.java
-2549 src/main/java/org/apache/commons/math/util/FastMath.java
-2550 src/main/java/org/apache/commons/math/util/FastMath.java
-2551 src/main/java/org/apache/commons/math/util/FastMath.java
-2552 src/main/java/org/apache/commons/math/util/FastMath.java
-2553 src/main/java/org/apache/commons/math/util/FastMath.java
-2554 src/main/java/org/apache/commons/math/util/FastMath.java
-2555 src/main/java/org/apache/commons/math/util/FastMath.java
-2556 src/main/java/org/apache/commons/math/util/FastMath.java
-2557 src/main/java/org/apache/commons/math/util/FastMath.java
-2558 src/main/java/org/apache/commons/math/util/FastMath.java
-2559 src/main/java/org/apache/commons/math/util/FastMath.java
-2560 src/main/java/org/apache/commons/math/util/FastMath.java
-2561 src/main/java/org/apache/commons/math/util/FastMath.java
-2562 src/main/java/org/apache/commons/math/util/FastMath.java
-2563 src/main/java/org/apache/commons/math/util/FastMath.java
-2564 src/main/java/org/apache/commons/math/util/FastMath.java
-2565 src/main/java/org/apache/commons/math/util/FastMath.java
-2566 src/main/java/org/apache/commons/math/util/FastMath.java
-2567 src/main/java/org/apache/commons/math/util/FastMath.java
-2568 src/main/java/org/apache/commons/math/util/FastMath.java
-2569 src/main/java/org/apache/commons/math/util/FastMath.java
-2570 src/main/java/org/apache/commons/math/util/FastMath.java
-2571 src/main/java/org/apache/commons/math/util/FastMath.java
-2572 src/main/java/org/apache/commons/math/util/FastMath.java
-2573 src/main/java/org/apache/commons/math/util/FastMath.java
-2574 src/main/java/org/apache/commons/math/util/FastMath.java
-2575 src/main/java/org/apache/commons/math/util/FastMath.java
-2576 src/main/java/org/apache/commons/math/util/FastMath.java
-2577 src/main/java/org/apache/commons/math/util/FastMath.java
-2578 src/main/java/org/apache/commons/math/util/FastMath.java
-2579 src/main/java/org/apache/commons/math/util/FastMath.java
-2580 src/main/java/org/apache/commons/math/util/FastMath.java
-2581 src/main/java/org/apache/commons/math/util/FastMath.java
-2582 src/main/java/org/apache/commons/math/util/FastMath.java
-2583 src/main/java/org/apache/commons/math/util/FastMath.java
-2584 src/main/java/org/apache/commons/math/util/FastMath.java
-2585 src/main/java/org/apache/commons/math/util/FastMath.java
-2586 src/main/java/org/apache/commons/math/util/FastMath.java
-2587 src/main/java/org/apache/commons/math/util/FastMath.java
-2588 src/main/java/org/apache/commons/math/util/FastMath.java
-2589 src/main/java/org/apache/commons/math/util/FastMath.java
-2590 src/main/java/org/apache/commons/math/util/FastMath.java
-2591 src/main/java/org/apache/commons/math/util/FastMath.java
-2592 src/main/java/org/apache/commons/math/util/FastMath.java
-2593 src/main/java/org/apache/commons/math/util/FastMath.java
-2594 src/main/java/org/apache/commons/math/util/FastMath.java
-2596 src/main/java/org/apache/commons/math/util/FastMath.java
-2597 src/main/java/org/apache/commons/math/util/FastMath.java
-2600 src/main/java/org/apache/commons/math/util/FastMath.java
-2601 src/main/java/org/apache/commons/math/util/FastMath.java
-2602 src/main/java/org/apache/commons/math/util/FastMath.java
-2603 src/main/java/org/apache/commons/math/util/FastMath.java
-2604 src/main/java/org/apache/commons/math/util/FastMath.java
-2605 src/main/java/org/apache/commons/math/util/FastMath.java
-2606 src/main/java/org/apache/commons/math/util/FastMath.java
-2607 src/main/java/org/apache/commons/math/util/FastMath.java
-2608 src/main/java/org/apache/commons/math/util/FastMath.java
-2609 src/main/java/org/apache/commons/math/util/FastMath.java
-2610 src/main/java/org/apache/commons/math/util/FastMath.java
-2611 src/main/java/org/apache/commons/math/util/FastMath.java
-2620 src/main/java/org/apache/commons/math/util/FastMath.java
-2623 src/main/java/org/apache/commons/math/util/FastMath.java
-2624 src/main/java/org/apache/commons/math/util/FastMath.java
-2625 src/main/java/org/apache/commons/math/util/FastMath.java
-2628 src/main/java/org/apache/commons/math/util/FastMath.java
-2629 src/main/java/org/apache/commons/math/util/FastMath.java
-2633 src/main/java/org/apache/commons/math/util/FastMath.java
-2634 src/main/java/org/apache/commons/math/util/FastMath.java
-2635 src/main/java/org/apache/commons/math/util/FastMath.java
-2636 src/main/java/org/apache/commons/math/util/FastMath.java
-2637 src/main/java/org/apache/commons/math/util/FastMath.java
-2638 src/main/java/org/apache/commons/math/util/FastMath.java
-2639 src/main/java/org/apache/commons/math/util/FastMath.java
-2640 src/main/java/org/apache/commons/math/util/FastMath.java
-2641 src/main/java/org/apache/commons/math/util/FastMath.java
-2642 src/main/java/org/apache/commons/math/util/FastMath.java
-2643 src/main/java/org/apache/commons/math/util/FastMath.java
-2644 src/main/java/org/apache/commons/math/util/FastMath.java
-2645 src/main/java/org/apache/commons/math/util/FastMath.java
-2646 src/main/java/org/apache/commons/math/util/FastMath.java
-2647 src/main/java/org/apache/commons/math/util/FastMath.java
-2648 src/main/java/org/apache/commons/math/util/FastMath.java
-2649 src/main/java/org/apache/commons/math/util/FastMath.java
-2650 src/main/java/org/apache/commons/math/util/FastMath.java
-2651 src/main/java/org/apache/commons/math/util/FastMath.java
-2652 src/main/java/org/apache/commons/math/util/FastMath.java
-2653 src/main/java/org/apache/commons/math/util/FastMath.java
-2654 src/main/java/org/apache/commons/math/util/FastMath.java
-2655 src/main/java/org/apache/commons/math/util/FastMath.java
-2656 src/main/java/org/apache/commons/math/util/FastMath.java
-2657 src/main/java/org/apache/commons/math/util/FastMath.java
-2658 src/main/java/org/apache/commons/math/util/FastMath.java
-2659 src/main/java/org/apache/commons/math/util/FastMath.java
-2660 src/main/java/org/apache/commons/math/util/FastMath.java
-2661 src/main/java/org/apache/commons/math/util/FastMath.java
-2662 src/main/java/org/apache/commons/math/util/FastMath.java
-2663 src/main/java/org/apache/commons/math/util/FastMath.java
-2664 src/main/java/org/apache/commons/math/util/FastMath.java
-2665 src/main/java/org/apache/commons/math/util/FastMath.java
-2666 src/main/java/org/apache/commons/math/util/FastMath.java
-2667 src/main/java/org/apache/commons/math/util/FastMath.java
-2668 src/main/java/org/apache/commons/math/util/FastMath.java
-2669 src/main/java/org/apache/commons/math/util/FastMath.java
-2670 src/main/java/org/apache/commons/math/util/FastMath.java
-2671 src/main/java/org/apache/commons/math/util/FastMath.java
-2672 src/main/java/org/apache/commons/math/util/FastMath.java
-2673 src/main/java/org/apache/commons/math/util/FastMath.java
-2674 src/main/java/org/apache/commons/math/util/FastMath.java
-2675 src/main/java/org/apache/commons/math/util/FastMath.java
-2676 src/main/java/org/apache/commons/math/util/FastMath.java
-2677 src/main/java/org/apache/commons/math/util/FastMath.java
-2678 src/main/java/org/apache/commons/math/util/FastMath.java
-2679 src/main/java/org/apache/commons/math/util/FastMath.java
-2680 src/main/java/org/apache/commons/math/util/FastMath.java
-2685 src/main/java/org/apache/commons/math/util/FastMath.java
-2686 src/main/java/org/apache/commons/math/util/FastMath.java
-2687 src/main/java/org/apache/commons/math/util/FastMath.java
-2688 src/main/java/org/apache/commons/math/util/FastMath.java
-2689 src/main/java/org/apache/commons/math/util/FastMath.java
-2690 src/main/java/org/apache/commons/math/util/FastMath.java
-2691 src/main/java/org/apache/commons/math/util/FastMath.java
-2692 src/main/java/org/apache/commons/math/util/FastMath.java
-2693 src/main/java/org/apache/commons/math/util/FastMath.java
-2694 src/main/java/org/apache/commons/math/util/FastMath.java
-2695 src/main/java/org/apache/commons/math/util/FastMath.java
-2696 src/main/java/org/apache/commons/math/util/FastMath.java
-2823 src/main/java/org/apache/commons/math/util/FastMath.java
-2826 src/main/java/org/apache/commons/math/util/FastMath.java
-2830 src/main/java/org/apache/commons/math/util/FastMath.java
-2831 src/main/java/org/apache/commons/math/util/FastMath.java
-2832 src/main/java/org/apache/commons/math/util/FastMath.java
-2833 src/main/java/org/apache/commons/math/util/FastMath.java
-2834 src/main/java/org/apache/commons/math/util/FastMath.java
-2835 src/main/java/org/apache/commons/math/util/FastMath.java
-2837 src/main/java/org/apache/commons/math/util/FastMath.java
-2842 src/main/java/org/apache/commons/math/util/FastMath.java
-2843 src/main/java/org/apache/commons/math/util/FastMath.java
-2845 src/main/java/org/apache/commons/math/util/FastMath.java
-2846 src/main/java/org/apache/commons/math/util/FastMath.java
-2848 src/main/java/org/apache/commons/math/util/FastMath.java
-2849 src/main/java/org/apache/commons/math/util/FastMath.java
-2850 src/main/java/org/apache/commons/math/util/FastMath.java
-2852 src/main/java/org/apache/commons/math/util/FastMath.java
-2853 src/main/java/org/apache/commons/math/util/FastMath.java
-2854 src/main/java/org/apache/commons/math/util/FastMath.java
-2857 src/main/java/org/apache/commons/math/util/FastMath.java
-2858 src/main/java/org/apache/commons/math/util/FastMath.java
-2859 src/main/java/org/apache/commons/math/util/FastMath.java
-2860 src/main/java/org/apache/commons/math/util/FastMath.java
-2861 src/main/java/org/apache/commons/math/util/FastMath.java
-2864 src/main/java/org/apache/commons/math/util/FastMath.java
-2865 src/main/java/org/apache/commons/math/util/FastMath.java
-2866 src/main/java/org/apache/commons/math/util/FastMath.java
-2867 src/main/java/org/apache/commons/math/util/FastMath.java
-2868 src/main/java/org/apache/commons/math/util/FastMath.java
-2869 src/main/java/org/apache/commons/math/util/FastMath.java
-2870 src/main/java/org/apache/commons/math/util/FastMath.java
-2871 src/main/java/org/apache/commons/math/util/FastMath.java
-2872 src/main/java/org/apache/commons/math/util/FastMath.java
-2873 src/main/java/org/apache/commons/math/util/FastMath.java
-2874 src/main/java/org/apache/commons/math/util/FastMath.java
-2875 src/main/java/org/apache/commons/math/util/FastMath.java
-2876 src/main/java/org/apache/commons/math/util/FastMath.java
-2877 src/main/java/org/apache/commons/math/util/FastMath.java
-2878 src/main/java/org/apache/commons/math/util/FastMath.java
-2880 src/main/java/org/apache/commons/math/util/FastMath.java
-2881 src/main/java/org/apache/commons/math/util/FastMath.java
-2883 src/main/java/org/apache/commons/math/util/FastMath.java
-2884 src/main/java/org/apache/commons/math/util/FastMath.java
-2885 src/main/java/org/apache/commons/math/util/FastMath.java
-2887 src/main/java/org/apache/commons/math/util/FastMath.java
-2888 src/main/java/org/apache/commons/math/util/FastMath.java
-2889 src/main/java/org/apache/commons/math/util/FastMath.java
-2892 src/main/java/org/apache/commons/math/util/FastMath.java
-2894 src/main/java/org/apache/commons/math/util/FastMath.java
-2895 src/main/java/org/apache/commons/math/util/FastMath.java
-2899 src/main/java/org/apache/commons/math/util/FastMath.java
-2900 src/main/java/org/apache/commons/math/util/FastMath.java
-2903 src/main/java/org/apache/commons/math/util/FastMath.java
-2914 src/main/java/org/apache/commons/math/util/FastMath.java
-2915 src/main/java/org/apache/commons/math/util/FastMath.java
-2916 src/main/java/org/apache/commons/math/util/FastMath.java
-2917 src/main/java/org/apache/commons/math/util/FastMath.java
-2918 src/main/java/org/apache/commons/math/util/FastMath.java
-2919 src/main/java/org/apache/commons/math/util/FastMath.java
-2920 src/main/java/org/apache/commons/math/util/FastMath.java
-2923 src/main/java/org/apache/commons/math/util/FastMath.java
-2925 src/main/java/org/apache/commons/math/util/FastMath.java
-2926 src/main/java/org/apache/commons/math/util/FastMath.java
-2927 src/main/java/org/apache/commons/math/util/FastMath.java
-2930 src/main/java/org/apache/commons/math/util/FastMath.java
-2936 src/main/java/org/apache/commons/math/util/FastMath.java
-2937 src/main/java/org/apache/commons/math/util/FastMath.java
-2938 src/main/java/org/apache/commons/math/util/FastMath.java
-2939 src/main/java/org/apache/commons/math/util/FastMath.java
-2940 src/main/java/org/apache/commons/math/util/FastMath.java
-2942 src/main/java/org/apache/commons/math/util/FastMath.java
-2943 src/main/java/org/apache/commons/math/util/FastMath.java
-2945 src/main/java/org/apache/commons/math/util/FastMath.java
-2946 src/main/java/org/apache/commons/math/util/FastMath.java
-2947 src/main/java/org/apache/commons/math/util/FastMath.java
-2948 src/main/java/org/apache/commons/math/util/FastMath.java
-2949 src/main/java/org/apache/commons/math/util/FastMath.java
-2950 src/main/java/org/apache/commons/math/util/FastMath.java
-2951 src/main/java/org/apache/commons/math/util/FastMath.java
-2952 src/main/java/org/apache/commons/math/util/FastMath.java
-2953 src/main/java/org/apache/commons/math/util/FastMath.java
-2954 src/main/java/org/apache/commons/math/util/FastMath.java
-2955 src/main/java/org/apache/commons/math/util/FastMath.java
-2956 src/main/java/org/apache/commons/math/util/FastMath.java
-2959 src/main/java/org/apache/commons/math/util/FastMath.java
-2960 src/main/java/org/apache/commons/math/util/FastMath.java
-2963 src/main/java/org/apache/commons/math/util/FastMath.java
-2974 src/main/java/org/apache/commons/math/util/FastMath.java
-3003 src/main/java/org/apache/commons/math/util/FastMath.java
-3004 src/main/java/org/apache/commons/math/util/FastMath.java
-3005 src/main/java/org/apache/commons/math/util/FastMath.java
-3006 src/main/java/org/apache/commons/math/util/FastMath.java
-3007 src/main/java/org/apache/commons/math/util/FastMath.java
-3008 src/main/java/org/apache/commons/math/util/FastMath.java
-3009 src/main/java/org/apache/commons/math/util/FastMath.java
-3010 src/main/java/org/apache/commons/math/util/FastMath.java
-3011 src/main/java/org/apache/commons/math/util/FastMath.java
-3012 src/main/java/org/apache/commons/math/util/FastMath.java
-3013 src/main/java/org/apache/commons/math/util/FastMath.java
-3015 src/main/java/org/apache/commons/math/util/FastMath.java
-3016 src/main/java/org/apache/commons/math/util/FastMath.java
-3017 src/main/java/org/apache/commons/math/util/FastMath.java
-3018 src/main/java/org/apache/commons/math/util/FastMath.java
-3019 src/main/java/org/apache/commons/math/util/FastMath.java
-3020 src/main/java/org/apache/commons/math/util/FastMath.java
-3021 src/main/java/org/apache/commons/math/util/FastMath.java
-3022 src/main/java/org/apache/commons/math/util/FastMath.java
-3023 src/main/java/org/apache/commons/math/util/FastMath.java
-3024 src/main/java/org/apache/commons/math/util/FastMath.java
-3025 src/main/java/org/apache/commons/math/util/FastMath.java
-3027 src/main/java/org/apache/commons/math/util/FastMath.java
-3028 src/main/java/org/apache/commons/math/util/FastMath.java
-3029 src/main/java/org/apache/commons/math/util/FastMath.java
-3030 src/main/java/org/apache/commons/math/util/FastMath.java
-3031 src/main/java/org/apache/commons/math/util/FastMath.java
-3032 src/main/java/org/apache/commons/math/util/FastMath.java
-3033 src/main/java/org/apache/commons/math/util/FastMath.java
-3034 src/main/java/org/apache/commons/math/util/FastMath.java
-3035 src/main/java/org/apache/commons/math/util/FastMath.java
-3037 src/main/java/org/apache/commons/math/util/FastMath.java
-3039 src/main/java/org/apache/commons/math/util/FastMath.java
-3040 src/main/java/org/apache/commons/math/util/FastMath.java
-3050 src/main/java/org/apache/commons/math/util/FastMath.java
-3051 src/main/java/org/apache/commons/math/util/FastMath.java
-3052 src/main/java/org/apache/commons/math/util/FastMath.java
-3053 src/main/java/org/apache/commons/math/util/FastMath.java
-3054 src/main/java/org/apache/commons/math/util/FastMath.java
-3055 src/main/java/org/apache/commons/math/util/FastMath.java
-3056 src/main/java/org/apache/commons/math/util/FastMath.java
-3057 src/main/java/org/apache/commons/math/util/FastMath.java
-3058 src/main/java/org/apache/commons/math/util/FastMath.java
-3061 src/main/java/org/apache/commons/math/util/FastMath.java
-3062 src/main/java/org/apache/commons/math/util/FastMath.java
-3066 src/main/java/org/apache/commons/math/util/FastMath.java
-3067 src/main/java/org/apache/commons/math/util/FastMath.java
-3070 src/main/java/org/apache/commons/math/util/FastMath.java
-3071 src/main/java/org/apache/commons/math/util/FastMath.java
-3073 src/main/java/org/apache/commons/math/util/FastMath.java
-3075 src/main/java/org/apache/commons/math/util/FastMath.java
-3076 src/main/java/org/apache/commons/math/util/FastMath.java
-3077 src/main/java/org/apache/commons/math/util/FastMath.java
-3079 src/main/java/org/apache/commons/math/util/FastMath.java
-3084 src/main/java/org/apache/commons/math/util/FastMath.java
-3086 src/main/java/org/apache/commons/math/util/FastMath.java
-3170 src/main/java/org/apache/commons/math/util/FastMath.java
-3174 src/main/java/org/apache/commons/math/util/FastMath.java
-3178 src/main/java/org/apache/commons/math/util/FastMath.java
-3182 src/main/java/org/apache/commons/math/util/FastMath.java
-3186 src/main/java/org/apache/commons/math/util/FastMath.java
-3187 src/main/java/org/apache/commons/math/util/FastMath.java
-41 src/main/java/org/apache/commons/math/exception/NullArgumentException.java
-50 src/main/java/org/apache/commons/math/exception/NullArgumentException.java
-65 src/main/java/org/apache/commons/math/complex/ComplexUtils.java
-69 src/main/java/org/apache/commons/math/complex/ComplexUtils.java
-356 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-367 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-368 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-380 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-42 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-43 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-44 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-45 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-46 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-47 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-49 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-50 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-51 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-52 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-54 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-66 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-67 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-116 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-126 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-150 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-151 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-152 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-153 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-154 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-155 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-156 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-157 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-158 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-159 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-160 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-161 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-162 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-163 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-165 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-45 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java
-67 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java
+1179 src/main/java/org/apache/commons/math/complex/Complex.java 1.0
+257 src/main/java/org/apache/commons/math/complex/Complex.java 0.7071067811865475
+583 src/main/java/org/apache/commons/math/complex/Complex.java 0.4082482904638631
+584 src/main/java/org/apache/commons/math/complex/Complex.java 0.4082482904638631
+256 src/main/java/org/apache/commons/math/complex/Complex.java 0.3922322702763681
+251 src/main/java/org/apache/commons/math/complex/Complex.java 0.3651483716701107
+252 src/main/java/org/apache/commons/math/complex/Complex.java 0.3651483716701107
+579 src/main/java/org/apache/commons/math/complex/Complex.java 0.35355339059327373
+268 src/main/java/org/apache/commons/math/complex/Complex.java 0.31622776601683794
+269 src/main/java/org/apache/commons/math/complex/Complex.java 0.31622776601683794
+270 src/main/java/org/apache/commons/math/complex/Complex.java 0.31622776601683794
+271 src/main/java/org/apache/commons/math/complex/Complex.java 0.31622776601683794
+273 src/main/java/org/apache/commons/math/complex/Complex.java 0.2672612419124244
+274 src/main/java/org/apache/commons/math/complex/Complex.java 0.2672612419124244
+275 src/main/java/org/apache/commons/math/complex/Complex.java 0.2672612419124244
+276 src/main/java/org/apache/commons/math/complex/Complex.java 0.2672612419124244
+747 src/main/java/org/apache/commons/math/complex/Complex.java 0.2672612419124244
+1315 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1316 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1317 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1318 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1319 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1320 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1321 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1322 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1323 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1324 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1325 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1326 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1327 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1328 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1329 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1330 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1331 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1332 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1333 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1334 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1335 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1336 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1337 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1338 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1339 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1340 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1341 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1342 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1343 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1344 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1345 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1346 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1347 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1348 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1349 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1350 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1351 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1352 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1353 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1354 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1355 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1356 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1357 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+1358 src/main/java/org/apache/commons/math/util/FastMath.java 0.2672612419124244
+162 src/main/java/org/apache/commons/math/complex/Complex.java 0.23570226039551587
+163 src/main/java/org/apache/commons/math/complex/Complex.java 0.23570226039551587
+2978 src/main/java/org/apache/commons/math/util/FastMath.java 0.23570226039551587
+2979 src/main/java/org/apache/commons/math/util/FastMath.java 0.23570226039551587
+2980 src/main/java/org/apache/commons/math/util/FastMath.java 0.23570226039551587
+260 src/main/java/org/apache/commons/math/complex/Complex.java 0.22360679774997896
+264 src/main/java/org/apache/commons/math/complex/Complex.java 0.22360679774997896
+265 src/main/java/org/apache/commons/math/complex/Complex.java 0.22360679774997896
+267 src/main/java/org/apache/commons/math/complex/Complex.java 0.22360679774997896
+419 src/main/java/org/apache/commons/math/complex/Complex.java 0.20412414523193154
+428 src/main/java/org/apache/commons/math/complex/Complex.java 0.20412414523193154
+429 src/main/java/org/apache/commons/math/complex/Complex.java 0.20412414523193154
+493 src/main/java/org/apache/commons/math/complex/Complex.java 0.20412414523193154
+494 src/main/java/org/apache/commons/math/complex/Complex.java 0.20412414523193154
+132 src/main/java/org/apache/commons/math/complex/Complex.java 0.19611613513818404
+133 src/main/java/org/apache/commons/math/complex/Complex.java 0.19611613513818404
+157 src/main/java/org/apache/commons/math/complex/Complex.java 0.19611613513818404
+158 src/main/java/org/apache/commons/math/complex/Complex.java 0.19611613513818404
+129 src/main/java/org/apache/commons/math/complex/Complex.java 0.1889822365046136
+488 src/main/java/org/apache/commons/math/complex/Complex.java 0.18257418583505536
+489 src/main/java/org/apache/commons/math/complex/Complex.java 0.18257418583505536
+750 src/main/java/org/apache/commons/math/complex/Complex.java 0.18257418583505536
+751 src/main/java/org/apache/commons/math/complex/Complex.java 0.18257418583505536
+1256 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1362 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1373 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1375 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1376 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1378 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1379 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1380 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1381 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1382 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1383 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1384 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1385 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1386 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1387 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1388 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1389 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1390 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1391 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1392 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1393 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1394 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1395 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1396 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1397 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1398 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1399 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1400 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1401 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1402 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1403 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1404 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1405 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1406 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1407 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1408 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1409 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1410 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1411 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1412 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1413 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1414 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1415 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1416 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1417 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1418 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1419 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1420 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1421 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1422 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1423 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1424 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1425 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1426 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1452 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1453 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1454 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1455 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1456 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1457 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1459 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1460 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1461 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1462 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1464 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1465 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1466 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1467 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1469 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1470 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1471 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1472 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1474 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1475 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1476 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1477 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1479 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1482 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+1484 src/main/java/org/apache/commons/math/util/FastMath.java 0.18257418583505536
+323 src/main/java/org/apache/commons/math/complex/Complex.java 0.17677669529663687
+324 src/main/java/org/apache/commons/math/complex/Complex.java 0.17677669529663687
+421 src/main/java/org/apache/commons/math/complex/Complex.java 0.17149858514250882
+422 src/main/java/org/apache/commons/math/complex/Complex.java 0.17149858514250882
+423 src/main/java/org/apache/commons/math/complex/Complex.java 0.17149858514250882
+424 src/main/java/org/apache/commons/math/complex/Complex.java 0.17149858514250882
+1292 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1294 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1295 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1296 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1297 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1298 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1299 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1300 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1301 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1302 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1303 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1304 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1305 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1306 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1307 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1308 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1309 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1310 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1311 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+1314 src/main/java/org/apache/commons/math/util/FastMath.java 0.17149858514250882
+364 src/main/java/org/apache/commons/math/complex/Complex.java 0.1690308509457033
+355 src/main/java/org/apache/commons/math/complex/Complex.java 0.16783627165933782
+322 src/main/java/org/apache/commons/math/complex/Complex.java 0.16666666666666666
+326 src/main/java/org/apache/commons/math/complex/Complex.java 0.16666666666666666
+327 src/main/java/org/apache/commons/math/complex/Complex.java 0.16666666666666666
+328 src/main/java/org/apache/commons/math/complex/Complex.java 0.16666666666666666
+329 src/main/java/org/apache/commons/math/complex/Complex.java 0.16666666666666666
+1269 src/main/java/org/apache/commons/math/util/FastMath.java 0.16666666666666666
+1272 src/main/java/org/apache/commons/math/util/FastMath.java 0.16666666666666666
+1283 src/main/java/org/apache/commons/math/util/FastMath.java 0.16666666666666666
+1285 src/main/java/org/apache/commons/math/util/FastMath.java 0.16666666666666666
+1286 src/main/java/org/apache/commons/math/util/FastMath.java 0.16666666666666666
+1287 src/main/java/org/apache/commons/math/util/FastMath.java 0.16666666666666666
+1288 src/main/java/org/apache/commons/math/util/FastMath.java 0.16666666666666666
+1289 src/main/java/org/apache/commons/math/util/FastMath.java 0.16666666666666666
+1266 src/main/java/org/apache/commons/math/util/FastMath.java 0.16222142113076254
+746 src/main/java/org/apache/commons/math/complex/Complex.java 0.1543033499620919
+2977 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2981 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2982 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2983 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2984 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2985 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2986 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2987 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2988 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2989 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2990 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2991 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2992 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2993 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2994 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2995 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2996 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2997 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2998 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2999 src/main/java/org/apache/commons/math/util/FastMath.java 0.1543033499620919
+2973 src/main/java/org/apache/commons/math/util/FastMath.java 0.15075567228888181
+99 src/main/java/org/apache/commons/math/complex/Complex.java 0.14285714285714285
+100 src/main/java/org/apache/commons/math/complex/Complex.java 0.14285714285714285
+102 src/main/java/org/apache/commons/math/complex/Complex.java 0.14285714285714285
+103 src/main/java/org/apache/commons/math/complex/Complex.java 0.14285714285714285
+104 src/main/java/org/apache/commons/math/complex/Complex.java 0.14285714285714285
+417 src/main/java/org/apache/commons/math/complex/Complex.java 0.1414213562373095
+418 src/main/java/org/apache/commons/math/complex/Complex.java 0.1414213562373095
+122 src/main/java/org/apache/commons/math/complex/Complex.java 0.1386750490563073
+124 src/main/java/org/apache/commons/math/complex/Complex.java 0.1386750490563073
+125 src/main/java/org/apache/commons/math/complex/Complex.java 0.1386750490563073
+126 src/main/java/org/apache/commons/math/complex/Complex.java 0.1386750490563073
+127 src/main/java/org/apache/commons/math/complex/Complex.java 0.1386750490563073
+128 src/main/java/org/apache/commons/math/complex/Complex.java 0.1386750490563073
+302 src/main/java/org/apache/commons/math/util/FastMath.java 0.1336306209562122
+319 src/main/java/org/apache/commons/math/complex/Complex.java 0.12909944487358055
+119 src/main/java/org/apache/commons/math/complex/Complex.java 0.1270001270001905
+116 src/main/java/org/apache/commons/math/complex/Complex.java 0.125
+3410 src/main/java/org/apache/commons/math/util/FastMath.java 0.11624763874381928
+388 src/main/java/org/apache/commons/math/complex/Complex.java 0.11043152607484653
+1127 src/main/java/org/apache/commons/math/complex/Complex.java 0.08512565307587486
+89 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+117 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+120 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+123 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+130 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+159 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+175 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+176 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+179 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+197 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+198 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+201 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+253 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+261 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+289 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+290 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+292 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+293 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+295 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+296 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+298 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+299 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+320 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+325 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+330 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+342 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+343 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+345 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+346 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+375 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+426 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+441 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+442 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+444 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+445 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+446 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+448 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+450 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+461 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+462 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+465 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+490 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+506 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+507 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+509 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+529 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+530 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+533 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+534 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+554 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+555 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+558 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+559 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+580 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+620 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+621 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+624 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+625 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+660 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+661 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+664 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+665 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+701 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+702 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+705 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+706 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+707 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+776 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+777 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+788 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+824 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+825 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+828 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+829 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+864 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+865 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+868 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+869 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+907 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+908 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+911 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+915 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+916 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+917 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+919 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+920 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+942 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+978 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+979 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+982 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+983 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+984 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+986 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+987 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1023 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1024 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1027 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1028 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1029 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1031 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1032 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1055 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1082 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1087 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1089 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1090 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1091 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1092 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1093 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1094 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1095 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1096 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1099 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1102 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1103 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1104 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1105 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1106 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1107 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1108 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1109 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1110 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1111 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1113 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1168 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+233 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+234 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+235 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+238 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+239 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+242 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+243 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+244 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+245 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+246 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+247 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+248 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+249 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+250 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+251 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+252 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+253 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+256 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+257 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+258 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+259 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+260 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+263 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+264 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+265 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+266 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+269 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+288 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+291 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+292 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+293 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+722 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+741 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+742 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+743 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+744 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+745 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+746 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+747 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+748 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+749 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+750 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+751 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+752 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+753 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+754 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+755 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+756 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+757 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+758 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+759 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+760 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+761 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+762 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+763 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+764 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+765 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+766 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+767 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+768 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+769 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+770 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+771 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+772 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+773 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+774 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+775 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+776 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+777 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+778 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+779 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+781 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+782 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+783 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+784 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+785 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+786 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+787 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+789 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+790 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+797 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+798 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+799 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+805 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+814 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+815 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+816 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+817 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+818 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+825 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+826 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+832 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+834 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+835 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+837 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+840 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+841 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+842 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+843 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+844 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+846 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1012 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1013 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1014 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1015 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1016 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1017 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1019 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1020 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1021 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1022 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1023 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1024 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1025 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1026 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1027 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1028 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1029 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1030 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1032 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1033 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1034 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1035 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1037 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1046 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1047 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1048 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1049 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1050 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1051 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1052 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1053 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1054 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1062 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1063 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1065 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1066 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1067 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1068 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1069 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1070 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1071 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1072 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1073 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1082 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1083 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1086 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1095 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1096 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1098 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1123 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1124 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1125 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1126 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1128 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1129 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1131 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1132 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1136 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1138 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1139 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1140 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1141 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1142 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1143 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1144 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1145 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1146 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1155 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1156 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1157 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1160 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1161 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1162 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1164 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1165 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1168 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1169 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1171 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1172 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1173 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1174 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1175 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1176 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1179 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1180 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1181 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1183 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1184 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1185 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1186 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1187 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1188 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1191 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1192 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1193 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1195 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1196 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1197 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1198 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1199 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1200 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1210 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1211 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1212 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1221 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1222 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1224 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1226 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1227 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1228 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1229 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1230 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1231 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1232 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1233 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1234 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1235 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1236 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1238 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1239 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1240 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1241 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1242 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1243 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1245 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1267 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1284 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1427 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1428 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1429 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1430 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1431 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1432 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1433 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1434 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1435 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1436 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1480 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1481 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1560 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1562 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1566 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1571 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1572 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1573 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1574 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1575 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1576 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1577 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1578 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1579 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1580 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1581 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1582 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1583 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1584 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1585 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1586 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1587 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1588 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1589 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1590 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1591 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1592 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1593 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1594 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1595 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1596 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1597 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1598 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1600 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1601 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1602 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1603 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1604 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1605 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1606 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1607 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1608 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1609 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1611 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1612 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1613 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1614 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1615 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1616 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1617 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1618 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1619 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1620 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1621 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1623 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1624 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1625 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1626 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1627 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1628 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1629 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1630 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1631 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1632 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1633 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1634 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1635 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1636 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1637 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1638 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1639 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1640 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1641 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1642 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1643 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1644 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1645 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1647 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1648 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1649 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1650 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1651 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1652 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1653 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1654 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1655 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1656 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1657 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1658 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1661 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1662 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1663 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1664 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1665 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1666 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1667 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1668 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1669 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1670 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1671 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1672 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1673 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1678 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1679 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1680 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1681 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1682 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1683 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1684 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1685 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1686 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1687 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1690 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1691 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1695 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1696 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1699 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1700 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1701 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1702 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1705 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1706 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1708 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1709 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1711 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1712 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1713 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1714 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1715 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1716 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1718 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1720 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1743 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1744 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1745 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1746 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1748 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1751 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1752 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1753 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1754 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1755 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1756 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1757 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1758 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1761 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1767 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1768 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1770 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1771 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1772 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1773 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1774 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1775 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1776 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1777 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1779 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1780 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1781 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1783 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1793 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1794 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1795 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1796 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1797 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1798 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1800 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1801 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1802 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1803 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1804 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1805 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1806 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1807 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1808 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1809 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1810 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1811 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1812 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1813 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1814 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1815 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1816 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1817 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1818 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1820 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1821 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1822 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1823 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1825 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1836 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1837 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1838 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1839 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1840 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1841 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1843 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1844 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1845 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1846 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1847 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1848 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1849 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1850 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1851 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1852 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1853 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1854 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1855 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1856 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1857 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1858 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1859 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1860 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1861 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1863 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1864 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1865 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1866 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1868 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1874 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1877 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1878 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1879 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1880 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1881 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1882 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1883 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1884 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1885 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1886 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1887 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1890 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1891 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1892 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1893 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1894 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1895 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1896 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1897 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1898 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1899 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1900 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1901 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1902 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1903 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1904 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1905 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1906 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1907 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1908 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1909 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1910 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1911 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1912 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1913 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1914 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1915 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1916 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1917 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1918 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1919 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1920 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1921 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1922 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1923 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1924 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1925 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1926 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1927 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1928 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1929 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1930 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1931 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1932 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1933 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1934 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1935 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1936 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1937 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1938 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1939 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1940 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1941 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1942 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1943 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1946 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1947 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1948 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1949 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1950 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1951 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1952 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1953 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1954 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1955 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1956 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1957 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1958 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1959 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1960 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1961 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1962 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1963 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1975 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1977 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1978 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1979 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1980 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1983 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1985 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1995 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1997 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1998 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+1999 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2000 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2001 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2003 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2014 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2015 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2018 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2019 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2020 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2021 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2024 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2025 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2027 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2030 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2031 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2032 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2033 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2059 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2060 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2062 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2063 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2064 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2065 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2066 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2068 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2069 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2070 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2071 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2072 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2074 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2089 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2116 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2117 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2118 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2119 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2120 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2121 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2122 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2123 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2125 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2127 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2141 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2142 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2143 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2145 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2522 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2523 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2525 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2528 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2529 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2530 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2531 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2532 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2535 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2536 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2537 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2538 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2539 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2540 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2541 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2543 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2544 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2548 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2549 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2550 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2551 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2552 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2553 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2554 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2555 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2556 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2557 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2558 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2559 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2560 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2561 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2562 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2563 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2564 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2565 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2566 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2567 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2568 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2569 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2570 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2571 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2572 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2573 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2574 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2575 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2576 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2577 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2578 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2579 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2580 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2581 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2582 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2583 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2584 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2585 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2586 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2587 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2588 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2589 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2590 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2591 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2592 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2593 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2594 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2596 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2597 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2600 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2601 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2602 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2603 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2604 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2605 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2606 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2607 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2608 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2609 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2610 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2611 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2620 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2623 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2624 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2625 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2628 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2629 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2633 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2634 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2635 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2636 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2637 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2638 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2639 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2640 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2641 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2642 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2643 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2644 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2645 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2646 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2647 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2648 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2649 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2650 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2651 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2652 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2653 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2654 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2655 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2656 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2657 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2658 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2659 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2660 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2661 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2662 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2663 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2664 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2665 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2666 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2667 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2668 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2669 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2670 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2671 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2672 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2673 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2674 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2675 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2676 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2677 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2678 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2679 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2680 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2685 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2686 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2687 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2688 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2689 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2690 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2691 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2692 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2693 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2694 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2695 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2696 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2823 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2826 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2830 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2831 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2832 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2833 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2834 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2835 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2837 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2842 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2843 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2845 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2846 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2848 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2849 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2850 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2852 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2853 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2854 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2857 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2858 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2859 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2860 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2861 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2864 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2865 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2866 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2867 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2868 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2869 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2870 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2871 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2872 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2873 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2874 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2875 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2876 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2877 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2878 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2880 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2881 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2883 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2884 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2885 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2887 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2888 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2889 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2892 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2894 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2895 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2899 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2900 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2903 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2914 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2915 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2916 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2917 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2918 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2919 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2920 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2923 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2925 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2926 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2927 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2930 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2936 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2937 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2938 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2939 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2940 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2942 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2943 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2945 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2946 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2947 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2948 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2949 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2950 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2951 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2952 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2953 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2954 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2955 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2956 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2959 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2960 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2963 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+2974 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3003 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3004 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3005 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3006 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3007 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3008 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3009 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3010 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3011 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3012 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3013 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3015 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3016 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3017 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3018 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3019 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3020 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3021 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3022 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3023 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3024 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3025 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3027 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3028 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3029 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3030 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3031 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3032 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3033 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3034 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3035 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3037 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3039 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3040 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3050 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3051 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3052 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3053 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3054 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3055 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3056 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3057 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3058 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3061 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3062 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3066 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3067 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3070 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3071 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3073 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3075 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3076 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3077 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3079 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3084 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3086 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3170 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3174 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3178 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3182 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3186 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3187 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+41 src/main/java/org/apache/commons/math/exception/NullArgumentException.java 0.0
+50 src/main/java/org/apache/commons/math/exception/NullArgumentException.java 0.0
+65 src/main/java/org/apache/commons/math/complex/ComplexUtils.java 0.0
+69 src/main/java/org/apache/commons/math/complex/ComplexUtils.java 0.0
+356 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+367 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+368 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+380 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+42 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+43 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+44 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+45 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+46 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+47 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+48 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+49 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+50 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+51 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+52 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+54 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+66 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+67 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+116 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+126 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+150 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+151 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+152 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+153 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+154 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+155 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+156 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+157 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+158 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+159 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+160 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+161 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+162 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+163 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+165 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+45 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java 0.0
+67 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java 0.0

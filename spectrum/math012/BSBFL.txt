@@ -1,1010 +1,1010 @@
-58 src/main/java/org/apache/commons/math3/stat/descriptive/rank/Max.java
-59 src/main/java/org/apache/commons/math3/stat/descriptive/rank/Max.java
-87 src/main/java/org/apache/commons/math3/stat/descriptive/moment/GeometricMean.java
-58 src/main/java/org/apache/commons/math3/stat/descriptive/summary/Sum.java
-59 src/main/java/org/apache/commons/math3/stat/descriptive/summary/Sum.java
-80 src/main/java/org/apache/commons/math3/stat/descriptive/moment/FirstMoment.java
-81 src/main/java/org/apache/commons/math3/stat/descriptive/moment/FirstMoment.java
-82 src/main/java/org/apache/commons/math3/stat/descriptive/moment/FirstMoment.java
-83 src/main/java/org/apache/commons/math3/stat/descriptive/moment/FirstMoment.java
-57 src/main/java/org/apache/commons/math3/stat/descriptive/summary/SumOfSquares.java
-58 src/main/java/org/apache/commons/math3/stat/descriptive/summary/SumOfSquares.java
-58 src/main/java/org/apache/commons/math3/stat/descriptive/rank/Min.java
-59 src/main/java/org/apache/commons/math3/stat/descriptive/rank/Min.java
-91 src/main/java/org/apache/commons/math3/stat/descriptive/moment/Mean.java
-92 src/main/java/org/apache/commons/math3/stat/descriptive/moment/Mean.java
-60 src/main/java/org/apache/commons/math3/stat/descriptive/moment/SecondMoment.java
-61 src/main/java/org/apache/commons/math3/stat/descriptive/moment/SecondMoment.java
-66 src/main/java/org/apache/commons/math3/stat/descriptive/summary/SumOfLogs.java
-67 src/main/java/org/apache/commons/math3/stat/descriptive/summary/SumOfLogs.java
-113 src/main/java/org/apache/commons/math3/stat/descriptive/moment/Variance.java
-114 src/main/java/org/apache/commons/math3/stat/descriptive/moment/Variance.java
-79 src/main/java/org/apache/commons/math3/random/Well19937c.java
-86 src/main/java/org/apache/commons/math3/random/Well19937c.java
-87 src/main/java/org/apache/commons/math3/random/Well19937c.java
-89 src/main/java/org/apache/commons/math3/random/Well19937c.java
-90 src/main/java/org/apache/commons/math3/random/Well19937c.java
-91 src/main/java/org/apache/commons/math3/random/Well19937c.java
-92 src/main/java/org/apache/commons/math3/random/Well19937c.java
-94 src/main/java/org/apache/commons/math3/random/Well19937c.java
-95 src/main/java/org/apache/commons/math3/random/Well19937c.java
-96 src/main/java/org/apache/commons/math3/random/Well19937c.java
-97 src/main/java/org/apache/commons/math3/random/Well19937c.java
-98 src/main/java/org/apache/commons/math3/random/Well19937c.java
-100 src/main/java/org/apache/commons/math3/random/Well19937c.java
-101 src/main/java/org/apache/commons/math3/random/Well19937c.java
-102 src/main/java/org/apache/commons/math3/random/Well19937c.java
-103 src/main/java/org/apache/commons/math3/random/Well19937c.java
-108 src/main/java/org/apache/commons/math3/random/Well19937c.java
-109 src/main/java/org/apache/commons/math3/random/Well19937c.java
-111 src/main/java/org/apache/commons/math3/random/Well19937c.java
-87 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-88 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-89 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-101 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-102 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-103 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-104 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-105 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-106 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-107 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-108 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-109 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-110 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-111 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-112 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-113 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-115 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-461 src/main/java/org/apache/commons/math3/random/RandomDataImpl.java
-132 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-648 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-714 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-715 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-717 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-725 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-246 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-247 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-57 src/main/java/org/apache/commons/math3/random/Well19937c.java
-38 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-167 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-115 src/main/java/org/apache/commons/math3/random/RandomDataImpl.java
-72 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-100 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-101 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-102 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-106 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-107 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-108 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-109 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-110 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-111 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-112 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-113 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-114 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-115 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-116 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-117 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-120 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-154 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-155 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-156 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-157 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-159 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-161 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-162 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-163 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-164 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-165 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-168 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-169 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-179 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-77 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-93 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-111 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-132 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-134 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-137 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-141 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-142 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-143 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-144 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-145 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-146 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-147 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-148 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-149 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-150 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-151 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-513 src/main/java/org/apache/commons/math3/special/Gamma.java
-514 src/main/java/org/apache/commons/math3/special/Gamma.java
-515 src/main/java/org/apache/commons/math3/special/Gamma.java
-517 src/main/java/org/apache/commons/math3/special/Gamma.java
-256 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-374 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-413 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-414 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-417 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-418 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-420 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-424 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-425 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-428 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-429 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-432 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-433 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-311 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-312 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-98 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-112 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-130 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-132 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-136 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-137 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-138 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-71 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-86 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-104 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-106 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-110 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-111 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-112 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-92 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-93 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-103 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-119 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-120 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-123 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-124 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-126 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-127 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-128 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-129 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-131 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java
-133 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-147 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-156 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-171 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-172 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-174 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-175 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-176 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-195 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-196 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-198 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-199 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-200 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-202 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-213 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-221 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-222 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-223 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-225 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-226 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-228 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-229 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-230 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-231 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-237 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-247 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-248 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-258 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-259 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-260 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-271 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-284 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-289 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-294 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-305 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java
-55 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-57 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-58 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-59 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-60 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-61 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-62 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-63 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-64 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-65 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-66 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-69 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-70 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-85 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-86 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-87 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-88 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-89 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-90 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-91 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-102 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-107 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-127 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-128 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-130 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-131 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-132 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-134 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-135 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-136 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-137 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-139 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java
-46 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java
-62 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java
-63 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java
-64 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java
-55 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-88 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-89 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-90 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-91 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-93 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-96 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-97 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-98 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-102 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-103 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-108 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-109 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-113 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-114 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-119 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-120 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-144 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-145 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-146 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-147 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-148 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-149 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-150 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-151 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-153 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-154 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-157 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-158 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-159 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-160 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-161 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-162 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-163 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-164 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-166 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-167 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-169 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-170 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-171 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-173 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-174 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-175 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-176 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-177 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-178 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-179 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-185 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-186 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-187 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-188 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-189 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-191 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-192 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-193 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-194 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-196 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-197 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-199 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-201 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-202 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-203 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-204 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-205 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-206 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-207 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-208 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-209 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-210 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-211 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-214 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-215 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-217 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-218 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-219 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-220 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-222 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-224 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-225 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-226 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-227 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-228 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-229 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-230 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java
-67 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-69 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-70 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-116 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-117 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-120 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-123 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-126 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-127 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-128 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-131 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-164 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-169 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-174 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-196 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-202 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-216 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-220 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-241 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-242 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-245 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-246 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-247 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-248 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-249 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-250 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-261 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-264 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java
-65 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-66 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-79 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-80 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-106 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-108 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-111 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-114 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-115 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-116 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-117 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-120 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-121 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-122 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-126 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-127 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-128 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-129 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-144 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-145 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-146 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-147 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-148 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-150 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-151 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-152 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-154 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-155 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-156 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-157 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-158 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-159 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-160 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-161 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-163 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java
-370 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-381 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-382 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-383 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-395 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-135 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-138 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-163 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-185 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-238 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-239 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-241 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-242 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-243 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-244 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-245 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-246 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-247 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-248 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-249 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-250 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-251 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-255 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-256 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-276 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-277 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-279 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-282 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-288 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-298 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-310 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-321 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-333 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-338 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-343 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-354 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java
-3737 src/main/java/org/apache/commons/math3/util/FastMath.java
-3738 src/main/java/org/apache/commons/math3/util/FastMath.java
-107 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-121 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-130 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-135 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-136 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-137 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-148 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-149 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-150 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-152 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-163 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-171 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-172 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-173 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-175 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-176 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-177 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-178 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-184 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-193 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-202 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-203 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-216 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-229 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-234 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-239 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-250 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java
-78 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
-81 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
-82 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
-353 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
-372 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
-373 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
-50 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-57 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-58 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-59 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-60 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-70 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-75 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-77 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-78 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-84 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-87 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-88 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-91 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-92 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-93 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-94 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-95 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-96 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-97 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-98 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-99 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-100 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-101 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-102 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-103 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-104 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-105 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-106 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-107 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-108 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-109 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-110 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-111 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-112 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-113 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-114 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-115 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-116 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-117 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-118 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-119 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-120 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-121 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-122 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-123 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-124 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-125 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-126 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-127 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-128 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-129 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-130 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-131 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-132 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-133 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-134 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-135 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-136 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-137 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-138 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-139 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-140 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-141 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-142 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-143 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-144 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-145 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-146 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-147 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-148 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-149 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-150 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-151 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-152 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-153 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-154 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-155 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-156 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-157 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-158 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-159 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-160 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-161 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-162 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-163 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-164 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-165 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-166 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-167 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-168 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-169 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-170 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-171 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-172 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-173 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-174 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-175 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-176 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-177 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-178 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-179 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-180 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-181 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-182 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-183 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-184 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-185 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-186 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-187 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-188 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-189 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-190 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-191 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-192 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-193 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-194 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-199 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-200 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-201 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-202 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-203 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-204 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-205 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-206 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-207 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-208 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-209 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-210 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-211 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-212 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-213 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-214 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-215 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-216 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-217 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-218 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-219 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-221 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java
-37 src/main/java/org/apache/commons/math3/analysis/solvers/AbstractUnivariateSolver.java
-247 src/main/java/org/apache/commons/math3/special/Gamma.java
-249 src/main/java/org/apache/commons/math3/special/Gamma.java
-251 src/main/java/org/apache/commons/math3/special/Gamma.java
-252 src/main/java/org/apache/commons/math3/special/Gamma.java
-253 src/main/java/org/apache/commons/math3/special/Gamma.java
-254 src/main/java/org/apache/commons/math3/special/Gamma.java
-255 src/main/java/org/apache/commons/math3/special/Gamma.java
-256 src/main/java/org/apache/commons/math3/special/Gamma.java
-257 src/main/java/org/apache/commons/math3/special/Gamma.java
-258 src/main/java/org/apache/commons/math3/special/Gamma.java
-259 src/main/java/org/apache/commons/math3/special/Gamma.java
-260 src/main/java/org/apache/commons/math3/special/Gamma.java
-279 src/main/java/org/apache/commons/math3/special/Gamma.java
-316 src/main/java/org/apache/commons/math3/special/Gamma.java
-318 src/main/java/org/apache/commons/math3/special/Gamma.java
-319 src/main/java/org/apache/commons/math3/special/Gamma.java
-320 src/main/java/org/apache/commons/math3/special/Gamma.java
-323 src/main/java/org/apache/commons/math3/special/Gamma.java
-326 src/main/java/org/apache/commons/math3/special/Gamma.java
-327 src/main/java/org/apache/commons/math3/special/Gamma.java
-328 src/main/java/org/apache/commons/math3/special/Gamma.java
-329 src/main/java/org/apache/commons/math3/special/Gamma.java
-330 src/main/java/org/apache/commons/math3/special/Gamma.java
-331 src/main/java/org/apache/commons/math3/special/Gamma.java
-333 src/main/java/org/apache/commons/math3/special/Gamma.java
-334 src/main/java/org/apache/commons/math3/special/Gamma.java
-337 src/main/java/org/apache/commons/math3/special/Gamma.java
-339 src/main/java/org/apache/commons/math3/special/Gamma.java
-341 src/main/java/org/apache/commons/math3/special/Gamma.java
-344 src/main/java/org/apache/commons/math3/special/Gamma.java
-348 src/main/java/org/apache/commons/math3/special/Gamma.java
-394 src/main/java/org/apache/commons/math3/special/Gamma.java
-396 src/main/java/org/apache/commons/math3/special/Gamma.java
-398 src/main/java/org/apache/commons/math3/special/Gamma.java
-401 src/main/java/org/apache/commons/math3/special/Gamma.java
-404 src/main/java/org/apache/commons/math3/special/Gamma.java
-405 src/main/java/org/apache/commons/math3/special/Gamma.java
-406 src/main/java/org/apache/commons/math3/special/Gamma.java
-407 src/main/java/org/apache/commons/math3/special/Gamma.java
-408 src/main/java/org/apache/commons/math3/special/Gamma.java
-409 src/main/java/org/apache/commons/math3/special/Gamma.java
-410 src/main/java/org/apache/commons/math3/special/Gamma.java
-411 src/main/java/org/apache/commons/math3/special/Gamma.java
-412 src/main/java/org/apache/commons/math3/special/Gamma.java
-413 src/main/java/org/apache/commons/math3/special/Gamma.java
-414 src/main/java/org/apache/commons/math3/special/Gamma.java
-415 src/main/java/org/apache/commons/math3/special/Gamma.java
-417 src/main/java/org/apache/commons/math3/special/Gamma.java
-418 src/main/java/org/apache/commons/math3/special/Gamma.java
-421 src/main/java/org/apache/commons/math3/special/Gamma.java
-534 src/main/java/org/apache/commons/math3/special/Gamma.java
-537 src/main/java/org/apache/commons/math3/special/Gamma.java
-542 src/main/java/org/apache/commons/math3/special/Gamma.java
-543 src/main/java/org/apache/commons/math3/special/Gamma.java
-544 src/main/java/org/apache/commons/math3/special/Gamma.java
-545 src/main/java/org/apache/commons/math3/special/Gamma.java
-546 src/main/java/org/apache/commons/math3/special/Gamma.java
-547 src/main/java/org/apache/commons/math3/special/Gamma.java
-548 src/main/java/org/apache/commons/math3/special/Gamma.java
-549 src/main/java/org/apache/commons/math3/special/Gamma.java
-550 src/main/java/org/apache/commons/math3/special/Gamma.java
-551 src/main/java/org/apache/commons/math3/special/Gamma.java
-552 src/main/java/org/apache/commons/math3/special/Gamma.java
-553 src/main/java/org/apache/commons/math3/special/Gamma.java
-554 src/main/java/org/apache/commons/math3/special/Gamma.java
-555 src/main/java/org/apache/commons/math3/special/Gamma.java
-556 src/main/java/org/apache/commons/math3/special/Gamma.java
-557 src/main/java/org/apache/commons/math3/special/Gamma.java
-558 src/main/java/org/apache/commons/math3/special/Gamma.java
-559 src/main/java/org/apache/commons/math3/special/Gamma.java
-560 src/main/java/org/apache/commons/math3/special/Gamma.java
-561 src/main/java/org/apache/commons/math3/special/Gamma.java
-562 src/main/java/org/apache/commons/math3/special/Gamma.java
-563 src/main/java/org/apache/commons/math3/special/Gamma.java
-564 src/main/java/org/apache/commons/math3/special/Gamma.java
-565 src/main/java/org/apache/commons/math3/special/Gamma.java
-566 src/main/java/org/apache/commons/math3/special/Gamma.java
-567 src/main/java/org/apache/commons/math3/special/Gamma.java
-568 src/main/java/org/apache/commons/math3/special/Gamma.java
-569 src/main/java/org/apache/commons/math3/special/Gamma.java
-570 src/main/java/org/apache/commons/math3/special/Gamma.java
-571 src/main/java/org/apache/commons/math3/special/Gamma.java
-572 src/main/java/org/apache/commons/math3/special/Gamma.java
-573 src/main/java/org/apache/commons/math3/special/Gamma.java
-574 src/main/java/org/apache/commons/math3/special/Gamma.java
-575 src/main/java/org/apache/commons/math3/special/Gamma.java
-576 src/main/java/org/apache/commons/math3/special/Gamma.java
-577 src/main/java/org/apache/commons/math3/special/Gamma.java
-578 src/main/java/org/apache/commons/math3/special/Gamma.java
-579 src/main/java/org/apache/commons/math3/special/Gamma.java
-580 src/main/java/org/apache/commons/math3/special/Gamma.java
-581 src/main/java/org/apache/commons/math3/special/Gamma.java
-582 src/main/java/org/apache/commons/math3/special/Gamma.java
-583 src/main/java/org/apache/commons/math3/special/Gamma.java
-584 src/main/java/org/apache/commons/math3/special/Gamma.java
-585 src/main/java/org/apache/commons/math3/special/Gamma.java
-586 src/main/java/org/apache/commons/math3/special/Gamma.java
-587 src/main/java/org/apache/commons/math3/special/Gamma.java
-588 src/main/java/org/apache/commons/math3/special/Gamma.java
-589 src/main/java/org/apache/commons/math3/special/Gamma.java
-590 src/main/java/org/apache/commons/math3/special/Gamma.java
-591 src/main/java/org/apache/commons/math3/special/Gamma.java
-592 src/main/java/org/apache/commons/math3/special/Gamma.java
-593 src/main/java/org/apache/commons/math3/special/Gamma.java
-594 src/main/java/org/apache/commons/math3/special/Gamma.java
-595 src/main/java/org/apache/commons/math3/special/Gamma.java
-596 src/main/java/org/apache/commons/math3/special/Gamma.java
-597 src/main/java/org/apache/commons/math3/special/Gamma.java
-598 src/main/java/org/apache/commons/math3/special/Gamma.java
-599 src/main/java/org/apache/commons/math3/special/Gamma.java
-600 src/main/java/org/apache/commons/math3/special/Gamma.java
-601 src/main/java/org/apache/commons/math3/special/Gamma.java
-602 src/main/java/org/apache/commons/math3/special/Gamma.java
-603 src/main/java/org/apache/commons/math3/special/Gamma.java
-604 src/main/java/org/apache/commons/math3/special/Gamma.java
-605 src/main/java/org/apache/commons/math3/special/Gamma.java
-606 src/main/java/org/apache/commons/math3/special/Gamma.java
-607 src/main/java/org/apache/commons/math3/special/Gamma.java
-608 src/main/java/org/apache/commons/math3/special/Gamma.java
-609 src/main/java/org/apache/commons/math3/special/Gamma.java
-611 src/main/java/org/apache/commons/math3/special/Gamma.java
-628 src/main/java/org/apache/commons/math3/special/Gamma.java
-631 src/main/java/org/apache/commons/math3/special/Gamma.java
-635 src/main/java/org/apache/commons/math3/special/Gamma.java
-343 src/main/java/org/apache/commons/math3/util/MathArrays.java
-344 src/main/java/org/apache/commons/math3/util/MathArrays.java
-348 src/main/java/org/apache/commons/math3/util/MathArrays.java
-349 src/main/java/org/apache/commons/math3/util/MathArrays.java
-350 src/main/java/org/apache/commons/math3/util/MathArrays.java
-351 src/main/java/org/apache/commons/math3/util/MathArrays.java
-352 src/main/java/org/apache/commons/math3/util/MathArrays.java
-353 src/main/java/org/apache/commons/math3/util/MathArrays.java
-354 src/main/java/org/apache/commons/math3/util/MathArrays.java
-355 src/main/java/org/apache/commons/math3/util/MathArrays.java
-356 src/main/java/org/apache/commons/math3/util/MathArrays.java
-357 src/main/java/org/apache/commons/math3/util/MathArrays.java
-358 src/main/java/org/apache/commons/math3/util/MathArrays.java
-359 src/main/java/org/apache/commons/math3/util/MathArrays.java
-360 src/main/java/org/apache/commons/math3/util/MathArrays.java
-361 src/main/java/org/apache/commons/math3/util/MathArrays.java
-362 src/main/java/org/apache/commons/math3/util/MathArrays.java
-363 src/main/java/org/apache/commons/math3/util/MathArrays.java
-364 src/main/java/org/apache/commons/math3/util/MathArrays.java
-365 src/main/java/org/apache/commons/math3/util/MathArrays.java
-366 src/main/java/org/apache/commons/math3/util/MathArrays.java
-367 src/main/java/org/apache/commons/math3/util/MathArrays.java
-368 src/main/java/org/apache/commons/math3/util/MathArrays.java
-369 src/main/java/org/apache/commons/math3/util/MathArrays.java
-370 src/main/java/org/apache/commons/math3/util/MathArrays.java
-371 src/main/java/org/apache/commons/math3/util/MathArrays.java
-372 src/main/java/org/apache/commons/math3/util/MathArrays.java
-373 src/main/java/org/apache/commons/math3/util/MathArrays.java
-374 src/main/java/org/apache/commons/math3/util/MathArrays.java
-375 src/main/java/org/apache/commons/math3/util/MathArrays.java
-376 src/main/java/org/apache/commons/math3/util/MathArrays.java
-377 src/main/java/org/apache/commons/math3/util/MathArrays.java
-378 src/main/java/org/apache/commons/math3/util/MathArrays.java
-380 src/main/java/org/apache/commons/math3/util/MathArrays.java
-382 src/main/java/org/apache/commons/math3/util/MathArrays.java
-448 src/main/java/org/apache/commons/math3/util/MathArrays.java
-449 src/main/java/org/apache/commons/math3/util/MathArrays.java
-464 src/main/java/org/apache/commons/math3/util/MathArrays.java
-465 src/main/java/org/apache/commons/math3/util/MathArrays.java
-67 src/main/java/org/apache/commons/math3/special/Erf.java
-70 src/main/java/org/apache/commons/math3/special/Erf.java
-71 src/main/java/org/apache/commons/math3/special/Erf.java
-98 src/main/java/org/apache/commons/math3/special/Erf.java
-101 src/main/java/org/apache/commons/math3/special/Erf.java
-102 src/main/java/org/apache/commons/math3/special/Erf.java
-116 src/main/java/org/apache/commons/math3/special/Erf.java
-120 src/main/java/org/apache/commons/math3/special/Erf.java
-121 src/main/java/org/apache/commons/math3/special/Erf.java
-122 src/main/java/org/apache/commons/math3/special/Erf.java
-123 src/main/java/org/apache/commons/math3/special/Erf.java
-124 src/main/java/org/apache/commons/math3/special/Erf.java
-125 src/main/java/org/apache/commons/math3/special/Erf.java
-126 src/main/java/org/apache/commons/math3/special/Erf.java
-127 src/main/java/org/apache/commons/math3/special/Erf.java
-65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-137 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-147 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-171 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-172 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-173 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-174 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-175 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-176 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-177 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-178 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-179 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-180 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-181 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-182 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-183 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-184 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-186 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-6142 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-6150 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-6158 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-6166 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-45 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-126 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-129 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-133 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-134 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-135 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-136 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-138 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-139 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-140 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-141 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-142 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-143 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-144 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-145 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-146 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-147 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-148 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-149 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-150 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-151 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-152 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-153 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-154 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-155 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-156 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-157 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-158 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-159 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-160 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-161 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-162 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-163 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-164 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-165 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-166 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-167 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-168 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-169 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-170 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-171 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-172 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-174 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-179 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java
-48 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java
-63 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java
-80 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java
-82 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java
-83 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java
-102 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java
-70 src/main/java/org/apache/commons/math3/util/Precision.java
-77 src/main/java/org/apache/commons/math3/util/Precision.java
-244 src/main/java/org/apache/commons/math3/util/Precision.java
-272 src/main/java/org/apache/commons/math3/util/Precision.java
-331 src/main/java/org/apache/commons/math3/util/Precision.java
-332 src/main/java/org/apache/commons/math3/util/Precision.java
-335 src/main/java/org/apache/commons/math3/util/Precision.java
-336 src/main/java/org/apache/commons/math3/util/Precision.java
-338 src/main/java/org/apache/commons/math3/util/Precision.java
-342 src/main/java/org/apache/commons/math3/util/Precision.java
-344 src/main/java/org/apache/commons/math3/util/Precision.java
-48 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-85 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-88 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-91 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-92 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-94 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-95 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-96 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-97 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-98 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-99 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-100 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-101 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-102 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-103 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-104 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-105 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-106 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-107 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-108 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-112 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-113 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-116 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-159 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-160 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-161 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-208 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-212 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java
-67 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-68 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-69 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-95 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-96 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-97 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-112 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-118 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-124 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-130 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-136 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-142 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-155 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-156 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-175 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-178 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-179 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-180 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-181 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-182 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-183 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-191 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-194 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-199 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-275 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-308 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-52 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-57 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-59 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-60 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-75 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-89 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-90 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-91 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-92 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-93 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-94 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-95 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-96 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-97 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-98 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-99 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java
-45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-63 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-91 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-112 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-113 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-114 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-116 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-157 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-158 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-161 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-162 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-163 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-166 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-167 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-168 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-171 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-172 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-174 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-175 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-177 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-178 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-179 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-188 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-189 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-190 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-199 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-200 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-201 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-202 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-203 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-204 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-206 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-207 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-208 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-209 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-211 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-212 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-213 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-214 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-215 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-216 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-217 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-218 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-219 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-220 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-221 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-222 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-223 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-224 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-225 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-226 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-227 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-228 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-229 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-230 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-269 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-273 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-274 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-275 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-277 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-46 src/main/java/org/apache/commons/math3/util/Pair.java
-47 src/main/java/org/apache/commons/math3/util/Pair.java
-84 src/main/java/org/apache/commons/math3/util/Pair.java
-94 src/main/java/org/apache/commons/math3/util/Pair.java
-264 src/main/java/org/apache/commons/math3/util/MathUtils.java
-68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math3/exception/NotStrictlyPositiveException.java
+58 src/main/java/org/apache/commons/math3/stat/descriptive/rank/Max.java 0.816496580927726
+59 src/main/java/org/apache/commons/math3/stat/descriptive/rank/Max.java 0.816496580927726
+87 src/main/java/org/apache/commons/math3/stat/descriptive/moment/GeometricMean.java 0.816496580927726
+58 src/main/java/org/apache/commons/math3/stat/descriptive/summary/Sum.java 0.816496580927726
+59 src/main/java/org/apache/commons/math3/stat/descriptive/summary/Sum.java 0.816496580927726
+80 src/main/java/org/apache/commons/math3/stat/descriptive/moment/FirstMoment.java 0.816496580927726
+81 src/main/java/org/apache/commons/math3/stat/descriptive/moment/FirstMoment.java 0.816496580927726
+82 src/main/java/org/apache/commons/math3/stat/descriptive/moment/FirstMoment.java 0.816496580927726
+83 src/main/java/org/apache/commons/math3/stat/descriptive/moment/FirstMoment.java 0.816496580927726
+57 src/main/java/org/apache/commons/math3/stat/descriptive/summary/SumOfSquares.java 0.816496580927726
+58 src/main/java/org/apache/commons/math3/stat/descriptive/summary/SumOfSquares.java 0.816496580927726
+58 src/main/java/org/apache/commons/math3/stat/descriptive/rank/Min.java 0.816496580927726
+59 src/main/java/org/apache/commons/math3/stat/descriptive/rank/Min.java 0.816496580927726
+91 src/main/java/org/apache/commons/math3/stat/descriptive/moment/Mean.java 0.816496580927726
+92 src/main/java/org/apache/commons/math3/stat/descriptive/moment/Mean.java 0.816496580927726
+60 src/main/java/org/apache/commons/math3/stat/descriptive/moment/SecondMoment.java 0.816496580927726
+61 src/main/java/org/apache/commons/math3/stat/descriptive/moment/SecondMoment.java 0.816496580927726
+66 src/main/java/org/apache/commons/math3/stat/descriptive/summary/SumOfLogs.java 0.816496580927726
+67 src/main/java/org/apache/commons/math3/stat/descriptive/summary/SumOfLogs.java 0.816496580927726
+113 src/main/java/org/apache/commons/math3/stat/descriptive/moment/Variance.java 0.816496580927726
+114 src/main/java/org/apache/commons/math3/stat/descriptive/moment/Variance.java 0.816496580927726
+93 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+111 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+132 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+134 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+137 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+141 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+142 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+143 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+144 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+145 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+146 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+147 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+148 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+149 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+150 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+151 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.4666666666666667
+513 src/main/java/org/apache/commons/math3/special/Gamma.java 0.4666666666666667
+514 src/main/java/org/apache/commons/math3/special/Gamma.java 0.4666666666666667
+515 src/main/java/org/apache/commons/math3/special/Gamma.java 0.4666666666666667
+517 src/main/java/org/apache/commons/math3/special/Gamma.java 0.4666666666666667
+79 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+86 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+87 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+89 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+90 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+91 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+92 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+94 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+95 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+96 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+97 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+98 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+100 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+101 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+102 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+103 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+108 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+109 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+111 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.408248290463863
+87 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+88 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+89 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+101 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+102 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+103 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+104 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+105 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+106 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+107 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+108 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+109 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+110 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+111 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+112 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+113 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+115 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.408248290463863
+461 src/main/java/org/apache/commons/math3/random/RandomDataImpl.java 0.408248290463863
+132 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.408248290463863
+648 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.408248290463863
+714 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.408248290463863
+715 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.408248290463863
+717 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.408248290463863
+725 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.408248290463863
+246 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.408248290463863
+247 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.408248290463863
+57 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.3872983346207417
+38 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.3872983346207417
+167 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.3872983346207417
+115 src/main/java/org/apache/commons/math3/random/RandomDataImpl.java 0.3872983346207417
+72 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+100 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+101 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+102 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+106 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+107 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+108 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+109 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+110 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+111 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+112 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+113 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+114 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+115 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+116 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+117 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+120 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+154 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+155 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+156 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+157 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+159 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+161 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+162 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+163 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+164 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+165 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+168 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+169 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+179 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.3872983346207417
+77 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.3872983346207417
+311 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.23570226039551587
+312 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.23570226039551587
+374 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+413 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+414 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+417 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+418 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+420 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+424 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+425 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+428 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+429 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+432 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+433 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.23570226039551587
+256 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.23570226039551587
+98 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.07856742013183861
+112 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.07856742013183861
+130 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.07856742013183861
+132 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.07856742013183861
+136 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.07856742013183861
+137 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.07856742013183861
+138 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.07856742013183861
+71 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.07647191129018725
+86 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.07647191129018725
+104 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.07647191129018725
+106 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.07647191129018725
+110 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.07647191129018725
+111 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.07647191129018725
+112 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.07647191129018725
+92 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+93 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+103 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+119 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+120 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+123 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+124 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+126 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+127 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+128 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+129 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+131 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegratorFactory.java 0.0
+133 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+147 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+156 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+171 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+172 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+174 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+175 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+176 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+195 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+196 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+198 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+199 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+200 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+202 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+213 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+221 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+222 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+223 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+225 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+226 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+228 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+229 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+230 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+231 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+237 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+247 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+248 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+258 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+259 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+260 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+271 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+284 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+289 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+294 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+305 src/main/java/org/apache/commons/math3/distribution/LogNormalDistribution.java 0.0
+55 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+57 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+58 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+59 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+60 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+61 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+62 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+63 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+64 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+65 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+66 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+69 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+70 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+85 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+86 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+87 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+88 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+89 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+90 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+91 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+102 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+107 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+127 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+128 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+130 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+131 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+132 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+134 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+135 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+136 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+137 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+139 src/main/java/org/apache/commons/math3/analysis/integration/gauss/BaseRuleFactory.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java 0.0
+62 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java 0.0
+63 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java 0.0
+64 src/main/java/org/apache/commons/math3/exception/OutOfRangeException.java 0.0
+55 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+88 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+89 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+90 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+91 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+93 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+96 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+97 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+98 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+102 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+103 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+108 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+109 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+113 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+114 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+119 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+120 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+144 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+145 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+146 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+147 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+148 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+149 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+150 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+151 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+153 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+154 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+157 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+158 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+159 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+160 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+161 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+162 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+163 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+164 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+166 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+167 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+169 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+170 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+171 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+173 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+174 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+175 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+176 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+177 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+178 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+179 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+185 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+186 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+187 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+188 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+189 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+191 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+192 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+193 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+194 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+196 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+197 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+199 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+201 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+202 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+203 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+204 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+205 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+206 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+207 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+208 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+209 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+210 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+211 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+214 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+215 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+217 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+218 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+219 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+220 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+222 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+224 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+225 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+226 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+227 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+228 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+229 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+230 src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java 0.0
+67 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+69 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+70 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+116 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+117 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+120 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+123 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+126 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+127 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+128 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+131 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+164 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+169 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+174 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+196 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+202 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+216 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+220 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+241 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+242 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+245 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+246 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+247 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+248 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+249 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+250 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+261 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+264 src/main/java/org/apache/commons/math3/analysis/integration/BaseAbstractUnivariateIntegrator.java 0.0
+65 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+66 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+79 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+80 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+106 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+108 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+111 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+114 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+115 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+116 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+117 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+120 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+121 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+122 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+126 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+127 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+128 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+129 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+144 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+145 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+146 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+147 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+148 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+150 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+151 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+152 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+154 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+155 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+156 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+157 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+158 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+159 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+160 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+161 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+163 src/main/java/org/apache/commons/math3/analysis/integration/IterativeLegendreGaussIntegrator.java 0.0
+370 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+381 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+382 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+383 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+395 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+135 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+138 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+163 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+185 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+238 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+239 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+241 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+242 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+243 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+244 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+245 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+246 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+247 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+248 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+249 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+250 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+251 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+255 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+256 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+276 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+277 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+279 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+282 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+288 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+298 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+310 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+321 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+333 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+338 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+343 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+354 src/main/java/org/apache/commons/math3/distribution/GammaDistribution.java 0.0
+3737 src/main/java/org/apache/commons/math3/util/FastMath.java 0.0
+3738 src/main/java/org/apache/commons/math3/util/FastMath.java 0.0
+107 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+121 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+130 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+135 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+136 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+137 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+148 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+149 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+150 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+152 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+163 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+171 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+172 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+173 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+175 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+176 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+177 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+178 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+184 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+193 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+202 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+203 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+216 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+229 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+234 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+239 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+250 src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java 0.0
+78 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java 0.0
+81 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java 0.0
+82 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java 0.0
+353 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java 0.0
+372 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java 0.0
+373 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java 0.0
+50 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+57 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+58 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+59 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+60 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+70 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+75 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+77 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+78 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+84 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+87 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+88 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+91 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+92 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+93 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+94 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+95 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+96 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+97 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+98 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+99 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+100 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+101 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+102 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+103 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+104 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+105 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+106 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+107 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+108 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+109 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+110 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+111 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+112 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+113 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+114 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+115 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+116 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+117 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+118 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+119 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+120 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+121 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+122 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+123 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+124 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+125 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+126 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+127 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+128 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+129 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+130 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+131 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+132 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+133 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+134 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+135 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+136 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+137 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+138 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+139 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+140 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+141 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+142 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+143 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+144 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+145 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+146 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+147 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+148 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+149 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+150 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+151 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+152 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+153 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+154 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+155 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+156 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+157 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+158 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+159 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+160 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+161 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+162 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+163 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+164 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+165 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+166 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+167 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+168 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+169 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+170 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+171 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+172 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+173 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+174 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+175 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+176 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+177 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+178 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+179 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+180 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+181 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+182 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+183 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+184 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+185 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+186 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+187 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+188 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+189 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+190 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+191 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+192 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+193 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+194 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+199 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+200 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+201 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+202 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+203 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+204 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+205 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+206 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+207 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+208 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+209 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+210 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+211 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+212 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+213 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+214 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+215 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+216 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+217 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+218 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+219 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+221 src/main/java/org/apache/commons/math3/analysis/integration/gauss/LegendreHighPrecisionRuleFactory.java 0.0
+37 src/main/java/org/apache/commons/math3/analysis/solvers/AbstractUnivariateSolver.java 0.0
+247 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+249 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+251 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+252 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+253 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+254 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+255 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+256 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+257 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+258 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+259 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+260 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+279 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+316 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+318 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+319 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+320 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+323 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+326 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+327 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+328 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+329 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+330 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+331 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+333 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+334 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+337 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+339 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+341 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+344 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+348 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+394 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+396 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+398 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+401 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+404 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+405 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+406 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+407 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+408 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+409 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+410 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+411 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+412 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+413 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+414 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+415 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+417 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+418 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+421 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+534 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+537 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+542 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+543 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+544 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+545 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+546 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+547 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+548 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+549 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+550 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+551 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+552 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+553 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+554 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+555 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+556 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+557 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+558 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+559 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+560 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+561 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+562 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+563 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+564 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+565 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+566 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+567 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+568 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+569 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+570 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+571 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+572 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+573 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+574 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+575 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+576 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+577 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+578 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+579 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+580 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+581 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+582 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+583 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+584 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+585 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+586 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+587 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+588 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+589 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+590 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+591 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+592 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+593 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+594 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+595 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+596 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+597 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+598 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+599 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+600 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+601 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+602 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+603 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+604 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+605 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+606 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+607 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+608 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+609 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+611 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+628 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+631 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+635 src/main/java/org/apache/commons/math3/special/Gamma.java 0.0
+343 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+344 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+348 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+349 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+350 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+351 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+352 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+353 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+354 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+355 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+356 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+357 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+358 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+359 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+360 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+361 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+362 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+363 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+364 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+365 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+366 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+367 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+368 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+369 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+370 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+371 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+372 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+373 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+374 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+375 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+376 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+377 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+378 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+380 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+382 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+448 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+449 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+464 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+465 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+67 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+70 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+71 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+98 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+101 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+102 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+116 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+120 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+121 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+122 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+123 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+124 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+125 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+126 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+127 src/main/java/org/apache/commons/math3/special/Erf.java 0.0
+65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+137 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+147 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+171 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+172 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+173 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+174 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+175 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+176 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+177 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+178 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+179 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+180 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+181 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+182 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+183 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+184 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+186 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+6142 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+6150 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+6158 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+6166 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+45 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+126 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+129 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+133 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+134 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+135 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+136 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+138 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+139 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+140 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+141 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+142 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+143 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+144 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+145 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+146 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+147 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+148 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+149 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+150 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+151 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+152 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+153 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+154 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+155 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+156 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+157 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+158 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+159 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+160 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+161 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+162 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+163 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+164 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+165 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+166 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+167 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+168 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+169 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+170 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+171 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+172 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+174 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+179 src/main/java/org/apache/commons/math3/util/ContinuedFraction.java 0.0
+48 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java 0.0
+63 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java 0.0
+80 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java 0.0
+82 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java 0.0
+83 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java 0.0
+102 src/main/java/org/apache/commons/math3/distribution/ChiSquaredDistribution.java 0.0
+70 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+77 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+244 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+272 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+331 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+332 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+335 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+336 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+338 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+342 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+344 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+48 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+85 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+88 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+91 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+92 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+94 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+95 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+96 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+97 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+98 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+99 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+100 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+101 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+102 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+103 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+104 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+105 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+106 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+107 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+108 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+112 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+113 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+116 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+159 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+160 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+161 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+208 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+212 src/main/java/org/apache/commons/math3/stat/inference/ChiSquareTest.java 0.0
+67 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+68 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+69 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+95 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+96 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+97 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+112 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+118 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+124 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+130 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+136 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+142 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+155 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+156 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+175 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+178 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+179 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+180 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+181 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+182 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+183 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+191 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+194 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+199 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+275 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+308 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.0
+52 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+57 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+59 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+60 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+75 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+89 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+90 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+91 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+92 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+93 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+94 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+95 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+96 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+97 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+98 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+99 src/main/java/org/apache/commons/math3/analysis/integration/gauss/GaussIntegrator.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+63 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+91 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+112 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+113 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+114 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+116 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+157 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+158 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+161 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+162 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+163 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+166 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+167 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+168 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+171 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+172 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+174 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+175 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+177 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+178 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+179 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+188 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+189 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+190 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+199 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+200 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+201 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+202 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+203 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+204 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+206 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+207 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+208 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+209 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+211 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+212 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+213 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+214 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+215 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+216 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+217 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+218 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+219 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+220 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+221 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+222 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+223 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+224 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+225 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+226 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+227 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+228 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+229 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+230 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+269 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+273 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+274 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+275 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+277 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+46 src/main/java/org/apache/commons/math3/util/Pair.java 0.0
+47 src/main/java/org/apache/commons/math3/util/Pair.java 0.0
+84 src/main/java/org/apache/commons/math3/util/Pair.java 0.0
+94 src/main/java/org/apache/commons/math3/util/Pair.java 0.0
+264 src/main/java/org/apache/commons/math3/util/MathUtils.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+48 src/main/java/org/apache/commons/math3/exception/NotStrictlyPositiveException.java 0.0

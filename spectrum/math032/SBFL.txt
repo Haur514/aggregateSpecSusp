@@ -1,723 +1,723 @@
-56 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-139 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-140 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-141 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-60 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java
-67 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java
-47 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-94 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-95 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-96 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-97 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-98 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-99 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-100 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-101 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-102 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-103 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-104 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-105 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-106 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-107 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-108 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-109 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-118 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-119 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-120 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-121 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-122 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-123 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-124 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-125 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-126 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-139 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-143 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-144 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-145 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-146 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-147 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-148 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-149 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-150 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-152 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-153 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-81 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-324 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-406 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-427 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-89 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-105 src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java
-106 src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java
-113 src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java
-120 src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java
-55 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-74 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-75 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-76 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-79 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-80 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-94 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-120 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-134 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-52 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-53 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-66 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-73 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-84 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-96 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-97 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-156 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-525 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java
-526 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java
-532 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java
-539 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java
-545 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java
-552 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java
-39 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java
-52 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java
-58 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java
-59 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java
-65 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java
-66 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java
-67 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java
-68 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java
-43 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java
-44 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java
-58 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java
-59 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java
-74 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java
-87 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java
-94 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java
-102 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java
-37 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-38 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-45 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-52 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-59 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-66 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-75 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-76 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-77 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-82 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-83 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-85 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-56 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-57 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-58 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-67 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-68 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-69 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-91 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-92 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-93 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-94 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-95 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-105 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-137 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-138 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-141 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-147 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-148 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-149 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-171 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-225 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-235 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-236 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-322 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-323 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-326 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-327 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-339 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-340 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-341 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-342 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-344 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-345 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-346 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-347 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-349 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-350 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-351 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-352 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-356 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-357 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-358 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-359 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-360 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-364 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-365 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-366 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-367 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-368 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-376 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-674 src/main/java/org/apache/commons/math3/util/MathArrays.java
-675 src/main/java/org/apache/commons/math3/util/MathArrays.java
-676 src/main/java/org/apache/commons/math3/util/MathArrays.java
-677 src/main/java/org/apache/commons/math3/util/MathArrays.java
-678 src/main/java/org/apache/commons/math3/util/MathArrays.java
-679 src/main/java/org/apache/commons/math3/util/MathArrays.java
-682 src/main/java/org/apache/commons/math3/util/MathArrays.java
-683 src/main/java/org/apache/commons/math3/util/MathArrays.java
-686 src/main/java/org/apache/commons/math3/util/MathArrays.java
-687 src/main/java/org/apache/commons/math3/util/MathArrays.java
-688 src/main/java/org/apache/commons/math3/util/MathArrays.java
-689 src/main/java/org/apache/commons/math3/util/MathArrays.java
-690 src/main/java/org/apache/commons/math3/util/MathArrays.java
-691 src/main/java/org/apache/commons/math3/util/MathArrays.java
-694 src/main/java/org/apache/commons/math3/util/MathArrays.java
-695 src/main/java/org/apache/commons/math3/util/MathArrays.java
-698 src/main/java/org/apache/commons/math3/util/MathArrays.java
-699 src/main/java/org/apache/commons/math3/util/MathArrays.java
-700 src/main/java/org/apache/commons/math3/util/MathArrays.java
-704 src/main/java/org/apache/commons/math3/util/MathArrays.java
-706 src/main/java/org/apache/commons/math3/util/MathArrays.java
-712 src/main/java/org/apache/commons/math3/util/MathArrays.java
-754 src/main/java/org/apache/commons/math3/util/MathArrays.java
-755 src/main/java/org/apache/commons/math3/util/MathArrays.java
-756 src/main/java/org/apache/commons/math3/util/MathArrays.java
-757 src/main/java/org/apache/commons/math3/util/MathArrays.java
-758 src/main/java/org/apache/commons/math3/util/MathArrays.java
-759 src/main/java/org/apache/commons/math3/util/MathArrays.java
-762 src/main/java/org/apache/commons/math3/util/MathArrays.java
-763 src/main/java/org/apache/commons/math3/util/MathArrays.java
-766 src/main/java/org/apache/commons/math3/util/MathArrays.java
-767 src/main/java/org/apache/commons/math3/util/MathArrays.java
-768 src/main/java/org/apache/commons/math3/util/MathArrays.java
-769 src/main/java/org/apache/commons/math3/util/MathArrays.java
-770 src/main/java/org/apache/commons/math3/util/MathArrays.java
-771 src/main/java/org/apache/commons/math3/util/MathArrays.java
-774 src/main/java/org/apache/commons/math3/util/MathArrays.java
-775 src/main/java/org/apache/commons/math3/util/MathArrays.java
-778 src/main/java/org/apache/commons/math3/util/MathArrays.java
-779 src/main/java/org/apache/commons/math3/util/MathArrays.java
-780 src/main/java/org/apache/commons/math3/util/MathArrays.java
-781 src/main/java/org/apache/commons/math3/util/MathArrays.java
-782 src/main/java/org/apache/commons/math3/util/MathArrays.java
-783 src/main/java/org/apache/commons/math3/util/MathArrays.java
-786 src/main/java/org/apache/commons/math3/util/MathArrays.java
-787 src/main/java/org/apache/commons/math3/util/MathArrays.java
-790 src/main/java/org/apache/commons/math3/util/MathArrays.java
-791 src/main/java/org/apache/commons/math3/util/MathArrays.java
-792 src/main/java/org/apache/commons/math3/util/MathArrays.java
-795 src/main/java/org/apache/commons/math3/util/MathArrays.java
-796 src/main/java/org/apache/commons/math3/util/MathArrays.java
-797 src/main/java/org/apache/commons/math3/util/MathArrays.java
-801 src/main/java/org/apache/commons/math3/util/MathArrays.java
-803 src/main/java/org/apache/commons/math3/util/MathArrays.java
-809 src/main/java/org/apache/commons/math3/util/MathArrays.java
-48 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-148 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-155 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-156 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-157 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-159 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-160 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-161 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-162 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-163 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-166 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-167 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-168 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-176 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-177 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-178 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-180 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-181 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-182 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-183 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-184 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-185 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-186 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-189 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-190 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-191 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-192 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-194 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-195 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-196 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-197 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-198 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-199 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-200 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-201 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-202 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-204 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-205 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java
-82 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-112 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-113 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-114 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-115 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-120 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-129 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-130 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-131 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-132 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-138 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-139 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-140 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-141 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-181 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-182 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-187 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-188 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-189 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-198 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-199 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-200 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-202 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-203 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-208 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-230 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-231 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-242 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-243 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-286 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-38 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java
-39 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java
-46 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java
-53 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java
-41 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java
-42 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java
-43 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java
-50 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java
-57 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java
-133 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-134 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-135 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-136 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-137 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-138 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-139 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-140 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-146 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-149 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-150 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-151 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-152 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-153 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-154 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-155 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-159 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-160 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-161 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-162 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-163 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-164 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-166 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-168 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-184 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-185 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-187 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-194 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-195 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-196 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-199 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-200 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-201 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-202 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-203 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-204 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-205 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-206 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-207 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-208 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-209 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-210 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-211 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-212 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-248 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-249 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-251 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-253 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-255 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-259 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-261 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-265 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-266 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-267 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-268 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-269 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-270 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-324 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-332 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-340 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-341 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-342 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-353 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-354 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-355 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-356 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-358 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-359 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-360 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-361 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-362 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-363 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-364 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-365 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-367 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-379 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-380 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-381 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-382 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-384 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-385 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-386 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-387 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-388 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-389 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-390 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-391 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-393 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-404 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-405 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-406 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-407 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-408 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-409 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-410 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-411 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-413 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-414 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-96 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-97 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-98 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-138 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-139 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-140 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-152 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-153 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-154 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-169 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-170 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-171 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-198 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-206 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-214 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-243 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-249 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-275 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-276 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-286 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-287 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-321 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-322 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-326 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-327 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-328 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-329 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-330 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-331 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-332 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-453 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-454 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-462 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-463 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-464 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-465 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-519 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-69 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java
-70 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java
-150 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java
-158 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java
-261 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java
-262 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java
-263 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java
-264 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java
-91 src/main/java/org/apache/commons/math3/util/MathUtils.java
-42 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-49 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-56 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-57 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-58 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-60 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-61 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-62 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-63 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-64 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-65 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-74 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-75 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-76 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-77 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-78 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-79 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-80 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-81 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-82 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-83 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-86 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-99 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-100 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-101 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-103 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-104 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-105 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-106 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-107 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-108 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-109 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-112 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-113 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-114 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-115 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-116 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-117 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-118 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-119 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-120 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-121 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-122 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-123 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-125 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-126 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-127 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-128 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-129 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-131 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-132 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-133 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-134 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-136 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-137 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java
-36 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-75 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-76 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-77 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-78 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-58 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java
-59 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java
-70 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java
-81 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java
-364 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
-365 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
-366 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
-367 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
-380 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
-381 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
-386 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java
-66 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Vector1D.java
-128 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Vector1D.java
-37 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-60 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-133 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-208 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-209 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-210 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-211 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-224 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-225 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-227 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-230 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-231 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-232 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-240 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-241 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-242 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-246 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java
-34 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java
-39 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java
-47 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java
-48 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java
-50 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java
-63 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java
-136 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-137 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-138 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-139 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-140 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-141 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-142 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-143 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-145 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-146 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-147 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-148 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-175 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-176 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-180 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-181 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-183 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-184 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-185 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-186 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-838 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-839 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-840 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-842 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-844 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-845 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-846 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java
-111 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-112 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-113 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-114 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-126 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-127 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-133 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-134 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-135 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-136 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-137 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-138 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-139 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-141 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-142 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-143 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-144 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java
-79 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java
-245 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-246 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-247 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-248 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-249 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-250 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-251 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-252 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-253 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-254 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-255 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-256 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-257 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-258 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-259 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-260 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-261 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-262 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-263 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-264 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-265 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-266 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-267 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-268 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-269 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-270 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-271 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-272 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-273 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-274 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-275 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-276 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-277 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-278 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-496 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-497 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-498 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-499 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-500 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-501 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-502 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-503 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-504 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-505 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-506 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-507 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-508 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-509 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-510 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-511 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-512 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-513 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-514 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-515 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-516 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-517 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-518 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-519 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-520 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-521 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-522 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-523 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-524 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-525 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-526 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-527 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-528 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-529 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-530 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-531 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-532 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-533 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-534 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-535 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-536 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-537 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-538 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-539 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-540 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-541 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-542 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-543 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-544 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-545 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-546 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-547 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-548 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-549 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-550 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-551 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java
-390 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-395 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-400 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-407 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-408 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-409 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-410 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-411 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-412 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-413 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-414 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-415 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-416 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-417 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-418 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-419 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-420 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-422 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java
-159 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-271 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-272 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-273 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-276 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-277 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-279 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-290 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-293 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-294 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-296 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-384 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-418 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java
-100 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-101 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-102 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-103 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-175 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-176 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-327 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java
-63 src/main/java/org/apache/commons/math3/util/Precision.java
-70 src/main/java/org/apache/commons/math3/util/Precision.java
-170 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-171 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-172 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-189 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-260 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-262 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-274 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-276 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-279 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java
-333 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-334 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-44 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-49 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-52 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-53 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-54 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-55 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-56 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-57 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-58 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-59 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-60 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-61 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
-63 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java
+56 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 1.0
+139 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 1.0
+140 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 1.0
+141 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 1.0
+60 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java 1.0
+67 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java 1.0
+47 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+94 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+95 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+96 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+97 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+98 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+99 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+100 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+101 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+102 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+103 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+104 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+105 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+106 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+107 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+108 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+109 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+118 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+119 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+120 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+121 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+122 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+123 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+124 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+125 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+126 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+139 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+143 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+144 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+145 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+146 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+147 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+148 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+149 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+150 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+152 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+153 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 1.0
+81 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.5773502691896258
+324 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.5
+406 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.5
+427 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.5
+89 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.4472135954999579
+105 src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java 0.4082482904638631
+106 src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java 0.4082482904638631
+113 src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java 0.4082482904638631
+120 src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java 0.4082482904638631
+55 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.4082482904638631
+74 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.4082482904638631
+75 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.4082482904638631
+76 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.4082482904638631
+79 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.4082482904638631
+80 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.4082482904638631
+94 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.4082482904638631
+120 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.4082482904638631
+134 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.4082482904638631
+52 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.4082482904638631
+53 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.4082482904638631
+66 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.4082482904638631
+73 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.4082482904638631
+84 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.4082482904638631
+96 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.4082482904638631
+97 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.4082482904638631
+156 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.4082482904638631
+525 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java 0.4082482904638631
+526 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java 0.4082482904638631
+532 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java 0.4082482904638631
+539 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java 0.4082482904638631
+545 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java 0.4082482904638631
+552 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java 0.4082482904638631
+39 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java 0.4082482904638631
+52 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java 0.4082482904638631
+58 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java 0.4082482904638631
+59 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java 0.4082482904638631
+65 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java 0.4082482904638631
+66 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java 0.4082482904638631
+67 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java 0.4082482904638631
+68 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java 0.4082482904638631
+43 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java 0.4082482904638631
+44 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java 0.4082482904638631
+58 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java 0.4082482904638631
+59 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java 0.4082482904638631
+74 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java 0.4082482904638631
+87 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java 0.4082482904638631
+94 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java 0.4082482904638631
+102 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java 0.4082482904638631
+37 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+38 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+45 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+52 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+59 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+66 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+75 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+76 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+77 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+82 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+83 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+85 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.4082482904638631
+56 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+57 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+58 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+67 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+68 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+69 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+91 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+92 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+93 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+94 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+95 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+105 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+137 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+138 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+141 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+147 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+148 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+149 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+171 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+225 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+235 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+236 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+322 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+323 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+326 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+327 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+339 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+340 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+341 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+342 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+344 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+345 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+346 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+347 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+349 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+350 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+351 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+352 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+356 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+357 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+358 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+359 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+360 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+364 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+365 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+366 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+367 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+368 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+376 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.4082482904638631
+674 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+675 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+676 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+677 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+678 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+679 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+682 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+683 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+686 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+687 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+688 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+689 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+690 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+691 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+694 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+695 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+698 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+699 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+700 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+704 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+706 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+712 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+754 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+755 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+756 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+757 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+758 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+759 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+762 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+763 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+766 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+767 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+768 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+769 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+770 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+771 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+774 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+775 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+778 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+779 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+780 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+781 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+782 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+783 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+786 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+787 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+790 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+791 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+792 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+795 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+796 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+797 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+801 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+803 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+809 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.4082482904638631
+48 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+148 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+155 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+156 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+157 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+159 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+160 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+161 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+162 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+163 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+166 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+167 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+168 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+176 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+177 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+178 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+180 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+181 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+182 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+183 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+184 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+185 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+186 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+189 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+190 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+191 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+192 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+194 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+195 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+196 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+197 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+198 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+199 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+200 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+201 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+202 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+204 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+205 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java 0.4082482904638631
+82 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+112 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+113 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+114 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+115 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+120 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+129 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+130 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+131 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+132 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+138 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+139 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+140 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+141 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+181 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+182 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+187 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+188 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+189 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+198 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+199 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+200 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+202 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+203 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+208 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+230 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+231 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+242 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+243 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+286 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.4082482904638631
+38 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java 0.4082482904638631
+39 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java 0.4082482904638631
+46 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java 0.4082482904638631
+53 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java 0.4082482904638631
+41 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java 0.4082482904638631
+42 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java 0.4082482904638631
+43 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java 0.4082482904638631
+50 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java 0.4082482904638631
+57 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java 0.4082482904638631
+133 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+134 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+135 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+136 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+137 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+138 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+139 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+140 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+146 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+149 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+150 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+151 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+152 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+153 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+154 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+155 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+159 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+160 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+161 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+162 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+163 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+164 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+166 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+168 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+184 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+185 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+187 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+194 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+195 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+196 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+199 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+200 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+201 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+202 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+203 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+204 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+205 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+206 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+207 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+208 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+209 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+210 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+211 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+212 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+248 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+249 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+251 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+253 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+255 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+259 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+261 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+265 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+266 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+267 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+268 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+269 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+270 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+324 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+332 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+340 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+341 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+342 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+353 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+354 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+355 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+356 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+358 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+359 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+360 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+361 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+362 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+363 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+364 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+365 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+367 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+379 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+380 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+381 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+382 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+384 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+385 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+386 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+387 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+388 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+389 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+390 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+391 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+393 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+404 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+405 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+406 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+407 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+408 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+409 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+410 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+411 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+413 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+414 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.4082482904638631
+96 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+97 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+98 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+138 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+139 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+140 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+152 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+153 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+154 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+169 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+170 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+171 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+198 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+206 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+214 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+243 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+249 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+275 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+276 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+286 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+287 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+321 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+322 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+326 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+327 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+328 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+329 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+330 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+331 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+332 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+453 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+454 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+462 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+463 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+464 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+465 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+519 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.4082482904638631
+69 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java 0.4082482904638631
+70 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java 0.4082482904638631
+150 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java 0.4082482904638631
+158 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java 0.4082482904638631
+261 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java 0.4082482904638631
+262 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java 0.4082482904638631
+263 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java 0.4082482904638631
+264 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java 0.4082482904638631
+91 src/main/java/org/apache/commons/math3/util/MathUtils.java 0.4082482904638631
+42 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+49 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+56 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+57 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+58 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+60 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+61 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+62 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+63 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+64 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+65 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+74 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+75 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+76 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+77 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+78 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+79 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+80 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+81 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+82 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+83 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+86 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+99 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+100 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+101 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+103 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+104 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+105 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+106 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+107 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+108 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+109 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+112 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+113 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+114 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+115 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+116 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+117 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+118 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+119 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+120 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+121 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+122 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+123 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+125 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+126 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+127 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+128 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+129 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+131 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+132 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+133 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+134 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+136 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+137 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java 0.4082482904638631
+36 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.4082482904638631
+75 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.4082482904638631
+76 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.4082482904638631
+77 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.4082482904638631
+78 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.4082482904638631
+58 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java 0.4082482904638631
+59 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java 0.4082482904638631
+70 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java 0.4082482904638631
+81 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java 0.4082482904638631
+364 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java 0.4082482904638631
+365 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java 0.4082482904638631
+366 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java 0.4082482904638631
+367 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java 0.4082482904638631
+380 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java 0.4082482904638631
+381 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java 0.4082482904638631
+386 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java 0.4082482904638631
+66 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Vector1D.java 0.4082482904638631
+128 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Vector1D.java 0.4082482904638631
+37 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+60 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+133 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+208 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+209 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+210 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+211 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+224 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+225 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+227 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+230 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+231 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+232 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+240 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+241 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+242 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+246 src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java 0.4082482904638631
+34 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java 0.0
+39 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java 0.0
+47 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java 0.0
+48 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java 0.0
+50 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java 0.0
+63 src/main/java/org/apache/commons/math3/geometry/partitioning/BoundarySizeVisitor.java 0.0
+136 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+137 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+138 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+139 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+140 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+141 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+142 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+143 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+145 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+146 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+147 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+148 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+175 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+176 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+180 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+181 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+183 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+184 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+185 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+186 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+838 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+839 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+840 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+842 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+844 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+845 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+846 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Rotation.java 0.0
+111 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+112 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+113 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+114 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+126 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+127 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+133 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+134 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+135 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+136 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+137 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+138 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+139 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+141 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+142 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+143 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+144 src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java 0.0
+79 src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java 0.0
+245 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+246 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+247 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+248 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+249 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+250 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+251 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+252 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+253 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+254 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+255 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+256 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+257 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+258 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+259 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+260 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+261 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+262 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+263 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+264 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+265 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+266 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+267 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+268 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+269 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+270 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+271 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+272 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+273 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+274 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+275 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+276 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+277 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+278 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+496 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+497 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+498 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+499 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+500 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+501 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+502 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+503 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+504 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+505 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+506 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+507 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+508 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+509 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+510 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+511 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+512 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+513 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+514 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+515 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+516 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+517 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+518 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+519 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+520 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+521 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+522 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+523 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+524 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+525 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+526 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+527 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+528 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+529 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+530 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+531 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+532 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+533 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+534 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+535 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+536 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+537 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+538 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+539 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+540 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+541 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+542 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+543 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+544 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+545 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+546 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+547 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+548 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+549 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+550 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+551 src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java 0.0
+390 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+395 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+400 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+407 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+408 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+409 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+410 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+411 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+412 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+413 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+414 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+415 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+416 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+417 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+418 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+419 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+420 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+422 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java 0.0
+159 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+271 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+272 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+273 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+276 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+277 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+279 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+290 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+293 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+294 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+296 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+384 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+418 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java 0.0
+100 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.0
+101 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.0
+102 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.0
+103 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.0
+175 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.0
+176 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.0
+327 src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java 0.0
+63 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+70 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+170 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.0
+171 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.0
+172 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.0
+189 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.0
+260 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.0
+262 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.0
+274 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.0
+276 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.0
+279 src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java 0.0
+333 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+334 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+44 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+49 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+52 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+53 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+54 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+55 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+56 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+57 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+58 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+59 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+60 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+61 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0
+63 src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java 0.0

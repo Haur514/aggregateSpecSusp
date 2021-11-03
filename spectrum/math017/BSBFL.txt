@@ -1,1447 +1,1447 @@
-1510 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1511 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1616 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1617 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1636 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1637 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1638 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1639 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1640 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1652 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1653 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1654 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1658 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1663 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1603 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1612 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1615 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1618 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1619 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1620 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1621 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1622 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1623 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1624 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1625 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1626 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1627 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1628 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1629 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1630 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1631 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1632 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1635 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1641 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1643 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1644 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1645 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1646 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1647 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1648 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1650 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1651 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1655 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1657 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1661 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1662 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1666 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1580 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1591 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2184 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2185 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1499 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1500 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1501 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1502 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1503 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1504 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1506 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1509 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1512 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1513 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1514 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1515 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1516 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1517 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1518 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1519 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1520 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1521 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1522 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1523 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1524 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1525 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1526 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1527 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1528 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1529 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1530 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1531 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1532 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1533 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1534 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1535 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1536 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1537 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1538 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1539 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1540 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1541 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1542 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1543 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1544 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1546 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1548 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1549 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1550 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1551 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1552 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1553 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1554 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1555 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1556 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1557 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1558 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1561 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1562 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1563 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1564 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1565 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1566 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1570 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1571 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1575 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1576 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1578 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1584 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1585 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1590 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1594 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-681 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-682 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-684 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-685 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2056 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2059 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-907 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-932 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2218 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-952 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-953 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-961 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-969 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-931 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-948 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2054 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2063 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2067 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2156 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2157 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2159 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2160 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2162 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2164 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2165 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2166 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2167 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2168 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2170 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2176 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2178 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2179 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2180 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2181 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2182 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2183 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2186 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2187 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2189 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2190 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2191 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2192 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2193 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2194 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2195 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2197 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2203 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2204 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2205 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2207 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2208 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2212 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2213 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2217 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2221 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-284 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-904 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-905 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-906 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-908 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-909 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-910 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-911 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-984 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-985 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-986 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-987 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-988 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-989 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-990 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-991 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-992 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-994 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-946 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-947 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-951 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-960 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-964 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-968 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-973 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-974 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-976 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-977 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-978 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-979 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-980 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-981 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-879 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-177 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-193 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-194 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-195 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-196 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-197 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-198 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-200 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-202 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-203 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-204 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-205 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-206 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-207 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-208 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-209 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-210 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-211 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-212 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-213 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-214 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-215 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-216 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-217 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-218 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-219 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-220 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-221 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-222 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-223 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-224 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-225 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-226 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-251 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-269 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-298 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-331 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-386 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-396 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-403 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-530 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-531 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-532 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-533 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-535 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-537 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-538 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-539 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-540 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-541 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-542 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-543 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-544 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-545 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-546 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-547 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-548 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-549 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-550 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-551 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-552 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-553 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-554 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-555 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-556 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-557 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-559 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-561 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-562 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-563 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-564 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-565 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-566 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-568 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-570 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-578 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-579 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-580 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-581 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-582 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-583 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-584 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-585 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-586 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-587 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-588 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-589 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-590 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-591 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-592 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-593 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-594 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-595 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-596 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-597 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-598 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-599 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-600 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-202 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-212 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-213 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-214 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-216 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-217 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-218 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-219 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-220 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-221 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-222 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-225 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-228 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-229 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-232 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-233 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-234 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-235 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-236 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-237 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-238 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-240 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-323 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-324 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-325 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-326 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-327 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-337 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-338 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-339 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-340 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-341 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-343 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-346 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-349 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-350 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-351 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-352 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-353 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-355 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-356 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-357 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-358 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-359 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-361 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-362 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-363 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-364 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-365 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-368 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-369 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-370 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-374 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-375 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-376 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-377 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-378 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-379 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-380 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-381 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-382 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-383 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-384 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-385 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-386 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-387 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-388 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-389 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-390 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-391 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-392 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-393 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-394 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-395 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-396 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-398 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-402 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-403 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-407 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-410 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-412 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-413 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-416 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-417 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-420 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-421 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-424 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-426 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-427 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-432 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-433 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-434 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-435 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-436 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-437 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-439 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-440 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-444 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-445 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-448 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-449 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-450 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-451 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-452 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-453 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-455 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-456 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-457 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-458 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-460 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-461 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-462 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-463 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-468 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-470 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-471 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-474 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-475 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-483 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-488 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-489 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-493 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-494 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-496 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-497 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-498 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-499 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-500 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-501 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-504 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-505 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-506 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-509 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-510 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-511 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-517 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-518 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-519 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-520 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-521 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-522 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-523 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-526 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-528 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-530 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-542 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-543 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-544 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-545 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-546 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-597 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-598 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-599 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-600 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-601 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-602 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-604 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-635 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-642 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-649 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1418 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1419 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1420 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1421 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1422 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1423 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1424 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1425 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1426 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1427 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1428 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1429 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1430 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1431 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1432 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1433 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1434 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1435 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1436 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1437 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1438 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1439 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1440 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1441 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1442 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1443 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1444 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1445 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1446 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1447 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1448 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1449 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1450 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1451 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1452 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1454 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1455 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1456 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1457 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1458 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1459 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1460 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1461 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1462 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1463 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1464 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1465 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1466 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1467 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1470 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1471 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1472 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1473 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1474 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1476 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1477 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1478 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1479 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1480 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1482 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1483 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1484 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1485 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1486 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1488 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1679 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1682 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1686 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1687 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1688 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1689 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1690 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1691 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1693 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1696 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1699 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1700 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1701 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1702 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1703 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1704 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1705 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1706 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1707 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1708 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1709 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1710 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1711 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1712 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1713 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1714 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1715 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1716 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1717 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1718 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1719 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1720 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1721 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1722 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1723 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1724 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1727 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1728 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1729 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1730 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1731 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1732 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1733 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1734 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2233 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2235 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2236 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2237 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2238 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2239 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2240 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2241 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2242 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2243 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2244 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2245 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2246 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2247 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2248 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2249 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2250 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2251 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2252 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2253 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2254 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2255 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2256 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2257 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2258 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2259 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2260 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2261 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2262 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2263 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2264 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2265 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2266 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2267 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2268 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2269 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2270 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2271 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2272 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2273 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2274 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2275 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2276 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2277 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2278 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2279 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2280 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2281 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2282 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2283 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2284 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2285 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2287 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2303 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-229 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-230 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-231 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-232 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-233 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-234 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-235 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-236 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-237 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-238 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-239 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-240 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-241 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-242 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-262 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-338 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-370 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-410 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-422 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-611 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-612 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-613 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-614 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-615 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-623 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-624 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-625 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-626 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-627 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-628 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-629 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-630 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-631 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-632 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-633 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-634 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-635 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-636 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-637 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-638 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-639 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-640 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-642 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-653 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-654 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-655 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-656 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-657 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-659 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-660 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-661 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-662 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-663 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-664 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-665 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-666 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-667 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-668 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-670 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-736 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-737 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-739 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-740 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-741 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-742 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-743 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-744 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-745 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-746 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-747 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-748 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-749 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-750 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-751 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-752 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-754 src/main/java/org/apache/commons/math3/dfp/DfpField.java
-70 src/main/java/org/apache/commons/math3/util/Precision.java
-77 src/main/java/org/apache/commons/math3/util/Precision.java
-182 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-183 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-184 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-185 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-186 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-194 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-226 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-227 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-243 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-244 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-245 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-246 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-247 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-259 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-260 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-261 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-262 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-263 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-265 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-266 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-267 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-269 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-270 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-271 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-272 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-273 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-274 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-275 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-276 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-277 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-278 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-279 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-280 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-281 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-282 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-283 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-284 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-285 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-286 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-287 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-289 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-290 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-291 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-292 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-293 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-294 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-295 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-296 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-297 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-298 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-299 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-300 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-301 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-302 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-304 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-305 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-306 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-308 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-312 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-313 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-314 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-315 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-472 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-570 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-614 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-656 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-669 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-670 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-672 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-673 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-697 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-698 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-700 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-702 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-703 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-704 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-707 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-708 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-711 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-712 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-713 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-714 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-715 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-716 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-717 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-718 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-719 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-720 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-722 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-723 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-724 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-725 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-726 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-727 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-728 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-729 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-730 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-731 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-732 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-733 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-734 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-735 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-740 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-741 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-742 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-743 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-745 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-756 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-757 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-758 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-759 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-760 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-761 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-762 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-765 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-766 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-767 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-768 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-769 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-771 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-781 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-782 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-783 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-784 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-785 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-786 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-787 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-790 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-791 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-792 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-793 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-794 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-796 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-804 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-805 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-806 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-807 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-808 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-810 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-819 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-820 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-821 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-822 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-823 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-825 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-834 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-835 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-836 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-837 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-838 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-840 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-849 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-850 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-851 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-852 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-853 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-855 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-872 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-887 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-888 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-889 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-890 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-891 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-893 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-935 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-955 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-965 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-975 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1004 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1012 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1020 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1029 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1032 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1033 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1036 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1045 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1047 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1051 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1055 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1062 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1063 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1064 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1065 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1066 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1067 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1073 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1074 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1080 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1081 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1082 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1083 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1084 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1086 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1087 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1088 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1089 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1090 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1091 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1092 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1093 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1094 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1095 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1096 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1097 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1098 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1099 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1100 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1101 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1102 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1103 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1104 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1105 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1106 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1107 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1108 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1109 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1110 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1111 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1112 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1113 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1114 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1115 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1116 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1117 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1118 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1119 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1120 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1121 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1122 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1123 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1124 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1125 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1127 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1136 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1138 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1140 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1141 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1144 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1145 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1148 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1149 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1152 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1153 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1156 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1165 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1173 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1174 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1175 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1182 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1183 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1185 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1186 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1188 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1189 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1191 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1199 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1201 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1202 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1204 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1207 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1208 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1209 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1210 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1211 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1212 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1213 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1214 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1215 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1216 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1217 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1218 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1220 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1231 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1232 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1233 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1236 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1237 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1238 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1239 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1240 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1241 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1242 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1244 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1254 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1255 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1256 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1257 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1258 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1259 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1262 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1263 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1264 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1265 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1266 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1267 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1268 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1269 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1270 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1271 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1272 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1273 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1274 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1275 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1276 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1277 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1278 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1279 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1280 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1281 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1282 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1283 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1284 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1285 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1286 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1287 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1288 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1289 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1290 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1293 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1294 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1297 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1300 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1301 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1303 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1304 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1307 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1308 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1309 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1315 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1316 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1319 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1320 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1324 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1325 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1326 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1327 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1329 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1333 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1334 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1335 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1337 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1342 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1343 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1344 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1345 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1346 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1347 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1348 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1349 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1354 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1355 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1356 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1357 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1358 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1359 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1360 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1361 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1362 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1365 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1366 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1367 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1368 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1369 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1370 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1371 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1372 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1373 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1374 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1375 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1378 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1379 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1380 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1381 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1382 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1383 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1384 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1385 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1388 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1389 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1390 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1393 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1400 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1401 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1402 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1410 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1697 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1698 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1736 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1737 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1738 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1742 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1743 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1744 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1745 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1750 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1751 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1752 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1753 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1754 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1757 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1758 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1759 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1760 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1761 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1762 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1763 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1764 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1765 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1766 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1767 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1768 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1769 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1770 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1771 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1772 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1773 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1774 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1775 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1776 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1777 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1778 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1779 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1780 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1781 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1782 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1783 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1784 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1785 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1786 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1787 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1788 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1789 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1790 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1791 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1792 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1793 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1794 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1795 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1796 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1797 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1798 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1799 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1800 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1801 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1802 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1803 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1804 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1805 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1806 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1807 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1808 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1809 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1810 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1811 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1812 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1813 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1814 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1815 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1816 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1817 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1818 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1819 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1820 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1821 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1822 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1823 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1824 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1825 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1826 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1827 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1828 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1829 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1830 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1831 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1832 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1833 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1834 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1835 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1836 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1837 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1838 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1839 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1840 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1841 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1842 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1843 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1844 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1845 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1846 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1849 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1850 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1851 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1852 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1853 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1854 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1858 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1859 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1863 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1864 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1866 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1867 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1870 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1871 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1876 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1877 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1880 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1891 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1892 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1893 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1894 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1895 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1896 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1897 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1898 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1899 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1902 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1903 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1904 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1905 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1906 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1907 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1908 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1909 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1912 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1913 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1914 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1915 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1916 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1917 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1918 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1920 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1922 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1923 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1924 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1925 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1926 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1927 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1928 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1930 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1931 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1932 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1933 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1934 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1935 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1936 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1937 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1939 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1940 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1941 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1944 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1950 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1959 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1961 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1964 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1965 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1966 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1967 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1968 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1969 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1970 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1971 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1972 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1973 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1974 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1975 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1976 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1977 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1978 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1979 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1980 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1981 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1982 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1984 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1985 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1986 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1987 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1988 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1989 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1990 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1991 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1992 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1993 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1995 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1998 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-1999 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2003 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2004 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2005 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2006 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2007 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2008 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2009 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2010 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2011 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2012 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2013 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2014 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2015 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2017 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2022 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2023 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2024 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2025 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2026 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2027 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2028 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2029 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2030 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2031 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2032 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2033 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2034 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2035 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2036 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2037 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2038 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2039 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2040 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2041 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2042 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2043 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2045 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2057 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2064 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2075 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2076 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2084 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2085 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2086 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2087 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2088 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2089 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2090 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2093 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2094 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2095 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2098 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2101 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2102 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2103 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2106 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2107 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2108 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2109 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2110 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2111 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2112 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2113 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2114 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2123 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2127 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2128 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2129 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2134 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2138 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2142 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2143 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2144 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2145 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2146 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2148 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2171 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2172 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2173 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2174 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2175 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2310 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2320 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2321 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2322 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2333 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2334 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2335 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2336 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2337 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2338 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2341 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2342 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2343 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2346 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2347 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2350 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2351 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2356 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2357 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2358 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2359 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2360 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2361 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2362 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2363 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2364 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2365 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2366 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2367 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2368 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2369 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2371 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2372 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2374 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2377 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2378 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2381 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2384 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2385 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2386 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2387 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2389 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2390 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2391 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2392 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2394 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2404 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2412 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2416 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2417 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2418 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2419 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-2420 src/main/java/org/apache/commons/math3/dfp/Dfp.java
-213 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-215 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-217 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-222 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-223 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-224 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-225 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-229 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-231 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-235 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-236 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-237 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-238 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-239 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-241 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-242 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-244 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-245 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-247 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-249 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-250 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
-253 src/main/java/org/apache/commons/math3/dfp/DfpMath.java
+1510 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1511 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1616 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1617 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1636 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1637 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1638 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1639 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1640 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1652 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1653 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1654 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1658 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1663 src/main/java/org/apache/commons/math3/dfp/Dfp.java 1.0
+1603 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1612 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1615 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1618 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1619 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1620 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1621 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1622 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1623 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1624 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1625 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1626 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1627 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1628 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1629 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1630 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1631 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1632 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1635 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1641 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1643 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1644 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1645 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1646 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1647 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1648 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1650 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1651 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1655 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1657 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1661 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1662 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1666 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.7071067811865475
+1580 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.5773502691896258
+1591 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.5
+1499 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1500 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1501 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1502 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1503 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1504 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1506 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1509 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1512 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1513 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1514 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1515 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1516 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1517 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1518 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1519 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1520 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1521 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1522 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1523 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1524 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1525 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1526 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1527 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1528 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1529 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1530 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1531 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1532 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1533 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1534 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1535 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1536 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1537 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1538 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1539 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1540 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1541 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1542 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1543 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1544 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1546 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1548 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1549 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1550 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1551 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1552 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1553 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1554 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1555 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1556 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1557 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1558 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1561 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1562 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1563 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1564 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1565 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1566 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1570 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1571 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1575 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1576 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1578 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1584 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1585 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1590 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+1594 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.4472135954999579
+681 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+682 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+684 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+685 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+907 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+932 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+2056 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+2059 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+2184 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+2185 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.3779644730092272
+931 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.35355339059327373
+961 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.35355339059327373
+969 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.35355339059327373
+948 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.31622776601683794
+952 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.31622776601683794
+953 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.31622776601683794
+2218 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.31622776601683794
+2054 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2063 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2067 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2156 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2157 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2159 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2160 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2162 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2164 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2165 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2166 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2167 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2168 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2170 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2176 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2178 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2179 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2180 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2181 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2182 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2183 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2186 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2187 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2189 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2190 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2191 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2192 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2193 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2194 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2195 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2197 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2203 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2204 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2205 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2207 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2208 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2212 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2213 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2217 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+2221 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.2773500981126146
+284 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.25
+904 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+905 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+906 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+908 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+909 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+910 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+911 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+984 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+985 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+986 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+987 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+988 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+989 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+990 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+991 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+992 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+994 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.23570226039551587
+946 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+947 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+951 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+960 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+964 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+968 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+973 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+974 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+976 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+977 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+978 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+979 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+980 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+981 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22941573387056174
+879 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.22360679774997896
+177 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+193 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+194 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+195 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+196 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+197 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+198 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+200 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+202 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+203 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+204 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+205 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+206 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+207 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+208 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+209 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+210 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+211 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+212 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+213 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+214 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+215 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+216 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+217 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+218 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+219 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+220 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+221 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+222 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+223 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+224 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+225 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+226 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+251 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+269 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+298 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+331 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+386 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+396 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+403 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+530 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+531 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+532 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+533 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+535 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+537 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+538 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+539 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+540 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+541 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+542 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+543 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+544 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+545 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+546 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+547 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+548 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+549 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+550 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+551 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+552 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+553 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+554 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+555 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+556 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+557 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+559 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+561 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+562 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+563 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+564 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+565 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+566 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+568 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+570 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+578 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+579 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+580 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+581 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+582 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+583 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+584 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+585 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+586 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+587 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+588 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+589 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+590 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+591 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+592 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+593 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+594 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+595 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+596 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+597 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+598 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+599 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+600 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.19611613513818404
+202 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+212 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+213 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+214 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+216 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+217 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+218 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+219 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+220 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+221 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+222 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+225 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+228 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+229 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+232 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+233 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+234 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+235 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+236 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+237 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+238 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+240 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+323 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+324 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+325 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+326 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+327 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+337 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+338 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+339 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+340 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+341 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+343 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+346 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+349 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+350 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+351 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+352 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+353 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+355 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+356 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+357 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+358 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+359 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+361 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+362 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+363 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+364 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+365 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+368 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+369 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+370 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+374 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+375 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+376 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+377 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+378 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+379 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+380 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+381 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+382 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+383 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+384 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+385 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+386 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+387 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+388 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+389 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+390 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+391 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+392 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+393 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+394 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+395 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+396 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+398 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+402 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+403 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+407 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+410 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+412 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+413 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+416 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+417 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+420 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+421 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+424 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+426 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+427 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+432 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+433 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+434 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+435 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+436 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+437 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+439 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+440 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+444 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+445 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+448 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+449 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+450 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+451 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+452 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+453 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+455 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+456 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+457 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+458 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+460 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+461 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+462 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+463 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+468 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+470 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+471 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+474 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+475 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+483 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+488 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+489 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+493 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+494 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+496 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+497 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+498 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+499 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+500 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+501 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+504 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+505 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+506 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+509 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+510 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+511 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+517 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+518 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+519 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+520 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+521 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+522 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+523 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+526 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+528 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+530 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+542 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+543 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+544 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+545 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+546 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+597 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+598 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+599 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+600 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+601 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+602 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+604 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+635 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+642 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+649 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1418 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1419 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1420 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1421 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1422 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1423 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1424 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1425 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1426 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1427 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1428 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1429 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1430 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1431 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1432 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1433 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1434 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1435 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1436 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1437 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1438 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1439 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1440 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1441 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1442 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1443 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1444 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1445 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1446 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1447 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1448 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1449 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1450 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1451 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1452 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1454 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1455 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1456 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1457 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1458 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1459 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1460 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1461 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1462 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1463 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1464 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1465 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1466 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1467 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1470 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1471 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1472 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1473 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1474 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1476 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1477 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1478 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1479 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1480 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1482 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1483 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1484 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1485 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1486 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1488 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1679 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1682 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1686 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1687 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1688 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1689 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1690 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1691 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1693 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1696 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1699 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1700 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1701 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1702 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1703 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1704 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1705 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1706 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1707 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1708 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1709 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1710 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1711 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1712 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1713 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1714 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1715 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1716 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1717 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1718 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1719 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1720 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1721 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1722 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1723 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1724 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1727 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1728 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1729 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1730 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1731 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1732 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1733 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+1734 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2233 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2235 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2236 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2237 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2238 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2239 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2240 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2241 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2242 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2243 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2244 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2245 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2246 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2247 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2248 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2249 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2250 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2251 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2252 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2253 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2254 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2255 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2256 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2257 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2258 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2259 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2260 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2261 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2262 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2263 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2264 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2265 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2266 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2267 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2268 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2269 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2270 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2271 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2272 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2273 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2274 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2275 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2276 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2277 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2278 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2279 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2280 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2281 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2282 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2283 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2284 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2285 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2287 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+2303 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+229 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+230 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+231 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+232 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+233 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+234 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+235 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+236 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+237 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+238 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+239 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+240 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+241 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+242 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+262 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+338 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+370 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+410 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+422 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+611 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+612 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+613 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+614 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+615 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+623 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+624 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+625 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+626 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+627 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+628 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+629 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+630 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+631 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+632 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+633 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+634 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+635 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+636 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+637 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+638 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+639 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+640 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+642 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+653 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+654 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+655 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+656 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+657 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+659 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+660 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+661 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+662 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+663 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+664 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+665 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+666 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+667 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+668 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+670 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+736 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+737 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+739 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+740 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+741 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+742 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+743 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+744 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+745 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+746 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+747 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+748 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+749 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+750 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+751 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+752 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+754 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
+70 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+77 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+182 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+183 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+184 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+185 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+186 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+194 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+226 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+227 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+243 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+244 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+245 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+246 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+247 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+259 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+260 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+261 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+262 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+263 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+265 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+266 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+267 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+269 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+270 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+271 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+272 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+273 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+274 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+275 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+276 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+277 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+278 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+279 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+280 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+281 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+282 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+283 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+284 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+285 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+286 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+287 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+289 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+290 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+291 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+292 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+293 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+294 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+295 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+296 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+297 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+298 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+299 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+300 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+301 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+302 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+304 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+305 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+306 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+308 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+312 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+313 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+314 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+315 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+472 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+570 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+614 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+656 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+669 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+670 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+672 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+673 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+697 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+698 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+700 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+702 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+703 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+704 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+707 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+708 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+711 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+712 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+713 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+714 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+715 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+716 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+717 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+718 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+719 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+720 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+722 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+723 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+724 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+725 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+726 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+727 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+728 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+729 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+730 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+731 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+732 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+733 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+734 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+735 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+740 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+741 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+742 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+743 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+745 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+756 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+757 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+758 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+759 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+760 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+761 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+762 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+765 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+766 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+767 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+768 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+769 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+771 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+781 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+782 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+783 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+784 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+785 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+786 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+787 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+790 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+791 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+792 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+793 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+794 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+796 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+804 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+805 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+806 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+807 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+808 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+810 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+819 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+820 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+821 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+822 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+823 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+825 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+834 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+835 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+836 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+837 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+838 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+840 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+849 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+850 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+851 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+852 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+853 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+855 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+872 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+887 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+888 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+889 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+890 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+891 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+893 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+935 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+955 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+965 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+975 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1004 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1012 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1020 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1029 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1032 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1033 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1036 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1045 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1047 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1051 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1055 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1062 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1063 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1064 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1065 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1066 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1067 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1073 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1074 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1080 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1081 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1082 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1083 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1084 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1086 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1087 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1088 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1089 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1090 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1091 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1092 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1093 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1094 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1095 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1096 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1097 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1098 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1099 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1100 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1101 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1102 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1103 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1104 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1105 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1106 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1107 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1108 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1109 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1110 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1111 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1112 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1113 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1114 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1115 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1116 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1117 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1118 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1119 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1120 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1121 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1122 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1123 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1124 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1125 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1127 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1136 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1138 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1140 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1141 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1144 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1145 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1148 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1149 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1152 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1153 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1156 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1165 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1173 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1174 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1175 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1182 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1183 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1185 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1186 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1188 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1189 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1191 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1199 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1201 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1202 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1204 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1207 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1208 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1209 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1210 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1211 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1212 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1213 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1214 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1215 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1216 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1217 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1218 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1220 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1231 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1232 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1233 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1236 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1237 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1238 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1239 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1240 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1241 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1242 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1244 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1254 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1255 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1256 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1257 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1258 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1259 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1262 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1263 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1264 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1265 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1266 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1267 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1268 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1269 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1270 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1271 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1272 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1273 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1274 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1275 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1276 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1277 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1278 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1279 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1280 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1281 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1282 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1283 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1284 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1285 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1286 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1287 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1288 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1289 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1290 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1293 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1294 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1297 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1300 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1301 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1303 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1304 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1307 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1308 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1309 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1315 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1316 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1319 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1320 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1324 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1325 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1326 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1327 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1329 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1333 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1334 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1335 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1337 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1342 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1343 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1344 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1345 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1346 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1347 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1348 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1349 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1354 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1355 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1356 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1357 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1358 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1359 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1360 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1361 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1362 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1365 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1366 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1367 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1368 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1369 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1370 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1371 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1372 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1373 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1374 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1375 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1378 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1379 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1380 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1381 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1382 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1383 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1384 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1385 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1388 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1389 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1390 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1393 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1400 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1401 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1402 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1410 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1697 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1698 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1736 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1737 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1738 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1742 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1743 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1744 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1745 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1750 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1751 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1752 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1753 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1754 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1757 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1758 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1759 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1760 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1761 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1762 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1763 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1764 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1765 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1766 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1767 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1768 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1769 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1770 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1771 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1772 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1773 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1774 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1775 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1776 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1777 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1778 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1779 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1780 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1781 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1782 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1783 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1784 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1785 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1786 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1787 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1788 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1789 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1790 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1791 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1792 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1793 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1794 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1795 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1796 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1797 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1798 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1799 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1800 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1801 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1802 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1803 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1804 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1805 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1806 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1807 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1808 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1809 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1810 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1811 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1812 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1813 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1814 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1815 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1816 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1817 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1818 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1819 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1820 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1821 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1822 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1823 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1824 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1825 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1826 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1827 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1828 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1829 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1830 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1831 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1832 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1833 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1834 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1835 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1836 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1837 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1838 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1839 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1840 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1841 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1842 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1843 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1844 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1845 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1846 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1849 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1850 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1851 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1852 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1853 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1854 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1858 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1859 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1863 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1864 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1866 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1867 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1870 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1871 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1876 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1877 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1880 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1891 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1892 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1893 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1894 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1895 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1896 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1897 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1898 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1899 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1902 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1903 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1904 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1905 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1906 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1907 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1908 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1909 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1912 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1913 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1914 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1915 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1916 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1917 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1918 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1920 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1922 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1923 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1924 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1925 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1926 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1927 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1928 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1930 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1931 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1932 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1933 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1934 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1935 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1936 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1937 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1939 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1940 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1941 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1944 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1950 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1959 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1961 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1964 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1965 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1966 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1967 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1968 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1969 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1970 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1971 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1972 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1973 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1974 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1975 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1976 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1977 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1978 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1979 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1980 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1981 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1982 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1984 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1985 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1986 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1987 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1988 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1989 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1990 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1991 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1992 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1993 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1995 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1998 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+1999 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2003 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2004 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2005 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2006 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2007 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2008 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2009 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2010 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2011 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2012 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2013 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2014 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2015 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2017 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2022 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2023 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2024 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2025 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2026 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2027 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2028 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2029 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2030 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2031 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2032 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2033 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2034 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2035 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2036 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2037 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2038 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2039 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2040 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2041 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2042 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2043 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2045 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2057 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2064 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2075 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2076 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2084 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2085 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2086 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2087 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2088 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2089 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2090 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2093 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2094 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2095 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2098 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2101 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2102 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2103 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2106 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2107 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2108 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2109 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2110 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2111 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2112 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2113 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2114 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2123 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2127 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2128 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2129 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2134 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2138 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2142 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2143 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2144 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2145 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2146 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2148 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2171 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2172 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2173 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2174 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2175 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2310 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2320 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2321 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2322 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2333 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2334 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2335 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2336 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2337 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2338 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2341 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2342 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2343 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2346 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2347 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2350 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2351 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2356 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2357 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2358 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2359 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2360 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2361 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2362 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2363 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2364 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2365 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2366 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2367 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2368 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2369 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2371 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2372 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2374 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2377 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2378 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2381 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2384 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2385 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2386 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2387 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2389 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2390 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2391 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2392 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2394 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2404 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2412 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2416 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2417 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2418 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2419 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+2420 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.0
+213 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+215 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+217 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+222 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+223 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+224 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+225 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+229 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+231 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+235 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+236 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+237 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+238 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+239 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+241 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+242 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+244 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+245 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+247 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+249 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+250 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0
+253 src/main/java/org/apache/commons/math3/dfp/DfpMath.java 0.0

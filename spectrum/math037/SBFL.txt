@@ -1,278 +1,278 @@
-1178 src/main/java/org/apache/commons/math/complex/Complex.java
-1179 src/main/java/org/apache/commons/math/complex/Complex.java
-1182 src/main/java/org/apache/commons/math/complex/Complex.java
-1022 src/main/java/org/apache/commons/math/complex/Complex.java
-1023 src/main/java/org/apache/commons/math/complex/Complex.java
-1024 src/main/java/org/apache/commons/math/complex/Complex.java
-1026 src/main/java/org/apache/commons/math/complex/Complex.java
-1027 src/main/java/org/apache/commons/math/complex/Complex.java
-1066 src/main/java/org/apache/commons/math/complex/Complex.java
-1067 src/main/java/org/apache/commons/math/complex/Complex.java
-1068 src/main/java/org/apache/commons/math/complex/Complex.java
-1070 src/main/java/org/apache/commons/math/complex/Complex.java
-1071 src/main/java/org/apache/commons/math/complex/Complex.java
-1018 src/main/java/org/apache/commons/math/complex/Complex.java
-1063 src/main/java/org/apache/commons/math/complex/Complex.java
-6142 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6150 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6158 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6166 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-385 src/main/java/org/apache/commons/math/complex/Complex.java
-376 src/main/java/org/apache/commons/math/complex/Complex.java
-1166 src/main/java/org/apache/commons/math/complex/Complex.java
-99 src/main/java/org/apache/commons/math/complex/Complex.java
-100 src/main/java/org/apache/commons/math/complex/Complex.java
-102 src/main/java/org/apache/commons/math/complex/Complex.java
-103 src/main/java/org/apache/commons/math/complex/Complex.java
-104 src/main/java/org/apache/commons/math/complex/Complex.java
-89 src/main/java/org/apache/commons/math/complex/Complex.java
-116 src/main/java/org/apache/commons/math/complex/Complex.java
-117 src/main/java/org/apache/commons/math/complex/Complex.java
-119 src/main/java/org/apache/commons/math/complex/Complex.java
-120 src/main/java/org/apache/commons/math/complex/Complex.java
-122 src/main/java/org/apache/commons/math/complex/Complex.java
-123 src/main/java/org/apache/commons/math/complex/Complex.java
-124 src/main/java/org/apache/commons/math/complex/Complex.java
-125 src/main/java/org/apache/commons/math/complex/Complex.java
-126 src/main/java/org/apache/commons/math/complex/Complex.java
-127 src/main/java/org/apache/commons/math/complex/Complex.java
-128 src/main/java/org/apache/commons/math/complex/Complex.java
-129 src/main/java/org/apache/commons/math/complex/Complex.java
-130 src/main/java/org/apache/commons/math/complex/Complex.java
-132 src/main/java/org/apache/commons/math/complex/Complex.java
-133 src/main/java/org/apache/commons/math/complex/Complex.java
-157 src/main/java/org/apache/commons/math/complex/Complex.java
-158 src/main/java/org/apache/commons/math/complex/Complex.java
-159 src/main/java/org/apache/commons/math/complex/Complex.java
-162 src/main/java/org/apache/commons/math/complex/Complex.java
-163 src/main/java/org/apache/commons/math/complex/Complex.java
-175 src/main/java/org/apache/commons/math/complex/Complex.java
-176 src/main/java/org/apache/commons/math/complex/Complex.java
-179 src/main/java/org/apache/commons/math/complex/Complex.java
-197 src/main/java/org/apache/commons/math/complex/Complex.java
-198 src/main/java/org/apache/commons/math/complex/Complex.java
-201 src/main/java/org/apache/commons/math/complex/Complex.java
-248 src/main/java/org/apache/commons/math/complex/Complex.java
-249 src/main/java/org/apache/commons/math/complex/Complex.java
-250 src/main/java/org/apache/commons/math/complex/Complex.java
-253 src/main/java/org/apache/commons/math/complex/Complex.java
-254 src/main/java/org/apache/commons/math/complex/Complex.java
-255 src/main/java/org/apache/commons/math/complex/Complex.java
-256 src/main/java/org/apache/commons/math/complex/Complex.java
-259 src/main/java/org/apache/commons/math/complex/Complex.java
-260 src/main/java/org/apache/commons/math/complex/Complex.java
-263 src/main/java/org/apache/commons/math/complex/Complex.java
-264 src/main/java/org/apache/commons/math/complex/Complex.java
-265 src/main/java/org/apache/commons/math/complex/Complex.java
-266 src/main/java/org/apache/commons/math/complex/Complex.java
-267 src/main/java/org/apache/commons/math/complex/Complex.java
-269 src/main/java/org/apache/commons/math/complex/Complex.java
-270 src/main/java/org/apache/commons/math/complex/Complex.java
-271 src/main/java/org/apache/commons/math/complex/Complex.java
-272 src/main/java/org/apache/commons/math/complex/Complex.java
-285 src/main/java/org/apache/commons/math/complex/Complex.java
-286 src/main/java/org/apache/commons/math/complex/Complex.java
-288 src/main/java/org/apache/commons/math/complex/Complex.java
-289 src/main/java/org/apache/commons/math/complex/Complex.java
-291 src/main/java/org/apache/commons/math/complex/Complex.java
-292 src/main/java/org/apache/commons/math/complex/Complex.java
-294 src/main/java/org/apache/commons/math/complex/Complex.java
-295 src/main/java/org/apache/commons/math/complex/Complex.java
-300 src/main/java/org/apache/commons/math/complex/Complex.java
-301 src/main/java/org/apache/commons/math/complex/Complex.java
-304 src/main/java/org/apache/commons/math/complex/Complex.java
-305 src/main/java/org/apache/commons/math/complex/Complex.java
-308 src/main/java/org/apache/commons/math/complex/Complex.java
-309 src/main/java/org/apache/commons/math/complex/Complex.java
-312 src/main/java/org/apache/commons/math/complex/Complex.java
-313 src/main/java/org/apache/commons/math/complex/Complex.java
-314 src/main/java/org/apache/commons/math/complex/Complex.java
-315 src/main/java/org/apache/commons/math/complex/Complex.java
-317 src/main/java/org/apache/commons/math/complex/Complex.java
-318 src/main/java/org/apache/commons/math/complex/Complex.java
-319 src/main/java/org/apache/commons/math/complex/Complex.java
-340 src/main/java/org/apache/commons/math/complex/Complex.java
-341 src/main/java/org/apache/commons/math/complex/Complex.java
-343 src/main/java/org/apache/commons/math/complex/Complex.java
-344 src/main/java/org/apache/commons/math/complex/Complex.java
-345 src/main/java/org/apache/commons/math/complex/Complex.java
-346 src/main/java/org/apache/commons/math/complex/Complex.java
-347 src/main/java/org/apache/commons/math/complex/Complex.java
-348 src/main/java/org/apache/commons/math/complex/Complex.java
-349 src/main/java/org/apache/commons/math/complex/Complex.java
-350 src/main/java/org/apache/commons/math/complex/Complex.java
-351 src/main/java/org/apache/commons/math/complex/Complex.java
-363 src/main/java/org/apache/commons/math/complex/Complex.java
-364 src/main/java/org/apache/commons/math/complex/Complex.java
-366 src/main/java/org/apache/commons/math/complex/Complex.java
-367 src/main/java/org/apache/commons/math/complex/Complex.java
-396 src/main/java/org/apache/commons/math/complex/Complex.java
-409 src/main/java/org/apache/commons/math/complex/Complex.java
-438 src/main/java/org/apache/commons/math/complex/Complex.java
-439 src/main/java/org/apache/commons/math/complex/Complex.java
-440 src/main/java/org/apache/commons/math/complex/Complex.java
-442 src/main/java/org/apache/commons/math/complex/Complex.java
-443 src/main/java/org/apache/commons/math/complex/Complex.java
-444 src/main/java/org/apache/commons/math/complex/Complex.java
-445 src/main/java/org/apache/commons/math/complex/Complex.java
-447 src/main/java/org/apache/commons/math/complex/Complex.java
-449 src/main/java/org/apache/commons/math/complex/Complex.java
-450 src/main/java/org/apache/commons/math/complex/Complex.java
-462 src/main/java/org/apache/commons/math/complex/Complex.java
-463 src/main/java/org/apache/commons/math/complex/Complex.java
-465 src/main/java/org/apache/commons/math/complex/Complex.java
-466 src/main/java/org/apache/commons/math/complex/Complex.java
-469 src/main/java/org/apache/commons/math/complex/Complex.java
-481 src/main/java/org/apache/commons/math/complex/Complex.java
-482 src/main/java/org/apache/commons/math/complex/Complex.java
-484 src/main/java/org/apache/commons/math/complex/Complex.java
-485 src/main/java/org/apache/commons/math/complex/Complex.java
-486 src/main/java/org/apache/commons/math/complex/Complex.java
-488 src/main/java/org/apache/commons/math/complex/Complex.java
-490 src/main/java/org/apache/commons/math/complex/Complex.java
-501 src/main/java/org/apache/commons/math/complex/Complex.java
-502 src/main/java/org/apache/commons/math/complex/Complex.java
-505 src/main/java/org/apache/commons/math/complex/Complex.java
-528 src/main/java/org/apache/commons/math/complex/Complex.java
-529 src/main/java/org/apache/commons/math/complex/Complex.java
-530 src/main/java/org/apache/commons/math/complex/Complex.java
-533 src/main/java/org/apache/commons/math/complex/Complex.java
-534 src/main/java/org/apache/commons/math/complex/Complex.java
-546 src/main/java/org/apache/commons/math/complex/Complex.java
-547 src/main/java/org/apache/commons/math/complex/Complex.java
-549 src/main/java/org/apache/commons/math/complex/Complex.java
-569 src/main/java/org/apache/commons/math/complex/Complex.java
-570 src/main/java/org/apache/commons/math/complex/Complex.java
-573 src/main/java/org/apache/commons/math/complex/Complex.java
-574 src/main/java/org/apache/commons/math/complex/Complex.java
-594 src/main/java/org/apache/commons/math/complex/Complex.java
-595 src/main/java/org/apache/commons/math/complex/Complex.java
-598 src/main/java/org/apache/commons/math/complex/Complex.java
-599 src/main/java/org/apache/commons/math/complex/Complex.java
-619 src/main/java/org/apache/commons/math/complex/Complex.java
-620 src/main/java/org/apache/commons/math/complex/Complex.java
-623 src/main/java/org/apache/commons/math/complex/Complex.java
-624 src/main/java/org/apache/commons/math/complex/Complex.java
-660 src/main/java/org/apache/commons/math/complex/Complex.java
-661 src/main/java/org/apache/commons/math/complex/Complex.java
-664 src/main/java/org/apache/commons/math/complex/Complex.java
-665 src/main/java/org/apache/commons/math/complex/Complex.java
-700 src/main/java/org/apache/commons/math/complex/Complex.java
-701 src/main/java/org/apache/commons/math/complex/Complex.java
-704 src/main/java/org/apache/commons/math/complex/Complex.java
-705 src/main/java/org/apache/commons/math/complex/Complex.java
-741 src/main/java/org/apache/commons/math/complex/Complex.java
-742 src/main/java/org/apache/commons/math/complex/Complex.java
-745 src/main/java/org/apache/commons/math/complex/Complex.java
-746 src/main/java/org/apache/commons/math/complex/Complex.java
-747 src/main/java/org/apache/commons/math/complex/Complex.java
-786 src/main/java/org/apache/commons/math/complex/Complex.java
-787 src/main/java/org/apache/commons/math/complex/Complex.java
-790 src/main/java/org/apache/commons/math/complex/Complex.java
-791 src/main/java/org/apache/commons/math/complex/Complex.java
-816 src/main/java/org/apache/commons/math/complex/Complex.java
-817 src/main/java/org/apache/commons/math/complex/Complex.java
-828 src/main/java/org/apache/commons/math/complex/Complex.java
-864 src/main/java/org/apache/commons/math/complex/Complex.java
-865 src/main/java/org/apache/commons/math/complex/Complex.java
-868 src/main/java/org/apache/commons/math/complex/Complex.java
-869 src/main/java/org/apache/commons/math/complex/Complex.java
-904 src/main/java/org/apache/commons/math/complex/Complex.java
-905 src/main/java/org/apache/commons/math/complex/Complex.java
-908 src/main/java/org/apache/commons/math/complex/Complex.java
-909 src/main/java/org/apache/commons/math/complex/Complex.java
-947 src/main/java/org/apache/commons/math/complex/Complex.java
-948 src/main/java/org/apache/commons/math/complex/Complex.java
-951 src/main/java/org/apache/commons/math/complex/Complex.java
-955 src/main/java/org/apache/commons/math/complex/Complex.java
-956 src/main/java/org/apache/commons/math/complex/Complex.java
-957 src/main/java/org/apache/commons/math/complex/Complex.java
-959 src/main/java/org/apache/commons/math/complex/Complex.java
-960 src/main/java/org/apache/commons/math/complex/Complex.java
-982 src/main/java/org/apache/commons/math/complex/Complex.java
-1019 src/main/java/org/apache/commons/math/complex/Complex.java
-1064 src/main/java/org/apache/commons/math/complex/Complex.java
-1094 src/main/java/org/apache/commons/math/complex/Complex.java
-1121 src/main/java/org/apache/commons/math/complex/Complex.java
-1126 src/main/java/org/apache/commons/math/complex/Complex.java
-1128 src/main/java/org/apache/commons/math/complex/Complex.java
-1129 src/main/java/org/apache/commons/math/complex/Complex.java
-1130 src/main/java/org/apache/commons/math/complex/Complex.java
-1131 src/main/java/org/apache/commons/math/complex/Complex.java
-1132 src/main/java/org/apache/commons/math/complex/Complex.java
-1133 src/main/java/org/apache/commons/math/complex/Complex.java
-1134 src/main/java/org/apache/commons/math/complex/Complex.java
-1135 src/main/java/org/apache/commons/math/complex/Complex.java
-1138 src/main/java/org/apache/commons/math/complex/Complex.java
-1141 src/main/java/org/apache/commons/math/complex/Complex.java
-1142 src/main/java/org/apache/commons/math/complex/Complex.java
-1143 src/main/java/org/apache/commons/math/complex/Complex.java
-1144 src/main/java/org/apache/commons/math/complex/Complex.java
-1145 src/main/java/org/apache/commons/math/complex/Complex.java
-1146 src/main/java/org/apache/commons/math/complex/Complex.java
-1147 src/main/java/org/apache/commons/math/complex/Complex.java
-1148 src/main/java/org/apache/commons/math/complex/Complex.java
-1149 src/main/java/org/apache/commons/math/complex/Complex.java
-1150 src/main/java/org/apache/commons/math/complex/Complex.java
-1152 src/main/java/org/apache/commons/math/complex/Complex.java
-1207 src/main/java/org/apache/commons/math/complex/Complex.java
-3796 src/main/java/org/apache/commons/math/util/FastMath.java
-3797 src/main/java/org/apache/commons/math/util/FastMath.java
-3798 src/main/java/org/apache/commons/math/util/FastMath.java
-3799 src/main/java/org/apache/commons/math/util/FastMath.java
-3800 src/main/java/org/apache/commons/math/util/FastMath.java
-3801 src/main/java/org/apache/commons/math/util/FastMath.java
-3802 src/main/java/org/apache/commons/math/util/FastMath.java
-3803 src/main/java/org/apache/commons/math/util/FastMath.java
-3804 src/main/java/org/apache/commons/math/util/FastMath.java
-3807 src/main/java/org/apache/commons/math/util/FastMath.java
-41 src/main/java/org/apache/commons/math/exception/NullArgumentException.java
-50 src/main/java/org/apache/commons/math/exception/NullArgumentException.java
-65 src/main/java/org/apache/commons/math/complex/ComplexUtils.java
-69 src/main/java/org/apache/commons/math/complex/ComplexUtils.java
-371 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-382 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-383 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-395 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-42 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-43 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-44 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-45 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-46 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-47 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-49 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-50 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-51 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-52 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-54 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-57 src/main/java/org/apache/commons/math/util/MathUtils.java
-257 src/main/java/org/apache/commons/math/util/MathUtils.java
-258 src/main/java/org/apache/commons/math/util/MathUtils.java
-65 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-66 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-67 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-68 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-87 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-88 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-137 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-147 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-171 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-172 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-173 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-174 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-175 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-176 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-177 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-178 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-179 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-180 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-181 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-182 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-183 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-184 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-186 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-6174 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-45 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java
-46 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java
-63 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java
+1178 src/main/java/org/apache/commons/math/complex/Complex.java 0.7071067811865475
+1179 src/main/java/org/apache/commons/math/complex/Complex.java 0.7071067811865475
+1182 src/main/java/org/apache/commons/math/complex/Complex.java 0.7071067811865475
+1022 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1023 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1024 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1026 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1027 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1066 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1067 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1068 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1070 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1071 src/main/java/org/apache/commons/math/complex/Complex.java 0.5773502691896258
+1018 src/main/java/org/apache/commons/math/complex/Complex.java 0.5
+1063 src/main/java/org/apache/commons/math/complex/Complex.java 0.5
+6142 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.5
+6150 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.5
+6158 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.5
+6166 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.5
+385 src/main/java/org/apache/commons/math/complex/Complex.java 0.23735633163877065
+376 src/main/java/org/apache/commons/math/complex/Complex.java 0.23570226039551587
+1166 src/main/java/org/apache/commons/math/complex/Complex.java 0.23570226039551587
+99 src/main/java/org/apache/commons/math/complex/Complex.java 0.19802950859533489
+100 src/main/java/org/apache/commons/math/complex/Complex.java 0.19802950859533489
+102 src/main/java/org/apache/commons/math/complex/Complex.java 0.19802950859533489
+103 src/main/java/org/apache/commons/math/complex/Complex.java 0.19802950859533489
+104 src/main/java/org/apache/commons/math/complex/Complex.java 0.19802950859533489
+89 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+116 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+117 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+119 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+120 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+122 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+123 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+124 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+125 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+126 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+127 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+128 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+129 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+130 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+132 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+133 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+157 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+158 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+159 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+162 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+163 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+175 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+176 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+179 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+197 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+198 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+201 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+248 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+249 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+250 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+253 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+254 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+255 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+256 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+259 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+260 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+263 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+264 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+265 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+266 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+267 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+269 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+270 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+271 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+272 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+285 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+286 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+288 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+289 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+291 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+292 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+294 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+295 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+300 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+301 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+304 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+305 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+308 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+309 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+312 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+313 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+314 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+315 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+317 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+318 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+319 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+340 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+341 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+343 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+344 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+345 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+346 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+347 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+348 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+349 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+350 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+351 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+363 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+364 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+366 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+367 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+396 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+409 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+438 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+439 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+440 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+442 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+443 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+444 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+445 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+447 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+449 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+450 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+462 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+463 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+465 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+466 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+469 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+481 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+482 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+484 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+485 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+486 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+488 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+490 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+501 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+502 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+505 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+528 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+529 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+530 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+533 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+534 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+546 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+547 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+549 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+569 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+570 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+573 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+574 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+594 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+595 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+598 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+599 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+619 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+620 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+623 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+624 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+660 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+661 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+664 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+665 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+700 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+701 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+704 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+705 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+741 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+742 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+745 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+746 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+747 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+786 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+787 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+790 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+791 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+816 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+817 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+828 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+864 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+865 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+868 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+869 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+904 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+905 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+908 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+909 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+947 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+948 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+951 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+955 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+956 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+957 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+959 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+960 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+982 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1019 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1064 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1094 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1121 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1126 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1128 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1129 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1130 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1131 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1132 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1133 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1134 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1135 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1138 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1141 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1142 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1143 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1144 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1145 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1146 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1147 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1148 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1149 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1150 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1152 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+1207 src/main/java/org/apache/commons/math/complex/Complex.java 0.0
+3796 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3797 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3798 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3799 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3800 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3801 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3802 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3803 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3804 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3807 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+41 src/main/java/org/apache/commons/math/exception/NullArgumentException.java 0.0
+50 src/main/java/org/apache/commons/math/exception/NullArgumentException.java 0.0
+65 src/main/java/org/apache/commons/math/complex/ComplexUtils.java 0.0
+69 src/main/java/org/apache/commons/math/complex/ComplexUtils.java 0.0
+371 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+382 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+383 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+395 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+42 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+43 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+44 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+45 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+46 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+47 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+48 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+49 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+50 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+51 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+52 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+54 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+57 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+257 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+258 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+65 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+66 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+67 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+68 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+87 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+88 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+137 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+147 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+171 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+172 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+173 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+174 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+175 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+176 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+177 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+178 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+179 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+180 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+181 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+182 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+183 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+184 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+186 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+6174 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+45 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java 0.0
+46 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java 0.0
+63 src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java 0.0

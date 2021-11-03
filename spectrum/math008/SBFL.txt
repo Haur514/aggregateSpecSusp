@@ -1,209 +1,209 @@
-1269 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1270 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1273 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1276 src/main/java/org/apache/commons/math3/util/MathArrays.java
-69 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-101 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-182 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-187 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-189 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-57 src/main/java/org/apache/commons/math3/random/Well19937c.java
-86 src/main/java/org/apache/commons/math3/random/Well19937c.java
-87 src/main/java/org/apache/commons/math3/random/Well19937c.java
-89 src/main/java/org/apache/commons/math3/random/Well19937c.java
-90 src/main/java/org/apache/commons/math3/random/Well19937c.java
-91 src/main/java/org/apache/commons/math3/random/Well19937c.java
-92 src/main/java/org/apache/commons/math3/random/Well19937c.java
-94 src/main/java/org/apache/commons/math3/random/Well19937c.java
-95 src/main/java/org/apache/commons/math3/random/Well19937c.java
-96 src/main/java/org/apache/commons/math3/random/Well19937c.java
-97 src/main/java/org/apache/commons/math3/random/Well19937c.java
-98 src/main/java/org/apache/commons/math3/random/Well19937c.java
-100 src/main/java/org/apache/commons/math3/random/Well19937c.java
-101 src/main/java/org/apache/commons/math3/random/Well19937c.java
-102 src/main/java/org/apache/commons/math3/random/Well19937c.java
-103 src/main/java/org/apache/commons/math3/random/Well19937c.java
-108 src/main/java/org/apache/commons/math3/random/Well19937c.java
-109 src/main/java/org/apache/commons/math3/random/Well19937c.java
-111 src/main/java/org/apache/commons/math3/random/Well19937c.java
-90 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-91 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-92 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-72 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-155 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-156 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-1249 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1252 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1255 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1256 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1257 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1258 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1259 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1261 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1262 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1263 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1264 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1265 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1266 src/main/java/org/apache/commons/math3/util/MathArrays.java
-87 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-89 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-90 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-92 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-93 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-94 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-95 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-97 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-98 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-99 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-157 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-158 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-160 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-161 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-162 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-163 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-164 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-165 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-41 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-170 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java
-100 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-101 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-102 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-106 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-107 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-108 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-109 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-110 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-111 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-112 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-113 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-114 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-115 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-116 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-117 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-120 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-154 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-157 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-159 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-161 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-162 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-163 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-164 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-165 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-168 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-169 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-179 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-46 src/main/java/org/apache/commons/math3/util/Pair.java
-47 src/main/java/org/apache/commons/math3/util/Pair.java
-65 src/main/java/org/apache/commons/math3/util/Pair.java
-74 src/main/java/org/apache/commons/math3/util/Pair.java
-79 src/main/java/org/apache/commons/math3/random/Well19937c.java
-371 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-87 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-88 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-89 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-92 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-94 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-95 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-106 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-119 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-126 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-128 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-129 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-130 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-131 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-132 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-134 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-143 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-145 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-146 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-147 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-149 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-158 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-159 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-161 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-162 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-163 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-164 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-166 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-177 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-178 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-179 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-180 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-181 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-182 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-184 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-195 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-196 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-197 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-198 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-199 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-200 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-202 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-213 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-224 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-235 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-243 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java
-115 src/main/java/org/apache/commons/math3/random/RandomDataImpl.java
-461 src/main/java/org/apache/commons/math3/random/RandomDataImpl.java
-37 src/main/java/org/apache/commons/math3/exception/NotPositiveException.java
-132 src/main/java/org/apache/commons/math3/random/AbstractWell.java
-1260 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1267 src/main/java/org/apache/commons/math3/util/MathArrays.java
-65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-57 src/main/java/org/apache/commons/math3/exception/MathArithmeticException.java
-58 src/main/java/org/apache/commons/math3/exception/MathArithmeticException.java
-44 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java
-45 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java
-56 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java
-648 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-714 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-715 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-717 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-725 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java
-96 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-123 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-125 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-126 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-127 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-128 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-132 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-142 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-144 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-145 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-148 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java
-45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-77 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-246 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-247 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-269 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-273 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-274 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-275 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-277 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java
-50 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-51 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-52 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-53 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
+1269 src/main/java/org/apache/commons/math3/util/MathArrays.java 1.0
+1270 src/main/java/org/apache/commons/math3/util/MathArrays.java 1.0
+1273 src/main/java/org/apache/commons/math3/util/MathArrays.java 1.0
+1276 src/main/java/org/apache/commons/math3/util/MathArrays.java 1.0
+69 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 1.0
+101 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 1.0
+182 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 1.0
+187 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 1.0
+189 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 1.0
+57 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+86 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+87 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+89 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+90 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+91 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+92 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+94 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+95 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+96 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+97 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+98 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+100 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+101 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+102 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+103 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+108 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+109 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+111 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.7071067811865475
+90 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.7071067811865475
+91 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.7071067811865475
+92 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.7071067811865475
+72 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.7071067811865475
+155 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.7071067811865475
+156 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.7071067811865475
+1249 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1252 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1255 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1256 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1257 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1258 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1259 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1261 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1262 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1263 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1264 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1265 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+1266 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.7071067811865475
+87 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+89 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+90 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+92 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+93 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+94 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+95 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+97 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+98 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+99 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+157 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+158 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+160 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+161 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+162 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+163 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+164 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+165 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.7071067811865475
+41 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.5773502691896258
+170 src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java 0.5773502691896258
+100 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+101 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+102 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+106 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+107 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+108 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+109 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+110 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+111 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+112 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+113 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+114 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+115 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+116 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+117 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+120 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+154 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+157 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+159 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+161 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+162 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+163 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+164 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+165 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+168 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+169 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+179 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.5773502691896258
+46 src/main/java/org/apache/commons/math3/util/Pair.java 0.35355339059327373
+47 src/main/java/org/apache/commons/math3/util/Pair.java 0.35355339059327373
+65 src/main/java/org/apache/commons/math3/util/Pair.java 0.35355339059327373
+74 src/main/java/org/apache/commons/math3/util/Pair.java 0.35355339059327373
+79 src/main/java/org/apache/commons/math3/random/Well19937c.java 0.0
+371 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+87 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+88 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+89 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+92 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+94 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+95 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+106 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+119 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+126 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+128 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+129 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+130 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+131 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+132 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+134 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+143 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+145 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+146 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+147 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+149 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+158 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+159 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+161 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+162 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+163 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+164 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+166 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+177 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+178 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+179 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+180 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+181 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+182 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+184 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+195 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+196 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+197 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+198 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+199 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+200 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+202 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+213 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+224 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+235 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+243 src/main/java/org/apache/commons/math3/distribution/DiscreteRealDistribution.java 0.0
+115 src/main/java/org/apache/commons/math3/random/RandomDataImpl.java 0.0
+461 src/main/java/org/apache/commons/math3/random/RandomDataImpl.java 0.0
+37 src/main/java/org/apache/commons/math3/exception/NotPositiveException.java 0.0
+132 src/main/java/org/apache/commons/math3/random/AbstractWell.java 0.0
+1260 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+1267 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.0
+65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+57 src/main/java/org/apache/commons/math3/exception/MathArithmeticException.java 0.0
+58 src/main/java/org/apache/commons/math3/exception/MathArithmeticException.java 0.0
+44 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java 0.0
+56 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java 0.0
+648 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.0
+714 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.0
+715 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.0
+717 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.0
+725 src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java 0.0
+96 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+123 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+125 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+126 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+127 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+128 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+132 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+142 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+144 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+145 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+148 src/main/java/org/apache/commons/math3/distribution/DiscreteDistribution.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+77 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+246 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+247 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+269 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+273 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+274 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+275 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+277 src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java 0.0
+50 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+52 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+53 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0

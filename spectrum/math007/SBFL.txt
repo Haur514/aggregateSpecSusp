@@ -1,779 +1,779 @@
-218 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-219 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-220 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-221 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-222 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-223 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-224 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-225 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-226 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-227 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-228 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-229 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-230 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-231 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-232 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-300 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-301 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-302 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-303 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-304 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-305 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-306 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-307 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-308 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-309 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-310 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-311 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-312 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-313 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-314 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-315 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-316 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-317 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-318 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-319 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-320 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-321 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-322 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-326 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-327 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-328 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-329 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-330 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-333 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-334 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-335 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-336 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-337 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-338 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-339 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-340 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-342 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-343 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-344 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-345 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-346 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-349 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-182 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-183 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-188 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-189 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-190 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-191 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-192 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-206 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-207 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-208 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-209 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-210 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-211 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-212 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-213 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-214 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-215 src/main/java/org/apache/commons/math3/ode/events/EventState.java
-84 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-85 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-88 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-89 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-150 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-151 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-152 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-153 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-154 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-155 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-158 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-159 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-165 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-166 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-173 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-174 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-175 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-176 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-177 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-178 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-179 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-199 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-202 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-203 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-204 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-205 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-206 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-207 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-208 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-209 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-215 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-216 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-217 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-237 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-238 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-239 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-240 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-241 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-242 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-243 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-244 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-245 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-246 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-247 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-248 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-249 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-251 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-256 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-257 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-261 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-262 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-264 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-265 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-266 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-267 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-268 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-269 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-270 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-271 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-272 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-273 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-274 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-275 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-276 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-277 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-278 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-279 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-280 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-281 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-283 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-285 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-286 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-287 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-288 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-289 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-290 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-293 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-294 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-375 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-376 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-377 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-378 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-379 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-380 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-383 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-384 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-385 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-388 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-398 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-399 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-353 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
-372 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
-373 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
-321 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-335 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-37 src/main/java/org/apache/commons/math3/analysis/solvers/AbstractUnivariateSolver.java
-67 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-68 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-69 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-95 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-96 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-97 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-112 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-118 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-124 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-130 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-136 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-142 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-155 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-156 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-177 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-180 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-181 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-182 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-183 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-184 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-185 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-193 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-196 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-201 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-277 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-310 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
-264 src/main/java/org/apache/commons/math3/util/MathUtils.java
-336 src/main/java/org/apache/commons/math3/util/Precision.java
-374 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-375 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-376 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-377 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-378 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-379 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-380 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-381 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-382 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-383 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-384 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-385 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-386 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-336 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-360 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-369 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-334 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-340 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-313 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
-314 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
-315 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
-316 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
-317 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
-318 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
-319 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
-320 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java
-320 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-321 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-322 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-323 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-324 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-325 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-326 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-327 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-328 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-329 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-330 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-331 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-332 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-333 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-334 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-335 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-336 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-337 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-338 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-339 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-340 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-341 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-342 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-343 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-344 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-345 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-346 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-347 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-348 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-349 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-350 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-351 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-352 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-353 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-354 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-355 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-356 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-357 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-358 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-359 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-360 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-361 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-363 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-364 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-365 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-366 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-367 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-368 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-369 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-370 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-371 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-373 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-388 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-389 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-390 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-391 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-392 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-393 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-394 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-395 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-396 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-397 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-398 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-399 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-400 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-415 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-416 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-419 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-420 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-421 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-422 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-423 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-424 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-425 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-428 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-429 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-430 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-431 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-432 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-433 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-434 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-435 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-438 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-439 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-440 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-441 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-442 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-443 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-444 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-445 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-343 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-351 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-385 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-407 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-408 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-409 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-410 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-411 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-412 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-417 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-418 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-419 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-420 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-261 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-262 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-263 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-264 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-265 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-266 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-267 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-268 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-270 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-271 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-272 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-277 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-278 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-280 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-283 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-284 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-285 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-286 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-287 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-288 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-292 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-293 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-294 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-295 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-296 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-297 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-298 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-301 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-304 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-308 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-324 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-325 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-366 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-373 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-331 src/main/java/org/apache/commons/math3/util/Precision.java
-332 src/main/java/org/apache/commons/math3/util/Precision.java
-335 src/main/java/org/apache/commons/math3/util/Precision.java
-338 src/main/java/org/apache/commons/math3/util/Precision.java
-342 src/main/java/org/apache/commons/math3/util/Precision.java
-344 src/main/java/org/apache/commons/math3/util/Precision.java
-300 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-301 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-302 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-303 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-304 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-306 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-307 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-308 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-309 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-310 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-311 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-312 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-313 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-314 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-315 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-316 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-317 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-318 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-319 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-320 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-321 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-322 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-323 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-324 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-325 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-326 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-327 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-328 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-329 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-330 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-332 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-85 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-87 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-88 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-89 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-90 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-91 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-92 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-93 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-94 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-95 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-96 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-97 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-98 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-103 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-134 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-135 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-136 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-137 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-143 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-144 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-245 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-247 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-248 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-249 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-250 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-251 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-252 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-253 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-279 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-289 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-291 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-293 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-294 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-295 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-298 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-299 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-300 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-303 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-310 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-311 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-409 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-411 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-174 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-175 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-176 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-177 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-178 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-179 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-181 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-182 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-183 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-184 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-185 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-200 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-201 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-202 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-203 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-204 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-205 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-221 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-222 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-223 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-224 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-225 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-229 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-230 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-231 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-232 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-233 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-234 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-249 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-250 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-251 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-252 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-253 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-254 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-255 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-256 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-257 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-258 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-259 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-260 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-261 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-269 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-272 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-290 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-291 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-292 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-300 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-301 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-302 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-303 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-306 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-379 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-380 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-489 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-490 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-491 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-492 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-221 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-223 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-225 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-229 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-253 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-255 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-256 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-258 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-259 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-260 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-261 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-262 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-263 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-264 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-265 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-266 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-267 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-268 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-269 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-270 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-271 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-272 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-273 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-274 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-275 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-276 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-278 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-279 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-283 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-197 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-198 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-199 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-202 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-203 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-204 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-205 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-206 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-207 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-210 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-211 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-212 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-213 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-216 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-217 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-218 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-219 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-222 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-225 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-228 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-229 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-230 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-231 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-232 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-233 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-234 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-235 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-236 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-237 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-238 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-239 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-240 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-241 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-242 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-243 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-244 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-245 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-246 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-247 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-248 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-249 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-250 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-251 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-252 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-253 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-254 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-255 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-256 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-257 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-258 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-259 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-260 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-261 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-262 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-263 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-264 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-265 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-266 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-267 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-268 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-269 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-270 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-271 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-272 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-273 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-274 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-275 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-276 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-277 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-278 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-279 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-280 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-281 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-282 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-283 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-284 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-285 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-286 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-287 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-288 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-289 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-290 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-291 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-292 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-293 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-294 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-295 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-296 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-297 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-65 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java
-77 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java
-80 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java
-92 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java
-95 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java
-110 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-111 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-112 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-157 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-158 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-159 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-161 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-162 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-163 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-164 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-220 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-221 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-222 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-117 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-119 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-120 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-121 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-122 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-123 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-125 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-128 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-129 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-130 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-50 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java
-51 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java
-61 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-62 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-63 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java
-232 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-233 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-234 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-235 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java
-113 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-114 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-115 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-116 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-117 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-118 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-119 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-120 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-121 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-122 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-123 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-124 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-125 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-213 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-214 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-215 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-216 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-217 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-218 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-219 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-358 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-359 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-247 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-188 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-353 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-367 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-371 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-382 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-383 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-384 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-396 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-297 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java
-3737 src/main/java/org/apache/commons/math3/util/FastMath.java
-3738 src/main/java/org/apache/commons/math3/util/FastMath.java
-374 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java
-65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-137 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-147 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-171 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-172 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-173 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-174 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-175 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-176 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-177 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-178 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-179 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-180 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-181 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-182 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-183 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-184 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-186 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-6142 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-6150 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-6158 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-6166 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-6174 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java
-133 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-134 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-135 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-186 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-187 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-188 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-190 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-191 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-192 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-193 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-209 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-212 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-255 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-273 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-299 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-305 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-326 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-329 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-330 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-335 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-353 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java
-70 src/main/java/org/apache/commons/math3/util/Precision.java
-77 src/main/java/org/apache/commons/math3/util/Precision.java
-339 src/main/java/org/apache/commons/math3/util/Precision.java
-44 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java
-45 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java
-56 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java
-239 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-240 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-241 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-280 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java
-45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-63 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-155 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-157 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-158 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-159 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-160 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-161 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-163 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-166 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-167 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-168 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-335 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-336 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-338 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java
-68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
+218 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+219 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+220 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+221 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+222 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+223 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+224 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+225 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+226 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+227 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+228 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+229 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+230 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+231 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+232 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+300 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+301 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+302 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+303 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+304 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+305 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+306 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+307 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+308 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+309 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+310 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+311 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+312 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+313 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+314 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+315 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+316 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+317 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+318 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+319 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+320 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+321 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+322 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+326 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+327 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+328 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+329 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+330 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+333 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+334 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+335 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+336 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+337 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+338 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+339 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+340 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+342 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+343 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+344 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+345 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+346 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+349 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.7071067811865475
+182 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5773502691896258
+183 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5773502691896258
+188 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5773502691896258
+189 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5773502691896258
+190 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5773502691896258
+191 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5773502691896258
+192 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5773502691896258
+206 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+207 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+208 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+209 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+210 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+211 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+212 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+213 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+214 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+215 src/main/java/org/apache/commons/math3/ode/events/EventState.java 0.5
+84 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+85 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+88 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+89 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+150 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+151 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+152 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+153 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+154 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+155 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+158 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+159 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+165 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+166 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+173 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+174 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+175 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+176 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+177 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+178 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+179 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+199 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+202 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+203 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+204 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+205 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+206 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+207 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+208 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+209 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+215 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+216 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+217 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+237 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+238 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+239 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+240 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+241 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+242 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+243 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+244 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+245 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+246 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+247 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+248 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+249 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+251 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+256 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+257 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+261 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+262 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+264 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+265 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+266 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+267 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+268 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+269 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+270 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+271 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+272 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+273 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+274 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+275 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+276 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+277 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+278 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+279 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+280 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+281 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+283 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+285 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+286 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+287 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+288 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+289 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+290 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+293 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+294 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+375 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+376 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+377 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+378 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+379 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+380 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+383 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+384 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+385 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+388 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+398 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+399 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.5
+353 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java 0.5
+372 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java 0.5
+373 src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java 0.5
+321 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.5
+335 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.5
+37 src/main/java/org/apache/commons/math3/analysis/solvers/AbstractUnivariateSolver.java 0.5
+67 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+68 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+69 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+95 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+96 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+97 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+112 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+118 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+124 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+130 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+136 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+142 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+155 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+156 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+177 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+180 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+181 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+182 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+183 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+184 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+185 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+193 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+196 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+201 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+277 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+310 src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java 0.5
+264 src/main/java/org/apache/commons/math3/util/MathUtils.java 0.5
+336 src/main/java/org/apache/commons/math3/util/Precision.java 0.4472135954999579
+374 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+375 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+376 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+377 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+378 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+379 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+380 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+381 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+382 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+383 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+384 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+385 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+386 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3779644730092272
+336 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3779644730092272
+360 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.35355339059327373
+369 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.35355339059327373
+334 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.35355339059327373
+340 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.35355339059327373
+313 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java 0.3333333333333333
+314 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java 0.3333333333333333
+315 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java 0.3333333333333333
+316 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java 0.3333333333333333
+317 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java 0.3333333333333333
+318 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java 0.3333333333333333
+319 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java 0.3333333333333333
+320 src/main/java/org/apache/commons/math3/ode/AbstractIntegrator.java 0.3333333333333333
+320 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+321 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+322 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+323 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+324 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+325 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+326 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+327 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+328 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+329 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+330 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+331 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+332 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+333 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+334 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+335 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+336 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+337 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+338 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+339 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+340 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+341 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+342 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+343 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+344 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+345 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+346 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+347 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+348 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+349 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+350 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+351 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+352 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+353 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+354 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+355 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+356 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+357 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+358 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+359 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+360 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+361 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+363 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+364 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+365 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+366 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+367 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+368 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+369 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+370 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+371 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+373 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+388 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+389 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+390 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+391 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+392 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+393 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+394 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+395 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+396 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+397 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+398 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+399 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+400 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+415 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+416 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+419 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+420 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+421 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+422 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+423 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+424 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+425 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+428 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+429 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+430 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+431 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+432 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+433 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+434 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+435 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+438 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+439 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+440 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+441 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+442 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+443 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+444 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+445 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.3333333333333333
+343 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+351 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+385 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+407 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+408 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+409 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+410 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+411 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+412 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+417 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+418 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+419 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+420 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.3333333333333333
+261 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+262 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+263 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+264 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+265 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+266 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+267 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+268 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+270 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+271 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+272 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+277 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+278 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+280 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+283 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+284 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+285 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+286 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+287 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+288 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+292 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+293 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+294 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+295 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+296 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+297 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+298 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+301 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+304 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+308 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+324 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+325 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+366 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+373 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.3333333333333333
+331 src/main/java/org/apache/commons/math3/util/Precision.java 0.3333333333333333
+332 src/main/java/org/apache/commons/math3/util/Precision.java 0.3333333333333333
+335 src/main/java/org/apache/commons/math3/util/Precision.java 0.3333333333333333
+338 src/main/java/org/apache/commons/math3/util/Precision.java 0.3333333333333333
+342 src/main/java/org/apache/commons/math3/util/Precision.java 0.3333333333333333
+344 src/main/java/org/apache/commons/math3/util/Precision.java 0.3333333333333333
+300 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+301 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+302 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+303 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+304 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+306 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+307 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+308 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+309 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+310 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+311 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+312 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+313 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+314 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+315 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+316 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+317 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+318 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+319 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+320 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+321 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+322 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+323 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+324 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+325 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+326 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+327 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+328 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+329 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+330 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+332 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.3333333333333333
+85 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+87 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+88 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+89 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+90 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+91 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+92 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+93 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+94 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+95 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+96 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+97 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+98 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+103 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+134 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+135 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+136 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+137 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+143 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+144 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.31622776601683794
+245 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+247 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+248 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+249 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+250 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+251 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+252 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+253 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+279 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+289 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+291 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+293 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+294 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+295 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+298 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+299 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+300 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+303 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+310 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+311 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+409 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+411 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.31622776601683794
+174 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+175 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+176 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+177 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+178 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+179 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+181 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+182 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+183 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+184 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+185 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+200 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+201 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+202 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+203 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+204 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+205 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+221 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+222 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+223 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+224 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+225 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+229 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+230 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+231 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+232 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+233 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+234 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+249 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+250 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+251 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+252 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+253 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+254 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+255 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+256 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+257 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+258 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+259 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+260 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+261 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+269 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+272 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+290 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+291 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+292 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+300 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+301 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+302 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+303 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+306 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+379 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+380 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+489 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+490 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+491 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+492 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.31622776601683794
+221 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.31622776601683794
+223 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.31622776601683794
+225 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.31622776601683794
+229 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.31622776601683794
+253 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.31622776601683794
+255 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+256 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+258 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+259 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+260 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+261 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+262 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+263 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+264 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+265 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+266 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+267 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+268 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+269 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+270 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+271 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+272 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+273 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+274 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+275 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+276 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+278 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+279 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+283 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.31622776601683794
+197 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+198 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+199 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+202 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+203 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+204 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+205 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+206 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+207 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+210 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+211 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+212 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+213 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+216 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+217 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+218 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+219 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+222 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+225 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+228 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+229 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+230 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+231 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+232 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+233 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+234 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+235 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+236 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+237 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+238 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+239 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+240 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+241 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+242 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+243 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+244 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+245 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+246 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+247 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+248 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+249 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+250 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+251 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+252 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+253 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+254 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+255 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+256 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+257 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+258 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+259 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+260 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+261 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+262 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+263 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+264 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+265 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+266 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+267 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+268 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+269 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+270 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+271 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+272 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+273 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+274 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+275 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+276 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+277 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+278 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+279 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+280 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+281 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+282 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+283 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+284 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+285 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+286 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+287 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+288 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+289 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+290 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+291 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+292 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+293 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+294 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+295 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+296 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+297 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.31622776601683794
+65 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java 0.31622776601683794
+77 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java 0.31622776601683794
+80 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java 0.31622776601683794
+92 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java 0.31622776601683794
+95 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java 0.31622776601683794
+110 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+111 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+112 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+157 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+158 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+159 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+161 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+162 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+163 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+164 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.30151134457776363
+220 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.30151134457776363
+221 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.30151134457776363
+222 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.30151134457776363
+117 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+119 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+120 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+121 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+122 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+123 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+125 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+128 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+129 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+130 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.30151134457776363
+50 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java 0.30151134457776363
+51 src/main/java/org/apache/commons/math3/ode/EquationsMapper.java 0.30151134457776363
+61 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.2886751345948129
+62 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.2886751345948129
+63 src/main/java/org/apache/commons/math3/ode/nonstiff/RungeKuttaStepInterpolator.java 0.2886751345948129
+232 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.2886751345948129
+233 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.2886751345948129
+234 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.2886751345948129
+235 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853StepInterpolator.java 0.2886751345948129
+113 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+114 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+115 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+116 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+117 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+118 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+119 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+120 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+121 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+122 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+123 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+124 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+125 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+213 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+214 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+215 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+216 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+217 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+218 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+219 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.2886751345948129
+358 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.2886751345948129
+359 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.2886751345948129
+247 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.2886751345948129
+188 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.2886751345948129
+353 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.2886751345948129
+367 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.2886751345948129
+371 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+382 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+383 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+384 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+396 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+297 src/main/java/org/apache/commons/math3/analysis/solvers/BracketingNthOrderBrentSolver.java 0.0
+3737 src/main/java/org/apache/commons/math3/util/FastMath.java 0.0
+3738 src/main/java/org/apache/commons/math3/util/FastMath.java 0.0
+374 src/main/java/org/apache/commons/math3/ode/sampling/AbstractStepInterpolator.java 0.0
+65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+137 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+147 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+171 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+172 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+173 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+174 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+175 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+176 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+177 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+178 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+179 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+180 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+181 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+182 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+183 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+184 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+186 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+6142 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+6150 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+6158 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+6166 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+6174 src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java 0.0
+133 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+134 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+135 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+186 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+187 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+188 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+190 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+191 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+192 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+193 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+209 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+212 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+255 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+273 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+299 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+305 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+326 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+329 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+330 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+335 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+353 src/main/java/org/apache/commons/math3/ode/nonstiff/AdaptiveStepsizeIntegrator.java 0.0
+70 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+77 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+339 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+44 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java 0.0
+56 src/main/java/org/apache/commons/math3/exception/DimensionMismatchException.java 0.0
+239 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.0
+240 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.0
+241 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.0
+280 src/main/java/org/apache/commons/math3/ode/nonstiff/DormandPrince853Integrator.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+63 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+155 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+157 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+158 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+159 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+160 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+161 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+163 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+166 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+167 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+168 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+335 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+336 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+338 src/main/java/org/apache/commons/math3/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0

@@ -3,6 +3,12 @@ package aggregateSpecSusp;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.lang.Math;
 
 public class CalcProximity {
     private ExtractLineData extractLineData;
@@ -19,6 +25,9 @@ public class CalcProximity {
 
     private int numberOfTest;
 
+    private File file = new File("Weight.txt");
+    private PrintWriter pw;
+
     CalcProximity(ExtractLineData extractLineData) {
         this.extractLineData = extractLineData;
         this.executionRoutes = extractLineData.getExecutionRoutes();
@@ -30,20 +39,16 @@ public class CalcProximity {
         }
 
         for (int i = 0; i < numberOfTest; i++) {
-            System.out.println(weightTestCase.get(i));
-        }
-
-        for (int i = 0; i < numberOfTest; i++) {
             double tmp = 0;
             for (int j = 0; j < failedTestList.size(); j++) {
                 tmp += weightTestCase.get(i + j * numberOfTest);
             }
             weightTestCase.set(i, tmp / failedTestList.size());
         }
-        System.out.println("----");
         for (int i = 0; i < numberOfTest; i++) {
-            System.out.println(weightTestCase.get(i));
+            pw.println(i + "," + weightTestCase.get(i));
         }
+        pw.close();
     }
 
     public List<Double> getWeightTestCase() {
@@ -51,6 +56,13 @@ public class CalcProximity {
     }
 
     private void init() {
+        // init PointWriter
+        try {
+            pw = new PrintWriter(new BufferedWriter(new FileWriter(file, false)));
+        } catch (IOException e) {
+            throw new RuntimeException("ERROR : FAILED CalcProximity INIT");
+        }
+
         // regist numberOfTest
         numberOfTest = blockedExecutionRoutes.get(0).getBlockedExecutionRoutes().size();
 
@@ -99,10 +111,15 @@ public class CalcProximity {
     private double formura(int corresponding, int notcorresponding) {
 
         double ret = 0;
-        int type = 2;
+        int type = App.weightType;
         // Haruka 0
         // Yoshiruka 1
         // Ruka 2
+        // Haru 3
+        // Haka 4
+        // Yoruka 5
+        // Senko 6
+        // YoshiokaHaruka 7
         switch (type) {
         case 0:
             ret = (double) corresponding / Math.sqrt((1 + notcorresponding));
@@ -113,9 +130,60 @@ public class CalcProximity {
         case 2:
             ret = (double) (corresponding * corresponding * corresponding) / Math.sqrt((1 + notcorresponding));
             break;
+        case 3:
+            ret = (double) (corresponding * corresponding * corresponding * corresponding)
+                    / Math.sqrt((1 + notcorresponding));
+            break;
+        case 4:
+            ret = (double) (corresponding * corresponding * corresponding)
+                    / Math.sqrt(Math.sqrt((1 + notcorresponding)));
+            break;
+        case 5:
+            ret = yoruka((double) (corresponding / (corresponding + notcorresponding + 1.0)));
+            break;
+        case 6:
+            ret = senko((double) (corresponding / (corresponding + notcorresponding + 1.0)));
+            break;
+        case 7:
+            ret = yoshiokaharuka(corresponding, notcorresponding);
+            break;
         }
 
         return ret;
     }
 
+    private double yoshiokaharuka(int corresponding, int notcorrespoinding) {
+        double x;
+        if (corresponding + notcorrespoinding == 0) {
+            x = 1.0;
+        } else {
+            x = (double) ((double) corresponding / (double) (corresponding + notcorrespoinding));
+        }
+        double threshold = 0.7;
+        if (x < threshold) {
+            return 1.0;
+        } else {
+            return yoruka(x);
+        }
+    }
+
+    private double senko(double x) {
+        double thresholdL = 0.25;
+        double thresholdR = 0.75;
+        if (x < thresholdL) {
+            return 2.0 * thresholdL - x;
+        } else if (thresholdR < x) {
+            return 2.0 * thresholdR - x;
+        } else {
+            return x;
+        }
+    }
+
+    private double yoruka(double x) {
+        double A = 10.0;
+        double Min = 1.0;
+        double Pi = Math.PI;
+        double ret = A * (-Math.sin((double) ((5.0 / 6.0) * Pi * x + (1.0 / 6.0) * Pi)) + (1.0 + Min));
+        return ret;
+    }
 }

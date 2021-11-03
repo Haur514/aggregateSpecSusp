@@ -1,435 +1,435 @@
-163 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
-167 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
-171 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
-175 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
-180 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
-184 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
-120 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-121 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-122 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-123 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-124 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-125 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-126 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-127 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-137 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
-157 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-158 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-159 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-160 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-161 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-162 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-163 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-164 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-165 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-166 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-167 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-168 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-169 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-170 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-59 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java
-62 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java
-643 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-80 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-81 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-125 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-126 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-204 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-205 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-227 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-230 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-256 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-258 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-259 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-260 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-262 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-263 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-264 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-265 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-266 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-261 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-267 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-268 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-402 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-404 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-405 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-407 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-408 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-409 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-410 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-411 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-412 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-413 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-414 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-415 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-416 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-417 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-418 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-419 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-420 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-421 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-422 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-424 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-131 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-132 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-133 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-134 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-135 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-136 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-137 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-138 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-66 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-145 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-146 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-577 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-578 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-635 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-636 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-84 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-85 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-112 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-113 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-65 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-66 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-57 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-58 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-76 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-77 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-80 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-81 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-82 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-83 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-102 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-103 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-105 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-106 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-107 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-108 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-109 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-57 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-58 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-76 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-77 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-79 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-90 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-91 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-85 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-56 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-57 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-75 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-76 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-60 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-61 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-80 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-81 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-83 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-84 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-57 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-58 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-76 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-77 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-79 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-150 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-151 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-152 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-153 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-154 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-155 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-158 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-161 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-164 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-167 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-606 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-607 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-114 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-117 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-118 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-119 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-120 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-92 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-93 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-180 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-179 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-100 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-129 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java
-111 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-239 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-286 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-205 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-44 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-61 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-69 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-77 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-85 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-93 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-101 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-109 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-117 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-125 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-133 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-141 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-149 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-165 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-173 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-181 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-189 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-197 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-261 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-269 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-293 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-301 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
-66 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-67 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-68 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-69 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-70 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-71 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-72 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-79 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-86 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-93 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-100 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-107 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-114 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-121 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
-181 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-182 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-184 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-185 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-187 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-590 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java
-93 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-108 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-109 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-146 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-147 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-148 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-161 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-162 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-163 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-164 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-165 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java
-3796 src/main/java/org/apache/commons/math/util/FastMath.java
-3797 src/main/java/org/apache/commons/math/util/FastMath.java
-3798 src/main/java/org/apache/commons/math/util/FastMath.java
-3799 src/main/java/org/apache/commons/math/util/FastMath.java
-3800 src/main/java/org/apache/commons/math/util/FastMath.java
-3801 src/main/java/org/apache/commons/math/util/FastMath.java
-3802 src/main/java/org/apache/commons/math/util/FastMath.java
-3803 src/main/java/org/apache/commons/math/util/FastMath.java
-3804 src/main/java/org/apache/commons/math/util/FastMath.java
-3807 src/main/java/org/apache/commons/math/util/FastMath.java
-46 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java
-47 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java
-85 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-92 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-100 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-101 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-200 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-201 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-202 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-215 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-216 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-217 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-218 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-219 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java
-158 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-159 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-160 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-161 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-162 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-163 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-164 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java
-121 src/main/java/org/apache/commons/math/util/Precision.java
-172 src/main/java/org/apache/commons/math/util/Precision.java
-173 src/main/java/org/apache/commons/math/util/Precision.java
-176 src/main/java/org/apache/commons/math/util/Precision.java
-179 src/main/java/org/apache/commons/math/util/Precision.java
-183 src/main/java/org/apache/commons/math/util/Precision.java
-185 src/main/java/org/apache/commons/math/util/Precision.java
-226 src/main/java/org/apache/commons/math/util/Precision.java
-277 src/main/java/org/apache/commons/math/util/Precision.java
-278 src/main/java/org/apache/commons/math/util/Precision.java
-281 src/main/java/org/apache/commons/math/util/Precision.java
-284 src/main/java/org/apache/commons/math/util/Precision.java
-288 src/main/java/org/apache/commons/math/util/Precision.java
-290 src/main/java/org/apache/commons/math/util/Precision.java
-362 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
-87 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-88 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-96 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-147 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-148 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-149 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-162 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-163 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-164 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-165 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-166 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java
-54 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
-70 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
-42 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-43 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-44 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-45 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-46 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-47 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-49 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-50 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-51 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-52 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-54 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
-76 src/main/java/org/apache/commons/math/util/MathUtils.java
-330 src/main/java/org/apache/commons/math/util/MathUtils.java
-112 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-123 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-153 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-169 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-170 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-203 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java
-65 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-66 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-67 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-68 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-87 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-88 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
-84 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-99 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-100 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-134 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-135 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-136 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-149 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-150 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-151 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-152 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-153 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java
-109 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-110 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-111 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-124 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-125 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-126 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-127 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java
-163 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java
-166 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java
-169 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java
-170 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java
-171 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java
-87 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-88 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-96 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-147 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-148 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-149 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-162 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-163 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-164 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-165 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-166 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java
-6142 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6150 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6158 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6166 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-6174 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java
-132 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-141 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-142 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-159 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-175 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-183 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-194 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-216 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-217 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-218 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-219 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-221 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-224 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-251 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-252 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-253 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-264 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-275 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-298 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-345 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-346 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-347 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-348 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-349 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-350 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-351 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-352 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-353 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-354 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-356 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-370 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-371 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-373 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-374 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-376 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-377 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-378 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-379 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-380 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-381 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-382 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-383 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-384 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-393 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-394 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-395 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-396 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-397 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-398 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-399 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-400 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-401 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-402 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-412 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-431 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-432 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-441 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-470 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-499 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-528 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-547 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-548 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-549 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-558 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-587 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-616 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-644 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-645 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-670 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-671 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-672 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-673 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-674 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-675 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-676 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-677 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-678 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-681 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-682 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-686 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-687 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-691 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-692 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-699 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-700 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-704 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-705 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-709 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-710 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-714 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-715 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-719 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-720 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-722 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-724 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-725 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-729 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-730 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-734 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
-735 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
+163 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java 1.0
+167 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java 1.0
+171 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java 1.0
+175 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java 1.0
+180 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java 1.0
+184 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java 1.0
+120 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.8164965809277261
+121 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.8164965809277261
+122 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.8164965809277261
+123 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.8164965809277261
+124 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.8164965809277261
+125 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.8164965809277261
+126 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.8164965809277261
+127 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.8164965809277261
+137 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java 0.8164965809277261
+157 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+158 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+159 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+160 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+161 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+162 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+163 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+164 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+165 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+166 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+167 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+168 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+169 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+170 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.8164965809277261
+59 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java 0.8164965809277261
+62 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java 0.8164965809277261
+643 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.7071067811865476
+80 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.6666666666666666
+81 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.6666666666666666
+125 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+126 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+204 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+205 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+227 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+230 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+256 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+258 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+259 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+260 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+262 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+263 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+264 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+265 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+266 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+261 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+267 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+268 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+402 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+404 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+405 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+407 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+408 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+409 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+410 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+411 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+412 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+413 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+414 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+415 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+416 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+417 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+418 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+419 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+420 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+421 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+422 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+424 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.5773502691896258
+131 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5773502691896258
+132 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5773502691896258
+133 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5773502691896258
+134 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5773502691896258
+135 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5773502691896258
+136 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5773502691896258
+137 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5773502691896258
+138 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5773502691896258
+66 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.5773502691896258
+145 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.5773502691896258
+146 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.5773502691896258
+577 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.5773502691896258
+578 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.5773502691896258
+635 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.5773502691896258
+636 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.5773502691896258
+84 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5
+85 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.5
+112 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.48038446141526137
+113 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.48038446141526137
+65 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.48038446141526137
+66 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.48038446141526137
+57 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.48038446141526137
+58 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.48038446141526137
+76 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.48038446141526137
+77 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.48038446141526137
+80 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+81 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+82 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+83 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+102 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+103 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+105 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+106 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+107 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+108 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+109 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.48038446141526137
+57 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.48038446141526137
+58 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.48038446141526137
+76 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.48038446141526137
+77 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.48038446141526137
+79 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.48038446141526137
+90 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.48038446141526137
+91 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.48038446141526137
+85 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.48038446141526137
+56 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.48038446141526137
+57 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.48038446141526137
+75 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.48038446141526137
+76 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.48038446141526137
+60 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.48038446141526137
+61 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.48038446141526137
+80 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.48038446141526137
+81 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.48038446141526137
+83 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.48038446141526137
+84 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.48038446141526137
+57 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.48038446141526137
+58 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.48038446141526137
+76 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.48038446141526137
+77 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.48038446141526137
+79 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.48038446141526137
+150 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+151 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+152 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+153 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+154 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+155 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+158 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+161 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+164 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+167 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.48038446141526137
+606 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.4082482904638631
+607 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.4082482904638631
+114 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.2886751345948129
+117 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.2581988897471611
+118 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.2581988897471611
+119 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.2581988897471611
+120 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.2581988897471611
+92 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.2581988897471611
+93 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.2581988897471611
+180 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.23570226039551587
+179 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.20412414523193154
+100 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.20412414523193154
+129 src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java 0.20412414523193154
+111 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.20412414523193154
+239 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.20412414523193154
+286 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.20412414523193154
+205 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.19245008972987526
+44 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+61 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+69 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+77 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+85 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+93 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+101 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+109 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+117 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+125 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+133 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+141 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+149 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+165 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+173 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+181 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+189 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+197 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+261 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+269 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+293 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+301 src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java 0.0
+66 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+67 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+68 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+69 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+70 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+71 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+72 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+79 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+86 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+93 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+100 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+107 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+114 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+121 src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java 0.0
+181 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.0
+182 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.0
+184 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.0
+185 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.0
+187 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.0
+590 src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java 0.0
+93 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+108 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+109 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+146 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+147 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+148 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+161 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+162 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+163 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+164 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+165 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java 0.0
+3796 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3797 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3798 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3799 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3800 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3801 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3802 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3803 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3804 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+3807 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
+46 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java 0.0
+47 src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java 0.0
+85 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+92 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+100 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+101 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+200 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+201 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+202 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+215 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+216 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+217 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+218 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+219 src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java 0.0
+158 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.0
+159 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.0
+160 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.0
+161 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.0
+162 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.0
+163 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.0
+164 src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java 0.0
+121 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+172 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+173 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+176 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+179 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+183 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+185 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+226 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+277 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+278 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+281 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+284 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+288 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+290 src/main/java/org/apache/commons/math/util/Precision.java 0.0
+362 src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java 0.0
+87 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+88 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+96 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+147 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+148 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+149 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+162 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+163 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+164 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+165 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+166 src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java 0.0
+54 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java 0.0
+70 src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java 0.0
+42 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+43 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+44 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+45 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+46 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+47 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+48 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+49 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+50 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+51 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+52 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+54 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+76 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+330 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+112 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.0
+123 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.0
+153 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.0
+169 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.0
+170 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.0
+203 src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java 0.0
+65 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+66 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+67 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+68 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+87 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+88 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
+84 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+99 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+100 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+134 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+135 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+136 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+149 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+150 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+151 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+152 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+153 src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java 0.0
+109 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.0
+110 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.0
+111 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.0
+124 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.0
+125 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.0
+126 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.0
+127 src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java 0.0
+163 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java 0.0
+166 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java 0.0
+169 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java 0.0
+170 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java 0.0
+171 src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java 0.0
+87 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+88 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+96 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+147 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+148 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+149 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+162 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+163 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+164 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+165 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+166 src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java 0.0
+6142 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+6150 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+6158 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+6166 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+6174 src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java 0.0
+132 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+141 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+142 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+159 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+175 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+183 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+194 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+216 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+217 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+218 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+219 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+221 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+224 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+251 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+252 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+253 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+264 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+275 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+298 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+345 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+346 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+347 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+348 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+349 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+350 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+351 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+352 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+353 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+354 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+356 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+370 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+371 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+373 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+374 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+376 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+377 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+378 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+379 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+380 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+381 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+382 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+383 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+384 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+393 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+394 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+395 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+396 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+397 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+398 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+399 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+400 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+401 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+402 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+412 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+431 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+432 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+441 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+470 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+499 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+528 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+547 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+548 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+549 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+558 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+587 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+616 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+644 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+645 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+670 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+671 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+672 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+673 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+674 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+675 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+676 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+677 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+678 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+681 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+682 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+686 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+687 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+691 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+692 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+699 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+700 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+704 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+705 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+709 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+710 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+714 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+715 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+719 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+720 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+722 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+724 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+725 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+729 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+730 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+734 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0
+735 src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java 0.0

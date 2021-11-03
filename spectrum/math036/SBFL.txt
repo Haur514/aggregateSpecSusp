@@ -1,111 +1,111 @@
-209 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-112 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-108 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-52 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-104 src/main/java/org/apache/commons/math3/genetics/GeneticAlgorithm.java
-39 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-58 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-59 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-60 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-61 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-62 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-63 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-73 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-74 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-75 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-77 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java
-75 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-76 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-77 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-43 src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java
-44 src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java
-71 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-65 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-68 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-45 src/main/java/org/apache/commons/math3/genetics/Chromosome.java
-47 src/main/java/org/apache/commons/math3/genetics/Chromosome.java
-49 src/main/java/org/apache/commons/math3/genetics/Chromosome.java
-65 src/main/java/org/apache/commons/math3/genetics/Chromosome.java
-67 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-69 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-70 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java
-368 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-379 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-380 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-381 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-393 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java
-47 src/main/java/org/apache/commons/math3/exception/NotPositiveException.java
-65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-137 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-147 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-171 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-172 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-173 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-174 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-175 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-176 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-177 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-178 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-179 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-180 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-181 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-182 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-183 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-184 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-186 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java
-69 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-72 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-73 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-109 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-110 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-120 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-138 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-139 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-140 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-142 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-151 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-152 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-153 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-154 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-155 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-156 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-157 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-158 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-166 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-177 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-178 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-180 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-181 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-183 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-199 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java
-69 src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java
-100 src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java
-45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-63 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java
-50 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-51 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-52 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-53 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java
-46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java
-42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
-54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java
+209 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 1.0
+112 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.7071067811865475
+108 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.5773502691896258
+52 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.4472135954999579
+104 src/main/java/org/apache/commons/math3/genetics/GeneticAlgorithm.java 0.3779644730092272
+39 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+58 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+59 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+60 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+61 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+62 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+63 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+73 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+74 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+75 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+77 src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java 0.3779644730092272
+75 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.3779644730092272
+76 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.3779644730092272
+77 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.3779644730092272
+43 src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java 0.3779644730092272
+44 src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java 0.3779644730092272
+71 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.35355339059327373
+65 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.31622776601683794
+68 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.31622776601683794
+45 src/main/java/org/apache/commons/math3/genetics/Chromosome.java 0.0
+47 src/main/java/org/apache/commons/math3/genetics/Chromosome.java 0.0
+49 src/main/java/org/apache/commons/math3/genetics/Chromosome.java 0.0
+65 src/main/java/org/apache/commons/math3/genetics/Chromosome.java 0.0
+67 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+69 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+70 src/main/java/org/apache/commons/math3/exception/NumberIsTooLargeException.java 0.0
+368 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+379 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+380 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+381 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+393 src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/NotPositiveException.java 0.0
+65 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+66 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+67 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+87 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+88 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+137 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+147 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+171 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+172 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+173 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+174 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+175 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+176 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+177 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+178 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+179 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+180 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+181 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+182 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+183 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+184 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+186 src/main/java/org/apache/commons/math3/exception/util/ExceptionContext.java 0.0
+69 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+72 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+73 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+109 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+110 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+120 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+138 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+139 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+140 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+142 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+151 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+152 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+153 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+154 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+155 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+156 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+157 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+158 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+166 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+177 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+178 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+180 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+181 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+183 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+199 src/main/java/org/apache/commons/math3/genetics/ListPopulation.java 0.0
+69 src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java 0.0
+100 src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+63 src/main/java/org/apache/commons/math3/exception/MathIllegalArgumentException.java 0.0
+50 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+52 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+53 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+68 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+70 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+71 src/main/java/org/apache/commons/math3/exception/NumberIsTooSmallException.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/MathIllegalNumberException.java 0.0
+42 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+43 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+44 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+45 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+46 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+47 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+48 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+49 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+50 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+51 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+52 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0
+54 src/main/java/org/apache/commons/math3/exception/util/ArgUtils.java 0.0

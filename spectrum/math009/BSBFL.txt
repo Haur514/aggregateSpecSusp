@@ -1,134 +1,134 @@
-87 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-88 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-222 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-374 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-95 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-55 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-74 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-75 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-76 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-79 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-80 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-866 src/main/java/org/apache/commons/math3/util/MathArrays.java
-867 src/main/java/org/apache/commons/math3/util/MathArrays.java
-868 src/main/java/org/apache/commons/math3/util/MathArrays.java
-869 src/main/java/org/apache/commons/math3/util/MathArrays.java
-870 src/main/java/org/apache/commons/math3/util/MathArrays.java
-871 src/main/java/org/apache/commons/math3/util/MathArrays.java
-874 src/main/java/org/apache/commons/math3/util/MathArrays.java
-875 src/main/java/org/apache/commons/math3/util/MathArrays.java
-878 src/main/java/org/apache/commons/math3/util/MathArrays.java
-879 src/main/java/org/apache/commons/math3/util/MathArrays.java
-880 src/main/java/org/apache/commons/math3/util/MathArrays.java
-881 src/main/java/org/apache/commons/math3/util/MathArrays.java
-882 src/main/java/org/apache/commons/math3/util/MathArrays.java
-883 src/main/java/org/apache/commons/math3/util/MathArrays.java
-886 src/main/java/org/apache/commons/math3/util/MathArrays.java
-887 src/main/java/org/apache/commons/math3/util/MathArrays.java
-890 src/main/java/org/apache/commons/math3/util/MathArrays.java
-891 src/main/java/org/apache/commons/math3/util/MathArrays.java
-892 src/main/java/org/apache/commons/math3/util/MathArrays.java
-896 src/main/java/org/apache/commons/math3/util/MathArrays.java
-898 src/main/java/org/apache/commons/math3/util/MathArrays.java
-904 src/main/java/org/apache/commons/math3/util/MathArrays.java
-946 src/main/java/org/apache/commons/math3/util/MathArrays.java
-947 src/main/java/org/apache/commons/math3/util/MathArrays.java
-948 src/main/java/org/apache/commons/math3/util/MathArrays.java
-949 src/main/java/org/apache/commons/math3/util/MathArrays.java
-950 src/main/java/org/apache/commons/math3/util/MathArrays.java
-951 src/main/java/org/apache/commons/math3/util/MathArrays.java
-954 src/main/java/org/apache/commons/math3/util/MathArrays.java
-955 src/main/java/org/apache/commons/math3/util/MathArrays.java
-958 src/main/java/org/apache/commons/math3/util/MathArrays.java
-959 src/main/java/org/apache/commons/math3/util/MathArrays.java
-960 src/main/java/org/apache/commons/math3/util/MathArrays.java
-961 src/main/java/org/apache/commons/math3/util/MathArrays.java
-962 src/main/java/org/apache/commons/math3/util/MathArrays.java
-963 src/main/java/org/apache/commons/math3/util/MathArrays.java
-966 src/main/java/org/apache/commons/math3/util/MathArrays.java
-967 src/main/java/org/apache/commons/math3/util/MathArrays.java
-970 src/main/java/org/apache/commons/math3/util/MathArrays.java
-971 src/main/java/org/apache/commons/math3/util/MathArrays.java
-972 src/main/java/org/apache/commons/math3/util/MathArrays.java
-973 src/main/java/org/apache/commons/math3/util/MathArrays.java
-974 src/main/java/org/apache/commons/math3/util/MathArrays.java
-975 src/main/java/org/apache/commons/math3/util/MathArrays.java
-978 src/main/java/org/apache/commons/math3/util/MathArrays.java
-979 src/main/java/org/apache/commons/math3/util/MathArrays.java
-982 src/main/java/org/apache/commons/math3/util/MathArrays.java
-983 src/main/java/org/apache/commons/math3/util/MathArrays.java
-984 src/main/java/org/apache/commons/math3/util/MathArrays.java
-987 src/main/java/org/apache/commons/math3/util/MathArrays.java
-988 src/main/java/org/apache/commons/math3/util/MathArrays.java
-989 src/main/java/org/apache/commons/math3/util/MathArrays.java
-993 src/main/java/org/apache/commons/math3/util/MathArrays.java
-995 src/main/java/org/apache/commons/math3/util/MathArrays.java
-1001 src/main/java/org/apache/commons/math3/util/MathArrays.java
-96 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-97 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-98 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-138 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-139 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-140 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-152 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-153 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-154 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-249 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-286 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-287 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-453 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-454 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-146 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-147 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-155 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-163 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-164 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-165 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-174 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-175 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-176 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-178 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-182 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-184 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-194 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-195 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-196 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-201 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-202 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-203 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-205 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-215 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-216 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java
-70 src/main/java/org/apache/commons/math3/util/Precision.java
-77 src/main/java/org/apache/commons/math3/util/Precision.java
-243 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-275 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-276 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-321 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-322 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-326 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-327 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-328 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-351 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-352 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-356 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-357 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-358 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-359 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-360 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-361 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-362 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-363 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-364 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-365 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-368 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-462 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-463 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-464 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-465 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-479 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-480 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-481 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-482 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-483 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
-519 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java
+87 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 1.0
+88 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 1.0
+222 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 1.0
+374 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 1.0
+95 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.5773502691896258
+55 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.3779644730092272
+74 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.3779644730092272
+75 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.3779644730092272
+76 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.3779644730092272
+79 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.3779644730092272
+80 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.3779644730092272
+866 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+867 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+868 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+869 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+870 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+871 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+874 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+875 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+878 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+879 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+880 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+881 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+882 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+883 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+886 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+887 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+890 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+891 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+892 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+896 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+898 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+904 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+946 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+947 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+948 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+949 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+950 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+951 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+954 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+955 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+958 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+959 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+960 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+961 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+962 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+963 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+966 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+967 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+970 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+971 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+972 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+973 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+974 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+975 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+978 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+979 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+982 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+983 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+984 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+987 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+988 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+989 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+993 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+995 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+1001 src/main/java/org/apache/commons/math3/util/MathArrays.java 0.3779644730092272
+96 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+97 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+98 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+138 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+139 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+140 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+152 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+153 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+154 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+249 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+286 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+287 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+453 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+454 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.3779644730092272
+146 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+147 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+155 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+163 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+164 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+165 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+174 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+175 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+176 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+178 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+182 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+184 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+194 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+195 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+196 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+201 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+202 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+203 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+205 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+215 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+216 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java 0.0
+70 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+77 src/main/java/org/apache/commons/math3/util/Precision.java 0.0
+243 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+275 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+276 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+321 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+322 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+326 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+327 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+328 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+351 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+352 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+356 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+357 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+358 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+359 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+360 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+361 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+362 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+363 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+364 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+365 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+368 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+462 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+463 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+464 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+465 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+479 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+480 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+481 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+482 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+483 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0
+519 src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java 0.0

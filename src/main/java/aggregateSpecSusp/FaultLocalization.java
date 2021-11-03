@@ -98,10 +98,6 @@ public abstract class FaultLocalization {
         }
     }
 
-    private void executeALineFL() {
-
-    }
-
     private void print() {
         for (SuspValueInfo svi : suspValueInfos) {
             registLineNumAndSuspValue(svi);
@@ -119,7 +115,7 @@ public abstract class FaultLocalization {
     abstract double weight(int testCaseNum);
 
     public void registLineNumAndSuspValue(SuspValueInfo svi) {
-        pw.println(svi.getLineNum() + " " + svi.getFileName());
+        pw.println(svi.getLineNum() + " " + svi.getFileName() + " " + svi.getSuspValue());
     }
 
     private double ochiai(int ef, int nf, int ep, int np) {
