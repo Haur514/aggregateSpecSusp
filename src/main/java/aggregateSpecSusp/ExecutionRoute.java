@@ -76,6 +76,10 @@ public class ExecutionRoute {
         throw new RuntimeException("Cannnot find");
     }
 
+    public int getNumberOfTest() {
+        return this.numberOfTest;
+    }
+
     public void printExecutedRoutes() {
         System.out.println(fileName);
         for (int j = 0; j < executedLineNum.size(); j++) {

@@ -1,22 +1,24 @@
 package aggregateSpecSusp;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.lang.Math;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Set;
 
-public class CalcProximity {
+/**
+ * calc proximity with non-blocked spectrum for control experiment
+ */
+public class NonBlockedCalcProximity {
     private ExtractLineData extractLineData;
     private List<ExecutionRoute> executionRoutes;
     private List<BlockedExecutionRoute> blockedExecutionRoutes;
     // failed test case passed route 'x'
-    private List<Integer> numberOfCorrespondingBlock = new ArrayList<>();
-    private List<Integer> numberOfNotCorrespondingBlock = new ArrayList<>();
+    private List<Integer> numberOfCorrespoindingLine = new ArrayList<>();
+    private List<Integer> numberOfNotCorrespoindingLine = new ArrayList<>();
 
     private Set<Integer> failedTestList;
 
@@ -28,7 +30,7 @@ public class CalcProximity {
     private File file = new File("Weight.txt");
     private PrintWriter pw;
 
-    CalcProximity(ExtractLineData extractLineData) {
+    NonBlockedCalcProximity(ExtractLineData extractLineData) {
         this.extractLineData = extractLineData;
         this.executionRoutes = extractLineData.getExecutionRoutes();
         this.blockedExecutionRoutes = extractLineData.getBlockedExecutionRoutes();
@@ -68,26 +70,25 @@ public class CalcProximity {
 
         // init list that regist correspondingBlock / notcorrespoindingBlock
         for (int i = 0; i < numberOfTest; i++) {
-            numberOfCorrespondingBlock.add(0);
-            numberOfNotCorrespondingBlock.add(0);
+            numberOfCorrespoindingLine.add(0);
+            numberOfNotCorrespoindingLine.add(0);
         }
 
     }
 
     public void calcurateProximity(int failedTestNumber) {
-        int numberOfTest = blockedExecutionRoutes.get(0).getBlockedExecutionRoutes().size();
-        for (BlockedExecutionRoute blockedExecutionRoute : blockedExecutionRoutes) {
-            List<Integer> failedBlockedExecutionRoute = blockedExecutionRoute.getBlockedExecutionRoutes()
-                    .get(failedTestNumber);
+        int numberOfTest = executionRoutes.get(0).getNumberOfTest();
+        for (ExecutionRoute executionRoute : executionRoutes) {
+            List<Integer> failedExecutionRoute = executionRoute.getExecutionRoutes().get(failedTestNumber);
             for (int i = 0; i < numberOfTest; i++) {
                 int corresponding = 0;
                 int notcorresponding = 0;
                 if (failedTestList.contains(i)) {
                     continue;
                 }
-                List<Integer> blocked = blockedExecutionRoute.getBlockedExecutionRoutes().get(i);
-                for (int line = 0; line < failedBlockedExecutionRoute.size(); line++) {
-                    if (failedBlockedExecutionRoute.get(line) == 0) {
+                List<Integer> blocked = executionRoute.getExecutionRoutes().get(i);
+                for (int line = 0; line < failedExecutionRoute.size(); line++) {
+                    if (failedExecutionRoute.get(line) == 0) {
                         if (blocked.get(line) == 1) {
                             notcorresponding++;
                         }
@@ -99,12 +100,12 @@ public class CalcProximity {
                         }
                     }
                 }
-                numberOfCorrespondingBlock.set(i, numberOfCorrespondingBlock.get(i) + corresponding);
-                numberOfNotCorrespondingBlock.set(i, numberOfNotCorrespondingBlock.get(i) + notcorresponding);
+                numberOfCorrespoindingLine.set(i, numberOfCorrespoindingLine.get(i) + corresponding);
+                numberOfNotCorrespoindingLine.set(i, numberOfNotCorrespoindingLine.get(i) + notcorresponding);
             }
         }
         for (int i = 0; i < numberOfTest; i++) {
-            weightTestCase.add(formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
+            weightTestCase.add(formura(numberOfCorrespoindingLine.get(i), numberOfNotCorrespoindingLine.get(i)));
         }
     }
 

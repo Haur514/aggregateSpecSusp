@@ -13,6 +13,7 @@
 "Complex","9","4","math037"
 "BOBYQAOptimizer","1857","8","math038"
 "BOBYQAOptimizer","1859","10","math038"
+"BOBYQAOptimizer","1860","11","math038"
 "BOBYQAOptimizer","1870","21","math038"
 "SimplexTableau","76","77","math042"
 "Complex","2","3","math053"
@@ -26,3 +27,4 @@
 "SimplexTableau","40","54","math088"
 "SimplexTableau","41","55","math088"
 "SimplexTableau","42","56","math088"
+309 145 280

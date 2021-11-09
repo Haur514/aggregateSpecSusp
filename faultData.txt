@@ -1,20 +1,21 @@
 math005 305 Complex
-math006 51 BaseOptimizer
-math006 214 NonLinearConjugateGradientOptimizer
-math006 217 NonLinearConjugateGradientOptimizer
-math006 223 NonLinearConjugateGradientOptimizer
-math006 277 NonLinearConjugateGradientOptimizer
-math006 191 PowellOptimizer
-math006 193 PowellOptimizer
-math006 227 PowellOptimizer
-math006 158 SimplexOptimizer
-math006 175 SimplexOptimizer
-math006 106 GaussNewtonOptimizer
-math006 108 GaussNewtonOptimizer
-math006 160 GaussNewtonOptimizer
-math006 322 LevenbergMarquardtOptimizer
-math006 325 LevenbergMarquardtOptimizer
-math006 489 LevenbergMarquardtOptimizer
+math006 51 BaseOptimizer replace
+math006 214 NonLinearConjugateGradientOptimizer delete
+math006 217 NonLinearConjugateGradientOptimizer replace
+math006 223 NonLinearConjugateGradientOptimizer replace
+math006 277 NonLinearConjugateGradientOptimizer replace
+math006 390 NonLinearConjugateGradientOptimizer insert
+math006 191 PowellOptimizer delete
+math006 193 PowellOptimizer replace
+math006 227 PowellOptimizer replace
+math006 158 SimplexOptimizer replace
+math006 175 SimplexOptimizer replace
+math006 106 GaussNewtonOptimizer delete
+math006 108 GaussNewtonOptimizer replace
+math006 160 GaussNewtonOptimizer replace
+math006 322 LevenbergMarquardtOptimizer delete
+math006 325 LevenbergMarquardtOptimizer replace
+math006 489 LevenbergMarquardtOptimizer replace
 math007 346 AbstractIntegrator
 math007 347 AbstractIntegrator
 math007 357 AbstractIntegrator
@@ -34,11 +35,12 @@ math014 44 Weight
 math014 45 Weight
 math014 46 Weight
 math015 1541 FastMath
-math018 932 CMAESOptimizer
-math018 958 CMAESOptimizer
-math018 992 CMAESOptimizer
-math018 995 CMAESOptimizer
-math020 921 CMAESOptimizer
+math018 932 CMAESOptimizer replace
+math018 958 CMAESOptimizer replace
+math018 991 CMAESOptimizer insert
+math018 992 CMAESOptimizer replace
+math018 995 CMAESOptimizer replace
+math020 921 CMAESOptimizer replace
 math021 69 RectangularCholeskyDecomposition
 math021 79 RectangularCholeskyDecomposition
 math021 82 RectangularCholeskyDecomposition
@@ -49,11 +51,11 @@ math021 91 RectangularCholeskyDecomposition
 math021 92 RectangularCholeskyDecomposition
 math021 93 RectangularCholeskyDecomposition
 math021 128 RectangularCholeskyDecomposition
-math029 349 OpenMapRealVector
-math029 350 OpenMapRealVector
-math029 351 OpenMapRealVector
-math029 352 OpenMapRealVector
-math029 374 OpenMapRealVector
+math029 349 OpenMapRealVector replace
+math029 350 OpenMapRealVector replace
+math029 351 OpenMapRealVector delete
+math029 352 OpenMapRealVector replace
+math029 374 OpenMapRealVector insert
 math030 173 MannWhitneyUTest
 math031 134 ContinuedFraction
 math031 135 ContinuedFraction
@@ -89,24 +91,25 @@ math031 187 ContinuedFraction
 math031 188 ContinuedFraction
 math031 189 ContinuedFraction
 math032 136 PolygonsSet
-math033 338 SimplexTableau
+math033 338 SimplexTableau replace
 math034 209 ListPopulation
 math035 51 ElitisticListPopulation
 math035 65 ElitisticListPopulation
 math036 688 BigFraction
 math036 735 BigFraction
-math037 1018 Complex
-math037 1022 Complex
-math037 1063 Complex
-math037 1066 Complex
-math038 1660 BOBYQAOptimizer
-math038 1662 BOBYQAOptimizer
-math038 1752 BOBYQAOptimizer
+math037 1018 Complex replace
+math037 1022 Complex insert
+math037 1063 Complex replace
+math037 1066 Complex insert
+math038 1660 BOBYQAOptimizer delete
+math038 1662 BOBYQAOptimizer replace
+math038 1663 BOBYQAOptimizer replace
+math038 1752 BOBYQAOptimizer delete
 math039 252 EmbeddedRungeKuttaIntegrator
 math040 235 BracketingNthOrderBrentSolver
 math040 238 BracketingNthOrderBrentSolver
 math041 520 Variance
-math042 413 SimplexTableau
+math042 413 SimplexTableau replace
 math043 158 SummaryStatistics
 math043 161 SummaryStatistics
 math043 164 SummaryStatistics

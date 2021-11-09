@@ -1,7 +1,7 @@
-"SimplexOptimizer","492","491","math006"
-"SimplexOptimizer","506","505","math006"
-"CMAESOptimizer","174","10","math018"
-"CMAESOptimizer","180","16","math018"
+"SimplexOptimizer","492","29","math006"
+"SimplexOptimizer","506","43","math006"
+"CMAESOptimizer","174","16","math018"
+"CMAESOptimizer","180","22","math018"
 "OpenMapRealVector","73","11","math029"
 "OpenMapRealVector","74","12","math029"
 "OpenMapRealVector","75","13","math029"
@@ -16,8 +16,7 @@
 "BOBYQAOptimizer","1860","11","math038"
 "BOBYQAOptimizer","1870","21","math038"
 "SimplexTableau","76","77","math042"
-"Complex","2","3","math053"
-"EmbeddedRungeKuttaIntegrator","531","180","math071"
+"EmbeddedRungeKuttaIntegrator","531","160","math071"
 "RungeKuttaIntegrator","331","548","math071"
 "SimplexTableau","23","33","math083"
 "SimplexTableau","27","37","math083"
@@ -27,4 +26,4 @@
 "SimplexTableau","40","54","math088"
 "SimplexTableau","41","55","math088"
 "SimplexTableau","42","56","math088"
-309 145 280
+309 145 281

@@ -34,8 +34,19 @@ for i in range(rangeStart, rangeEnd):
     os.chdir('..')
     os.system(
         'java -jar ./build/libs/aggregateSpecSusp.jar -weightType '+args[1])
-    shutil.copy("./BSBFL.txt", "./spectrum/" + sub + "/BSBFL.txt")
-    shutil.copy("./SBFL.txt", "./spectrum/" + sub + "/SBFL.txt")
-    shutil.copy("./Weight.txt", "./spectrum/" + sub + "/Weight.txt")
+    os.makedirs("./spectrum/" + sub + "/"+weightType, exist_ok=True)
+    shutil.copy("./BSBFL.txt", "./spectrum/" +
+                sub + "/BSBFL.txt")
+    shutil.copy("./SBFL.txt", "./spectrum/" +
+                sub + "/SBFL.txt")
+    shutil.copy("./Weight.txt", "./spectrum/" +
+                sub + "/Weight.txt")
+    shutil.copy("./BSBFL.txt", "./spectrum/" +
+                sub + "/" + weightType + "/BSBFL.txt")
+    shutil.copy("./SBFL.txt", "./spectrum/" +
+                sub + "/" + weightType + "/SBFL.txt")
+    shutil.copy("./Weight.txt", "./spectrum/" +
+                sub + "/" + weightType + "/Weight.txt")
 
 os.system('java -jar ' + countRankBase + '/build/libs/countRankBSBFL.jar')
+shutil.copy("./sample.txt", "./"+weightType+".csv")

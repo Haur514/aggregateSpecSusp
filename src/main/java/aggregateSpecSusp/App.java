@@ -13,6 +13,7 @@ public class App {
         ExtractLineData extractLineData = new ExtractLineData();
 
         CalcProximity calcProximity = new CalcProximity(extractLineData);
+        NonBlockedCalcProximity nonBlockedCalcProximity = new NonBlockedCalcProximity(extractLineData);
         SpectrumBasedFaultLocalization spectrumBasedFaultLocalization = new SpectrumBasedFaultLocalization(
                 extractLineData);
         BlockedSpectrumBasedFaultLocalization blockedSpectrumBasedFaultLocalization = new BlockedSpectrumBasedFaultLocalization(
