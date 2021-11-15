@@ -13,9 +13,7 @@ import java.util.Set;
  * calc proximity with non-blocked spectrum for control experiment
  */
 public class NonBlockedCalcProximity {
-    private ExtractLineData extractLineData;
     private List<ExecutionRoute> executionRoutes;
-    private List<BlockedExecutionRoute> blockedExecutionRoutes;
     // failed test case passed route 'x'
     private List<Integer> numberOfCorrespoindingLine = new ArrayList<>();
     private List<Integer> numberOfNotCorrespoindingLine = new ArrayList<>();
@@ -31,9 +29,7 @@ public class NonBlockedCalcProximity {
     private PrintWriter pw;
 
     NonBlockedCalcProximity(ExtractLineData extractLineData) {
-        this.extractLineData = extractLineData;
         this.executionRoutes = extractLineData.getExecutionRoutes();
-        this.blockedExecutionRoutes = extractLineData.getBlockedExecutionRoutes();
         this.failedTestList = extractLineData.getFailedTestList();
         init();
         for (Integer failedTestNumber : failedTestList) {
@@ -66,7 +62,7 @@ public class NonBlockedCalcProximity {
         }
 
         // regist numberOfTest
-        numberOfTest = blockedExecutionRoutes.get(0).getBlockedExecutionRoutes().size();
+        numberOfTest = executionRoutes.get(0).getNumberOfTest();
 
         // init list that regist correspondingBlock / notcorrespoindingBlock
         for (int i = 0; i < numberOfTest; i++) {

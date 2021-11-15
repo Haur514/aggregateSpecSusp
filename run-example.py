@@ -7,7 +7,7 @@ countRankBase = 'C:/Users/h-yosiok/Lab/countRankBSBFL'
 jarFile = base + '/build/libs/aggregateSpecSusp.jar'
 
 rangeStart = 1
-rangeEnd = 104
+rangeEnd = 105
 os.system('gradle jar')
 
 weightFunctionName = {0: "Haruka",
@@ -37,12 +37,16 @@ for i in range(rangeStart, rangeEnd):
     os.makedirs("./spectrum/" + sub + "/"+weightType, exist_ok=True)
     shutil.copy("./BSBFL.txt", "./spectrum/" +
                 sub + "/BSBFL.txt")
+    shutil.copy("./NonBSBFL.txt", "./spectrum/" +
+                sub + "/NonBSBFL.txt")
     shutil.copy("./SBFL.txt", "./spectrum/" +
                 sub + "/SBFL.txt")
     shutil.copy("./Weight.txt", "./spectrum/" +
                 sub + "/Weight.txt")
     shutil.copy("./BSBFL.txt", "./spectrum/" +
                 sub + "/" + weightType + "/BSBFL.txt")
+    shutil.copy("./NonBSBFL.txt", "./spectrum/" +
+                sub + "/" + weightType + "/NonBSBFL.txt")
     shutil.copy("./SBFL.txt", "./spectrum/" +
                 sub + "/" + weightType + "/SBFL.txt")
     shutil.copy("./Weight.txt", "./spectrum/" +

@@ -38,12 +38,11 @@ public abstract class FaultLocalization {
         pw.close();
     }
 
-    FaultLocalization(ExtractLineData extractLineData, CalcProximity calcProximity) {
+    FaultLocalization(ExtractLineData extractLineData, List<Double> weightTestCase) {
         this.executionRoutes = extractLineData.getExecutionRoutes();
         this.failedTestList = extractLineData.getFailedTestList();
         this.numberOfTest = extractLineData.getNumberOfTest();
-        this.calcProximity = calcProximity;
-        this.weightTestCase = calcProximity.getWeightTestCase();
+        this.weightTestCase = weightTestCase;
         setFileName();
         init();
         run();

@@ -1,11 +1,17 @@
 package aggregateSpecSusp;
 
 import java.io.File;
+import java.util.List;
 
 public class BlockedSpectrumBasedFaultLocalization extends FaultLocalization {
 
-    BlockedSpectrumBasedFaultLocalization(ExtractLineData extractLineData, CalcProximity calcProximity) {
-        super(extractLineData, calcProximity);
+    BlockedSpectrumBasedFaultLocalization(ExtractLineData extractLineData, List<Double> weightTestCase) {
+        super(extractLineData, weightTestCase);
+    }
+
+    BlockedSpectrumBasedFaultLocalization(ExtractLineData extractLineData, List<Double> weightTestCase,
+            String fileName) {
+        super(extractLineData, weightTestCase);
     }
 
     @Override

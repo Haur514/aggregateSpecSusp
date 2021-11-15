@@ -11,20 +11,21 @@ public class App {
         setArgs(args);
 
         ExtractLineData extractLineData = new ExtractLineData();
-
         CalcProximity calcProximity = new CalcProximity(extractLineData);
         NonBlockedCalcProximity nonBlockedCalcProximity = new NonBlockedCalcProximity(extractLineData);
         SpectrumBasedFaultLocalization spectrumBasedFaultLocalization = new SpectrumBasedFaultLocalization(
                 extractLineData);
         BlockedSpectrumBasedFaultLocalization blockedSpectrumBasedFaultLocalization = new BlockedSpectrumBasedFaultLocalization(
-                extractLineData, calcProximity);
+                extractLineData, calcProximity.getWeightTestCase());
+        NonBlockedSpectrumBasedFaultLocalization nonBlockedSpectrumBasedFaultLocalization = new NonBlockedSpectrumBasedFaultLocalization(
+                extractLineData, nonBlockedCalcProximity.getWeightTestCase());
     }
 
     public static void setArgs(String[] args) {
         for (int i = 0; i < args.length; i++) {
             if (args[i].equals("-weightType")) {
                 if (i + 1 >= args.length) {
-                    System.err.println("invaridate command line");
+                    System.err.println("invarid command line");
                 }
                 weightType = Integer.parseInt(args[i + 1]);
                 break;
