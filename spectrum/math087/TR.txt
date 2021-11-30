@@ -78,6 +78,8 @@ src/java/org/apache/commons/math/util/CompositeFormat.java
 00054,-,-,-,-,-,-,-,-,o,-,-,-
 00055,-,-,-,-,-,-,-,-,o,-,-,-
 00056,-,-,-,-,-,-,-,-,o,-,-,-
+src/java/org/apache/commons/math/linear/AbstractRealMatrix.java
+00044,o,o,o,o,o,x,o,o,o,o,o,o
 src/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java
 00062,o,o,o,o,o,x,o,o,o,o,o,o
 00067,o,o,o,o,o,x,o,o,o,o,o,o
@@ -271,6 +273,8 @@ src/java/org/apache/commons/math/optimization/linear/LinearConstraint.java
 00184,o,o,o,o,o,x,o,o,o,o,o,o
 src/java/org/apache/commons/math/optimization/OptimizationException.java
 00042,o,-,-,-,-,-,-,-,-,o,-,-
+src/java/org/apache/commons/math/optimization/linear/Relationship.java
+00043,-,-,-,-,-,-,-,-,o,-,-,-
 src/java/org/apache/commons/math/linear/RealVectorFormat.java
 00094,-,-,-,-,-,-,-,-,o,-,-,-
 00118,-,-,-,-,-,-,-,-,o,-,-,-

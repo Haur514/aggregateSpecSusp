@@ -125,14 +125,13 @@ public class CalcProximity {
             ret = haruka(corresponding, notcorresponding);
             break;
         case 1:
-            ret = (double) (corresponding * corresponding) / Math.sqrt((1 + notcorresponding));
+            ret = yoshiruka(corresponding, notcorresponding);
             break;
         case 2:
-            ret = (double) (corresponding * corresponding * corresponding) / Math.sqrt((1 + notcorresponding));
+            ret = ruka(corresponding,notcorresponding);
             break;
         case 3:
-            ret = (double) (corresponding * corresponding * corresponding * corresponding)
-                    / Math.sqrt((1 + notcorresponding));
+            ret = haru(corresponding,notcorresponding);
             break;
         case 4:
             ret = haka(corresponding, notcorresponding);
@@ -146,9 +145,59 @@ public class CalcProximity {
         case 7:
             ret = yoshiokaharuka(corresponding, notcorresponding);
             break;
+            case 8:
+            ret = functionC(corresponding,notcorresponding);
+            break;
         }
 
         return ret;
+    }
+
+private double functionC(int corresponding,int notcorresponding){
+    double x;
+    if (corresponding + notcorresponding == 0) {
+        x = 1.0;
+    } else {
+        x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
+    }
+    double threshold = 0.75;
+    if (x < threshold) {
+        return 1.0;
+    } else {
+        return (double) corresponding / Math.sqrt((double)corresponding + (double)notcorresponding);
+    }
+}
+
+    private double yoshiruka(int corresponding,int notcorresponding){
+        double x;
+        if (corresponding + notcorresponding == 0) {
+            x = 1.0;
+        } else {
+            x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
+        }
+        double threshold = 0.75;
+        if (x < threshold) {
+            return 1.0;
+        } else {
+            return 1.0 + 10.0*(x - 0.75);
+        }
+    }
+
+    private double haru(int corresponding,int notcorresponding){
+        double x;
+        if (corresponding + notcorresponding == 0) {
+            x = 1.0;
+        } else {
+            x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
+        }
+        double threshold = 0.25;
+        if(x < threshold){
+            return x + 0.75;
+        }else if (threshold <= x && x <= (1-threshold)) {
+            return 1.0;
+        } else {
+            return 1.0+x-0.75;
+        }
     }
 
     private double haruka(int corresponding, int notcorresponding) {
@@ -158,7 +207,22 @@ public class CalcProximity {
         } else {
             x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
         }
-        double threshold = 0.7;
+        double threshold = 0.8;
+        if (x < threshold) {
+            return 1.0;
+        } else {
+            return (double) corresponding / x;
+        }
+    }
+
+    private double ruka(int corresponding,int notcorresponding){
+        double x;
+        if (corresponding + notcorresponding == 0) {
+            x = 1.0;
+        } else {
+            x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
+        }
+        double threshold = App.threshold;
         if (x < threshold) {
             return 1.0;
         } else {
@@ -188,7 +252,7 @@ public class CalcProximity {
         } else {
             x = (double) ((double) corresponding / (double) (corresponding + notcorrespoinding));
         }
-        double threshold = 0.7;
+        double threshold = 0.75;
         if (x < threshold) {
             return 1.0;
         } else {

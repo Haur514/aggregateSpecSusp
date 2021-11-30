@@ -4,7 +4,7 @@ import shutil
 
 sub = sys.argv[1]
 
-os.chdir('kGenProg-example')
+os.chdir('spectrum')
 os.chdir(sub)
 os.system('java -jar ./../../kGenProg-1.8.2.jar')
 shutil.copy("./TR.txt", "./../../TR.txt")

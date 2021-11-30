@@ -6,6 +6,7 @@ package aggregateSpecSusp;
 public class App {
     // using in weighting test cases;
     public static int weightType;
+    public static double threshold;
 
     public static void main(String[] args) {
         setArgs(args);
@@ -28,8 +29,17 @@ public class App {
                     System.err.println("invarid command line");
                 }
                 weightType = Integer.parseInt(args[i + 1]);
-                break;
+            }
+
+            if (args[i].equals("-threshold")) {
+                if (i + 1 >= args.length) {
+                    System.err.println("invarid command line");
+                }
+                
+                threshold = Double.parseDouble(args[i + 1]);
+                System.out.println(threshold);
             }
         }
+        System.out.println(Double.toString(threshold)+" "+weightType);
     }
 }

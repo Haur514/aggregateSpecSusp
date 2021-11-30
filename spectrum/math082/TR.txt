@@ -170,6 +170,8 @@ src/main/java/org/apache/commons/math/optimization/linear/UnboundedSolutionExcep
 00037,-,-,-,-,-,o,-,-,-,-,-,-,-,-
 src/main/java/org/apache/commons/math/optimization/OptimizationException.java
 00042,-,-,-,-,o,o,-,-,-,-,-,-,-,-
+src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java
+00044,o,o,o,o,o,o,o,o,o,o,o,o,x,o
 src/main/java/org/apache/commons/math/MathException.java
 00060,-,-,-,-,o,o,-,-,-,-,-,-,-,-
 00061,-,-,-,-,o,o,-,-,-,-,-,-,-,-
@@ -325,3 +327,5 @@ src/main/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimize
 00101,o,o,o,o,o,o,o,o,o,o,o,o,x,o
 00103,o,o,o,o,o,o,o,o,o,o,o,o,x,o
 00106,o,o,o,o,-,-,o,o,o,o,o,o,x,o
+src/main/java/org/apache/commons/math/optimization/linear/Relationship.java
+00043,-,-,-,-,-,-,-,-,-,o,-,-,-,-

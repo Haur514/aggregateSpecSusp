@@ -166,6 +166,7 @@
 78 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.2773500981126146
 854 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.2773500981126146
 1157 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.2773500981126146
+44 src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java 0.2773500981126146
 58 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java 0.2773500981126146
 66 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java 0.2773500981126146
 67 src/main/java/org/apache/commons/math/optimization/linear/LinearObjectiveFunction.java 0.2773500981126146
@@ -306,3 +307,4 @@
 107 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0
 168 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0
 177 src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.0
+43 src/main/java/org/apache/commons/math/optimization/linear/Relationship.java 0.0

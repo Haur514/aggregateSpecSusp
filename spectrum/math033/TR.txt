@@ -1,6 +1,12 @@
 [org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath290LEQ, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testSingleVariableAndConstraint, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath286, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath781, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath713NegativeVariable, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath288, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testModelWithNoArtificialVars, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath293, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMinimization, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath272, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testDegeneracy, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath434PivotRowSelection2, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testSolutionWithNegativeDecisionVariable, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testRestrictVariablesToNonNegative, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testEpsilon, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath434PivotRowSelection, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testLargeModel, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testSimplexSolver, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath434NegativeVariable, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testInfeasibleSolution, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testTrivialModel, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testUnboundedSolution, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath434UnfeasibleSolution, org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath290GEQ]
 src/main/java/org/apache/commons/math3/optimization/linear/NoFeasibleSolutionException.java
 00038,o,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,o,-,-,o,-
+src/main/java/org/apache/commons/math3/linear/MatrixUtils.java
+00367,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
+00368,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
+00379,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
+00380,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
+00394,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
 src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java
 00135,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
 00136,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
@@ -332,6 +338,9 @@ src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java
 00323,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
 00329,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
 00526,-,-,o,x,o,-,-,o,o,o,o,o,o,o,o,o,o,o,o,-,o,o,-,-
+src/main/java/org/apache/commons/math3/util/FastMath.java
+03002,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
+03020,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
 src/main/java/org/apache/commons/math3/optimization/linear/LinearObjectiveFunction.java
 00058,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
 00066,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
@@ -418,6 +427,8 @@ src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java
 00629,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
 00733,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
 00763,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
+src/main/java/org/apache/commons/math3/linear/RealVector.java
+00527,o,o,o,x,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o
 src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java
 00046,o,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,o,-,o,o,-
 00047,o,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,o,-,o,o,-

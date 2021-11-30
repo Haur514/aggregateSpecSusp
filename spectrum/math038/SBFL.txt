@@ -47,6 +47,8 @@
 628 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.5976143046671968
 677 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.5976143046671968
 732 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.5976143046671968
+54 src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java 0.5976143046671968
+57 src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java 0.5976143046671968
 239 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.5976143046671968
 241 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.5976143046671968
 242 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.5976143046671968
@@ -308,6 +310,7 @@
 762 src/main/java/org/apache/commons/math/linear/ArrayRealVector.java 0.5163977794943222
 126 src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.5163977794943222
 134 src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java 0.5163977794943222
+657 src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java 0.5163977794943222
 407 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.5163977794943222
 408 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.5163977794943222
 409 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.5163977794943222
@@ -1872,6 +1875,7 @@
 2455 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.4472135954999579
 2456 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.4472135954999579
 2457 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.4472135954999579
+2479 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java 0.4472135954999579
 54 src/main/java/org/apache/commons/math/util/CompositeFormat.java 0.4472135954999579
 55 src/main/java/org/apache/commons/math/util/CompositeFormat.java 0.4472135954999579
 56 src/main/java/org/apache/commons/math/util/CompositeFormat.java 0.4472135954999579

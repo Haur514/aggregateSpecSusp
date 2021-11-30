@@ -73,6 +73,7 @@
 429 src/main/java/org/apache/commons/math/complex/Complex.java 0.20412414523193154
 493 src/main/java/org/apache/commons/math/complex/Complex.java 0.20412414523193154
 494 src/main/java/org/apache/commons/math/complex/Complex.java 0.20412414523193154
+2334 src/main/java/org/apache/commons/math/util/MathUtils.java 0.2
 132 src/main/java/org/apache/commons/math/complex/Complex.java 0.19611613513818404
 133 src/main/java/org/apache/commons/math/complex/Complex.java 0.19611613513818404
 157 src/main/java/org/apache/commons/math/complex/Complex.java 0.19611613513818404
@@ -1281,6 +1282,12 @@
 51 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
 52 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
 54 src/main/java/org/apache/commons/math/exception/util/ArgUtils.java 0.0
+443 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+1020 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+1054 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+1057 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+1632 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
+2335 src/main/java/org/apache/commons/math/util/MathUtils.java 0.0
 66 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
 67 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0
 116 src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java 0.0

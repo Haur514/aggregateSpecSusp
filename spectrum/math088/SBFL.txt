@@ -105,6 +105,7 @@
 167 src/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.30151134457776363
 185 src/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.30151134457776363
 186 src/java/org/apache/commons/math/optimization/linear/SimplexSolver.java 0.30151134457776363
+44 src/java/org/apache/commons/math/linear/AbstractRealMatrix.java 0.30151134457776363
 62 src/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.30151134457776363
 67 src/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.30151134457776363
 86 src/java/org/apache/commons/math/optimization/linear/AbstractLinearOptimizer.java 0.30151134457776363
@@ -294,6 +295,7 @@
 264 src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
 291 src/java/org/apache/commons/math/optimization/linear/SimplexTableau.java 0.0
 42 src/java/org/apache/commons/math/optimization/OptimizationException.java 0.0
+43 src/java/org/apache/commons/math/optimization/linear/Relationship.java 0.0
 94 src/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
 118 src/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0
 119 src/java/org/apache/commons/math/linear/RealVectorFormat.java 0.0

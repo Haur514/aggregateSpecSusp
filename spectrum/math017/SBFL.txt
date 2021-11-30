@@ -626,6 +626,11 @@
 2285 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
 2287 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
 2303 src/main/java/org/apache/commons/math3/dfp/Dfp.java 0.19611613513818404
+3608 src/main/java/org/apache/commons/math3/util/FastMath.java 0.0
+3609 src/main/java/org/apache/commons/math3/util/FastMath.java 0.0
+3610 src/main/java/org/apache/commons/math3/util/FastMath.java 0.0
+3611 src/main/java/org/apache/commons/math3/util/FastMath.java 0.0
+3613 src/main/java/org/apache/commons/math3/util/FastMath.java 0.0
 229 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
 230 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0
 231 src/main/java/org/apache/commons/math3/dfp/DfpField.java 0.0

@@ -113,6 +113,10 @@ src/main/java/org/apache/commons/math/exception/NumberIsTooLargeException.java
 00067,-,-,-,-,-,-,-,-,o,-,-,-,-,-,-,-,-,-,-
 00069,-,-,-,-,-,-,-,-,o,-,-,-,-,-,-,-,-,-,-
 00070,-,-,-,-,-,-,-,-,o,-,-,-,-,-,-,-,-,-,-
+src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java
+00054,-,o,x,-,-,o,-,o,-,o,o,o,o,x,o,x,o,x,x
+00057,-,o,x,-,-,o,-,o,-,o,o,o,o,x,o,x,o,x,x
+00657,-,o,-,-,-,o,-,-,-,o,o,o,o,x,o,x,o,x,x
 src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java
 00211,o,o,x,-,o,o,-,o,o,o,o,o,o,x,o,x,o,x,x
 00212,o,o,x,-,o,o,-,o,o,o,o,o,o,x,o,x,o,x,x
@@ -1888,6 +1892,7 @@ src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java
 02455,-,-,x,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
 02456,-,-,x,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
 02457,-,-,x,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+02479,-,-,x,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
 src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractMultivariateOptimizer.java
 00060,o,o,x,-,o,o,-,o,o,o,o,o,o,x,o,x,o,x,x
 00066,o,o,x,-,o,o,-,o,o,o,o,o,o,x,o,x,o,x,x
