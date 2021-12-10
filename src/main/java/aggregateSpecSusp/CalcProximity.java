@@ -230,20 +230,21 @@ private double functionC(int corresponding,int notcorresponding){
         }
     }
 
-    private double haka(int corresponding, int notcorresponding) {
+    private double haka(int corresponding,int notcorresponding){
         double x;
         if (corresponding + notcorresponding == 0) {
             x = 1.0;
         } else {
             x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
         }
-        double threshold = 0.7;
+        double threshold = App.threshold;
         if (x < threshold) {
             return 1.0;
         } else {
-            return (double) (corresponding * corresponding * corresponding) / Math.sqrt(Math.sqrt((x)));
+            return (double) corresponding / Math.sqrt(corresponding+notcorresponding);
         }
     }
+
 
     private double yoshiokaharuka(int corresponding, int notcorrespoinding) {
         double x;

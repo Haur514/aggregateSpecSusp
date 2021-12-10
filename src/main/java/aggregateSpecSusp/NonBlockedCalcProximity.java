@@ -125,7 +125,7 @@ public class NonBlockedCalcProximity {
             ret = (double) (corresponding * corresponding) / Math.sqrt((1 + notcorresponding));
             break;
         case 2:
-            ret = (double) (corresponding * corresponding * corresponding) / Math.sqrt((1 + notcorresponding));
+            ret = ruka(corresponding,notcorresponding);
             break;
         case 3:
             ret = (double) (corresponding * corresponding * corresponding * corresponding)
@@ -148,6 +148,21 @@ public class NonBlockedCalcProximity {
         return ret;
     }
 
+    private double ruka(int corresponding,int notcorresponding){
+        double x;
+        if (corresponding + notcorresponding == 0) {
+            x = 1.0;
+        } else {
+            x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
+        }
+        double threshold = App.threshold;
+        if (x < threshold) {
+            return 1.0;
+        } else {
+            return (double) corresponding / Math.sqrt(x);
+        }
+    }
+
     private double haruka(int corresponding, int notcorresponding) {
         double x;
         if (corresponding + notcorresponding == 0) {
@@ -163,21 +178,20 @@ public class NonBlockedCalcProximity {
         }
     }
 
-    private double haka(int corresponding, int notcorresponding) {
+    private double haka(int corresponding,int notcorresponding){
         double x;
         if (corresponding + notcorresponding == 0) {
             x = 1.0;
         } else {
             x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
         }
-        double threshold = 0.7;
+        double threshold = App.threshold;
         if (x < threshold) {
             return 1.0;
         } else {
-            return (double) (corresponding * corresponding * corresponding) / Math.sqrt(Math.sqrt((x)));
+            return (double) corresponding / Math.sqrt(corresponding+notcorresponding);
         }
     }
-
     private double yoshiokaharuka(int corresponding, int notcorrespoinding) {
         double x;
         if (corresponding + notcorrespoinding == 0) {

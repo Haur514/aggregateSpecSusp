@@ -23,6 +23,6 @@ weightFunctionName = {0: "Haruka",
 args = sys.argv
 weightType = weightFunctionName[int(args[1])]
 data = {}
-for j in range(12,19):
-    os.system('java -jar C:/Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar')
+for j in range(12,20):
+    os.system('java -jar C:/Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar '+ args[1]+' '+str(round(j*0.05,2)))
     shutil.copy("./sample.txt", "./"+weightType+str(round(j*0.05,2))+".csv")

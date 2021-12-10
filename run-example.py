@@ -22,8 +22,8 @@ weightFunctionName = {0: "Haruka",
 
 args = sys.argv
 weightType = weightFunctionName[int(args[1])]
-data = {13,15,17,19}
-for j in data:
+
+for j in range(20,21):
     for i in range(rangeStart, rangeEnd):
         os.chdir(base)
         os.chdir('spectrum')
@@ -45,12 +45,12 @@ for j in data:
         shutil.copy("./Weight.txt", "./spectrum/" +
                     sub + "/Weight.txt")
         shutil.copy("./BSBFL.txt", "./spectrum/" +
-                    sub + "/" + weightType + "/BSBFL.txt")
+                    sub + "/" + weightType + "/BSBFL"+str(round(j*0.05,2))+".txt")
         shutil.copy("./NonBSBFL.txt", "./spectrum/" +
-                    sub + "/" + weightType + "/NonBSBFL.txt")
+                    sub + "/" + weightType + "/NonBSBFL"+str(round(j*0.05,2))+".txt")
         shutil.copy("./SBFL.txt", "./spectrum/" +
                     sub + "/" + weightType + "/SBFL.txt")
         shutil.copy("./Weight.txt", "./spectrum/" +
-                    sub + "/" + weightType + "/Weight.txt")
+                    sub + "/" + weightType + "/Weight"+str(round(j*0.05,2))+".txt")
     os.system('java -jar C:/Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar')
     shutil.copy("./sample.txt", "./"+weightType+str(round(j*0.05,2))+".csv")
