@@ -35,7 +35,6 @@ public class App {
                 if (i + 1 >= args.length) {
                     System.err.println("invarid command line");
                 }
-                
                 threshold = Double.parseDouble(args[i + 1]);
                 System.out.println(threshold);
             }

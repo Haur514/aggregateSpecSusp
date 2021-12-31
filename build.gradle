@@ -20,6 +20,11 @@ jar {
     }
 }
 
+java {
+    sourceCompatibility = 11
+    targetCompatibility = 11
+}
+
 
 repositories {
     // Use jcenter for resolving your dependencies.

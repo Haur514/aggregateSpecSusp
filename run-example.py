@@ -2,8 +2,8 @@ import os
 import sys
 import shutil
 
-base = 'C:/Users/h-yosiok/Lab/aggregateSpecSusp'
-countRankBase = 'C:/Users/h-yosiok/Lab/countRankBSBFL'
+base = '/Users/h-yosiok/Lab/aggregateSpecSusp'
+countRankBase = '/Users/h-yosiok/Lab/BSBFL/countRankBSBFL'
 jarFile = base + '/build/libs/aggregateSpecSusp.jar'
 
 rangeStart = 1
@@ -52,5 +52,5 @@ for j in range(20,21):
                     sub + "/" + weightType + "/SBFL.txt")
         shutil.copy("./Weight.txt", "./spectrum/" +
                     sub + "/" + weightType + "/Weight"+str(round(j*0.05,2))+".txt")
-    os.system('java -jar C:/Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar')
+    os.system('java -jar /Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar')
     shutil.copy("./sample.txt", "./"+weightType+str(round(j*0.05,2))+".csv")
