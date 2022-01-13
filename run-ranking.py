@@ -19,10 +19,11 @@ weightFunctionName = {0: "Haruka",
                       6: "Senko",
                       7: "YoshiokaHaruka",
                       8: "functionC"}
-
 args = sys.argv
+formuraType = args[2]
 weightType = weightFunctionName[int(args[1])]
 data = {}
 
-os.system('java -jar C:/Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar '+ args[1]+' '+"0.95")
-shutil.copy("./sample.txt", "./Haka0.95ALL.csv")
+for j in range(12,20):
+    os.system('java -jar /Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*0.05,2)) + ' ' + formuraType)
+    shutil.copy("./sample.txt", "./"+formuraType+"/"+weightType+str(round(j*0.05,2))+".csv")

@@ -20,10 +20,17 @@ weightFunctionName = {0: "Haruka",
                       7: "YoshiokaHaruka",
                       8: "functionC"}
 
+formuraName = {0: "Ochiai",
+               1: "Zoltar",
+               2: "Jaccard",
+               3: "Ample",
+               4: "Tarantula"}
+
 args = sys.argv
 weightType = weightFunctionName[int(args[1])]
-
-for j in range(20,21):
+formuraType = formuraName[int(args[2])]
+os.makedirs("./"+str(formuraType), exist_ok=True)
+for j in range(12,20):
     for i in range(rangeStart, rangeEnd):
         os.chdir(base)
         os.chdir('spectrum')
@@ -34,8 +41,9 @@ for j in range(20,21):
         os.chdir('..')
         os.chdir('..')
         os.system(
-            'java -jar ./build/libs/aggregateSpecSusp.jar -weightType '+args[1] + ' -threshold ' + str(round(j*0.05,2)))
-        os.makedirs("./spectrum/" + sub + "/"+weightType, exist_ok=True)
+            'java -jar ./build/libs/aggregateSpecSusp.jar -weightType '+args[1] + ' -threshold ' + str(round(j*0.05,2)) + ' -formula ' + args[2])
+        os.makedirs("./spectrum/" +formuraType+"/"+
+                    sub + "/" + weightType, exist_ok=True)
         shutil.copy("./BSBFL.txt", "./spectrum/" +
                     sub + "/BSBFL.txt")
         shutil.copy("./NonBSBFL.txt", "./spectrum/" +
@@ -44,13 +52,14 @@ for j in range(20,21):
                     sub + "/SBFL.txt")
         shutil.copy("./Weight.txt", "./spectrum/" +
                     sub + "/Weight.txt")
-        shutil.copy("./BSBFL.txt", "./spectrum/" +
+        shutil.copy("./BlockedExecutionRoute.txt","./spectrum/"+sub+"/BlockedExecutionRoute.txt")
+        shutil.copy("./BSBFL.txt", "./spectrum/" +formuraType+"/"+
                     sub + "/" + weightType + "/BSBFL"+str(round(j*0.05,2))+".txt")
-        shutil.copy("./NonBSBFL.txt", "./spectrum/" +
+        shutil.copy("./NonBSBFL.txt", "./spectrum/" +formuraType+"/"+
                     sub + "/" + weightType + "/NonBSBFL"+str(round(j*0.05,2))+".txt")
-        shutil.copy("./SBFL.txt", "./spectrum/" +
+        shutil.copy("./SBFL.txt", "./spectrum/" +formuraType+"/"+
                     sub + "/" + weightType + "/SBFL.txt")
-        shutil.copy("./Weight.txt", "./spectrum/" +
+        shutil.copy("./Weight.txt", "./spectrum/" +formuraType+"/"+
                     sub + "/" + weightType + "/Weight"+str(round(j*0.05,2))+".txt")
-    os.system('java -jar /Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar')
-    shutil.copy("./sample.txt", "./"+weightType+str(round(j*0.05,2))+".csv")
+    os.system('java -jar /Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*0.05,2)) + ' ' + formuraType)
+    shutil.copy("./sample.txt", "./"+formuraType+"/"+weightType+str(round(j*0.05,2))+".csv")

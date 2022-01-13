@@ -7,6 +7,7 @@ public class App {
     // using in weighting test cases;
     public static int weightType;
     public static double threshold;
+    public static int formuraType;
 
     public static void main(String[] args) {
         setArgs(args);
@@ -37,6 +38,15 @@ public class App {
                 }
                 threshold = Double.parseDouble(args[i + 1]);
                 System.out.println(threshold);
+            }
+
+            if (args[i].equals("-formula")) {
+                if (i + 1 >= args.length) {
+                    System.err.println("invarid command line");
+                }
+                formuraType = Integer.parseInt(args[i + 1]);
+                System.out.println("OK");
+                System.out.println(formuraType);
             }
         }
         System.out.println(Double.toString(threshold)+" "+weightType);

@@ -65,10 +65,10 @@ public abstract class FaultLocalization {
         for (ExecutionRoute executionRoute : executionRoutes) {
             String fileName = executionRoute.getFileName();
             for (int lineNum = 0; lineNum < executionRoute.getExecutionRoutes().get(0).size(); lineNum++) {
-                int ef = 0;
-                int nf = 0;
-                int ep = 0;
-                int np = 0;
+                double ef = 0;
+                double nf = 0;
+                double ep = 0;
+                double np = 0;
                 for (int i = 0; i < numberOfTest; i++) {
                     if (failedTestList.contains(i)) {
                         switch (executionRoute.getExecutionRoutes().get(i).get(lineNum)) {
@@ -90,9 +90,10 @@ public abstract class FaultLocalization {
                         }
                     }
                 }
-                suspiciousValue.add(ochiai(ef, nf, ep, np));
-                suspValueInfos.add(new SuspValueInfo(fileName, executionRoute.getExecutedLineNum().get(lineNum),
-                        ochiai(ef, nf, ep, np)));
+
+                double susp = formura(ef, nf, ep, np);
+                suspiciousValue.add(susp);
+                suspValueInfos.add(new SuspValueInfo(fileName, executionRoute.getExecutedLineNum().get(lineNum),susp));
             }
         }
     }
@@ -117,7 +118,40 @@ public abstract class FaultLocalization {
         pw.println(svi.getLineNum() + " " + svi.getFileName() + " " + svi.getSuspValue());
     }
 
-    private double ochiai(int ef, int nf, int ep, int np) {
+    private double formura(final double ef, final double nf, final double ep, final double np){
+        switch(App.formuraType){
+            case 0:
+            return ochiai(ef, nf, ep, np);
+            case 1:
+            return zoltar(ef,nf,ep,np);
+            case 2:
+            return jaccard(ef,nf,ep,np);
+            case 3:
+            return ample(ef,nf,ep,np);
+            case 4:
+            return tarantula(ef, nf, ep, np);
+        }
+        System.exit(1);
+        return ochiai(ef,nf,ep,np);
+    }
+
+    private double ochiai(final double ef, final double nf, final double ep, final double np) {
         return ef / Math.sqrt((ef + nf) * (ef + ep));
+    }
+
+    private double zoltar(final double ef, final double nf, final double ep, final double np) {
+        return ef / (ef + nf + ep + 10000d * nf * ep / ef);
+    }
+
+    private double jaccard(final double ef, final double nf, final double ep, final double np) {
+        return ef / (ef + nf + ep);
+    }
+
+    private double ample(final double ef, final double nf, final double ep, final double np) {
+        return Math.abs(ef / (ef + nf) - ep / (ep + np));
+    }
+
+    private double tarantula(final double ef, final double nf, final double ep, final double np) {
+        return (ef / (ef + nf)) / (ef / (ef + nf) + ep / (ep + np));
     }
 }

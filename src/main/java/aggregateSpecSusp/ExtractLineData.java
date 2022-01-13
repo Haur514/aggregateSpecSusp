@@ -1,13 +1,17 @@
 package aggregateSpecSusp;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -22,16 +26,42 @@ class ExtractLineData {
 
     private Set<Integer> failedTestList = new HashSet<>();
 
+    private PrintWriter pwBlockedExecutionRoutes;
+
     ExtractLineData() {
         List<String> text = readTRText();
         numberOfTests = getNumberOfTests(text.get(0));
         setExecutionRoutes(text);
         setBlockedExecutionRoutes(text);
         setFailedTestNumber();
+        initPW();
+        printBlockedExecutedRoutes();
     }
-
     public Set<Integer> getFailedTestList() {
         return this.failedTestList;
+    }
+
+    private void initPW(){
+        File file = new File("BlockedExecutionRoute.txt");
+        try {
+            pwBlockedExecutionRoutes = new PrintWriter(new BufferedWriter(new FileWriter(file, false)));
+        } catch (IOException e) {
+            throw new RuntimeException("ERROR : FAILED SBFL INIT");
+        }
+    }
+
+    private void printBlockedExecutedRoutes(){
+        for(BlockedExecutionRoute blockedExecutionRoute:blockedExecutionRoutes){
+            pwBlockedExecutionRoutes.println(blockedExecutionRoute.getFileName());
+            for(int j = 0;j < blockedExecutionRoute.getBlockedExecutionRoutes().get(0).size();j++){
+                for(int i = 0; i < blockedExecutionRoute.getBlockedExecutionRoutes().size();i++){
+                    pwBlockedExecutionRoutes.print(blockedExecutionRoute.getBlockedExecutionRoutes().get(i).get(j));
+                    pwBlockedExecutionRoutes.print(",");
+                }
+                pwBlockedExecutionRoutes.println();
+            }
+        }
+        pwBlockedExecutionRoutes.close();
     }
 
     private void setFailedTestNumber() {

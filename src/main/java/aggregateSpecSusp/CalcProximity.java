@@ -43,10 +43,25 @@ public class CalcProximity {
             for (int j = 0; j < failedTestList.size(); j++) {
                 tmp += weightTestCase.get(i + j * numberOfTest);
             }
+            if(Double.toString(tmp).equals("NaN")){
+                System.out.println("NaN");
+                System.exit(1);
+            }
+            if(failedTestList.size() == 0){
+                System.out.println("error");
+                System.exit(1);
+            }
             weightTestCase.set(i, tmp / failedTestList.size());
         }
         for (int i = 0; i < numberOfTest; i++) {
-            pw.println(i + "," + weightTestCase.get(i));
+            if(failedTestList.contains(i)){
+                continue;
+            }
+            if(!(weightTestCase.get(i) > 0.0)){
+                System.out.println("ERROR NaN");
+                System.exit(1);
+            }
+            pw.println(i + "," + Double.toString(weightTestCase.get(i)));
         }
         pw.close();
     }
@@ -74,7 +89,7 @@ public class CalcProximity {
 
     }
 
-    public void calcurateProximity(int failedTestNumber) {
+    final public void calcurateProximity(int failedTestNumber) {
         int numberOfTest = blockedExecutionRoutes.get(0).getBlockedExecutionRoutes().size();
         for (BlockedExecutionRoute blockedExecutionRoute : blockedExecutionRoutes) {
             List<Integer> failedBlockedExecutionRoute = blockedExecutionRoute.getBlockedExecutionRoutes()
@@ -104,6 +119,13 @@ public class CalcProximity {
             }
         }
         for (int i = 0; i < numberOfTest; i++) {
+            if(failedTestList.contains(numberOfTest)){
+                continue;
+            }
+            if((numberOfCorrespondingBlock.get(i)+numberOfNotCorrespondingBlock.get(i)) == 0){
+                System.out.println("bug");
+                System.out.println(i);
+            }
             weightTestCase.add(formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
         }
     }
@@ -232,16 +254,19 @@ private double functionC(int corresponding,int notcorresponding){
 
     private double haka(int corresponding,int notcorresponding){
         double x;
+        double mother;
         if (corresponding + notcorresponding == 0) {
+            mother = 1.0;
             x = 1.0;
         } else {
+            mother = (double)((double)corresponding + (double)notcorresponding);
             x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
         }
         double threshold = App.threshold;
         if (x < threshold) {
             return 1.0;
         } else {
-            return (double) corresponding / Math.sqrt(corresponding+notcorresponding);
+            return (double) corresponding / Math.sqrt(mother);
         }
     }
 
