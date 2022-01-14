@@ -62,15 +62,23 @@ public abstract class AbstractCalcProximity {
 
     protected void takeWeightAverage(){
         for (int i = 0; i < numberOfTest; i++) {
-            if(Double.toString(weightTestCase.get(i)).equals("NaN")){
-                System.out.println("NaN");
-                System.exit(1);
-            }
-            if(failedTestList.size() == 0){
-                System.out.println("error");
-                System.exit(1);
-            }
+            checkNaN(weightTestCase.get(i));
+            checkSize(failedTestList.size());
             weightTestCase.set(i, weightTestCase.get(i) / failedTestList.size());
+        }
+    }
+
+    private void checkNaN(Double weight){
+        if(Double.toString(weight).equals("NaN")){
+            System.out.println("NaN");
+            System.exit(1);
+        }
+    }
+
+    private void checkSize(int size){
+        if(size == 0){
+            System.out.println("error");
+            System.exit(1);
         }
     }
 
@@ -89,14 +97,20 @@ public abstract class AbstractCalcProximity {
 
     final public void calcurateProximity(int failedTestNumber) {
         int numberOfTest = spectrum.get(0).size();
+        countUpExeRoutes(failedTestNumber);
+        for (int i = 0; i < numberOfTest; i++) {
+            weightTestCase.set(i,weightTestCase.get(i)+formula.formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
+        }
+    }
+    private void countUpExeRoutes(int failedTestNumber){
         for (List<List<Integer>> executionRoute : spectrum) {
             List<Integer> failedExecutionRoute = executionRoute.get(failedTestNumber);
             for (int i = 0; i < numberOfTest; i++) {
-                int corresponding = 0;
-                int notcorresponding = 0;
                 if (failedTestList.contains(i)) {
                     continue;
                 }
+                int corresponding = 0;
+                int notcorresponding = 0;
                 List<Integer> route = executionRoute.get(i);
                 for(int line = 0; line < failedExecutionRoute.size(); line++) {
                     if (failedExecutionRoute.get(line) == 0) {
@@ -114,13 +128,6 @@ public abstract class AbstractCalcProximity {
                 numberOfCorrespondingBlock.set(i, numberOfCorrespondingBlock.get(i) + corresponding);
                 numberOfNotCorrespondingBlock.set(i, numberOfNotCorrespondingBlock.get(i) + notcorresponding);
             }
-        }
-        for (int i = 0; i < numberOfTest; i++) {
-            if((numberOfCorrespondingBlock.get(i)+numberOfNotCorrespondingBlock.get(i)) == 0){
-                System.out.println("bug");
-                System.out.println(i);
-            }
-            weightTestCase.set(i,weightTestCase.get(i)+formula.formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
         }
     }
 }
