@@ -1,5 +1,8 @@
-package aggregateSpecSusp;
+package aggregateSpecSusp.fl;
 
+import aggregateSpecSusp.route.*;
+import aggregateSpecSusp.*;
+import aggregateSpecSusp.proximity.*;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;

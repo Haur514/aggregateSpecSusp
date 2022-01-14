@@ -1,4 +1,4 @@
-package aggregateSpecSusp;
+package aggregateSpecSusp.route;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -14,14 +14,10 @@ public class BlockedExecutionRoute {
 
     private String beforeTestResult = "";
 
-    BlockedExecutionRoute(String fileName, int numberOfTests) {
+    public BlockedExecutionRoute(String fileName, int numberOfTests) {
         this.fileName = fileName;
         this.numberOfTests = numberOfTests;
         initBlockedExecutionRoutes();
-    }
-
-    private int getNumberOfBlocks() {
-        return blockedExecutionRoutes.get(0).size();
     }
 
     private void initBlockedExecutionRoutes() {

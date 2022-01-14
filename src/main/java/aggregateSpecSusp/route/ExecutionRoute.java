@@ -1,4 +1,4 @@
-package aggregateSpecSusp;
+package aggregateSpecSusp.route;
 
 import java.util.List;
 import java.io.File;
@@ -15,7 +15,7 @@ public class ExecutionRoute {
 
     private int numberOfTest;
 
-    ExecutionRoute(String fileName, int numberOfTest) {
+    public ExecutionRoute(String fileName, int numberOfTest) {
         this.numberOfTest = numberOfTest;
         this.fileName = fileName;
         init(numberOfTest);

@@ -1,4 +1,4 @@
-package aggregateSpecSusp;
+package aggregateSpecSusp.route;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -19,7 +19,7 @@ import java.util.Set;
 /**
  * Extract a line and get information about TestResult : PASS / FAIL / Spectrum
  */
-class ExtractLineData {
+public class ExtractLineData {
     private int numberOfTests;
     private List<ExecutionRoute> executionRoutes = new ArrayList<>();
     private List<BlockedExecutionRoute> blockedExecutionRoutes = new ArrayList<>();
@@ -28,7 +28,7 @@ class ExtractLineData {
 
     private PrintWriter pwBlockedExecutionRoutes;
 
-    ExtractLineData() {
+    public ExtractLineData() {
         List<String> text = readTRText();
         numberOfTests = getNumberOfTests(text.get(0));
         setExecutionRoutes(text);

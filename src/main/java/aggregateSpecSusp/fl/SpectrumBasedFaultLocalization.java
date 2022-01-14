@@ -1,16 +1,10 @@
-package aggregateSpecSusp;
+package aggregateSpecSusp.fl;
 
-import java.io.BufferedWriter;
+import aggregateSpecSusp.route.*;
 import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
 
 public class SpectrumBasedFaultLocalization extends FaultLocalization {
-    SpectrumBasedFaultLocalization(ExtractLineData extractLineData) {
+    public SpectrumBasedFaultLocalization(ExtractLineData extractLineData) {
         super(extractLineData);
     }
 

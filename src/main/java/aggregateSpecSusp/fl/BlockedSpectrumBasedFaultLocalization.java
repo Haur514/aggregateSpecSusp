@@ -1,15 +1,17 @@
-package aggregateSpecSusp;
+package aggregateSpecSusp.fl;
 
+import aggregateSpecSusp.route.*;
+import aggregateSpecSusp.*;
 import java.io.File;
 import java.util.List;
 
 public class BlockedSpectrumBasedFaultLocalization extends FaultLocalization {
 
-    BlockedSpectrumBasedFaultLocalization(ExtractLineData extractLineData, List<Double> weightTestCase) {
+    public BlockedSpectrumBasedFaultLocalization(ExtractLineData extractLineData, List<Double> weightTestCase) {
         super(extractLineData, weightTestCase);
     }
 
-    BlockedSpectrumBasedFaultLocalization(ExtractLineData extractLineData, List<Double> weightTestCase,
+    public BlockedSpectrumBasedFaultLocalization(ExtractLineData extractLineData, List<Double> weightTestCase,
             String fileName) {
         super(extractLineData, weightTestCase);
     }

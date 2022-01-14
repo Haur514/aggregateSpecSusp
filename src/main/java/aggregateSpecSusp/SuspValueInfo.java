@@ -5,7 +5,7 @@ public class SuspValueInfo {
     private int lineNum;
     private double suspValue;
 
-    SuspValueInfo(String fileName, int lineNum, double suspValue) {
+    public SuspValueInfo(String fileName, int lineNum, double suspValue) {
         this.setFileName(fileName);
         this.setLineNum(lineNum);
         this.setSuspValue(suspValue);

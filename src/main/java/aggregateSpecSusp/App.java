@@ -3,6 +3,10 @@
  */
 package aggregateSpecSusp;
 
+import aggregateSpecSusp.route.*;
+import aggregateSpecSusp.proximity.*;
+import aggregateSpecSusp.fl.*;
+
 public class App {
     // using in weighting test cases;
     public static int weightType;
