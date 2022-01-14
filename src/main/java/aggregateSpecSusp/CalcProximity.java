@@ -40,9 +40,9 @@ public class CalcProximity {
 
         for (int i = 0; i < numberOfTest; i++) {
             double tmp = 0;
-            for (int j = 0; j < failedTestList.size(); j++) {
-                tmp += weightTestCase.get(i + j * numberOfTest);
-            }
+            // for (int j = 0; j < failedTestList.size(); j++) {
+            //     tmp += weightTestCase.get(i + j * numberOfTest);
+            // }
             if(Double.toString(tmp).equals("NaN")){
                 System.out.println("NaN");
                 System.exit(1);
@@ -51,7 +51,7 @@ public class CalcProximity {
                 System.out.println("error");
                 System.exit(1);
             }
-            weightTestCase.set(i, tmp / failedTestList.size());
+            weightTestCase.set(i, weightTestCase.get(i) / failedTestList.size());
         }
         for (int i = 0; i < numberOfTest; i++) {
             if(failedTestList.contains(i)){
@@ -85,6 +85,7 @@ public class CalcProximity {
         for (int i = 0; i < numberOfTest; i++) {
             numberOfCorrespondingBlock.add(0);
             numberOfNotCorrespondingBlock.add(0);
+            weightTestCase.add(0.0);
         }
 
     }
@@ -119,14 +120,11 @@ public class CalcProximity {
             }
         }
         for (int i = 0; i < numberOfTest; i++) {
-            if(failedTestList.contains(numberOfTest)){
-                continue;
-            }
             if((numberOfCorrespondingBlock.get(i)+numberOfNotCorrespondingBlock.get(i)) == 0){
                 System.out.println("bug");
                 System.out.println(i);
             }
-            weightTestCase.add(formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
+            weightTestCase.set(i,weightTestCase.get(i)+formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
         }
     }
 
