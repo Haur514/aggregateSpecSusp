@@ -14,7 +14,7 @@ if True:
     for i in range(12,20):
         os.system('python3.9 diff_sbfl_bsbfl.py Haka '+str(round(i*0.05,2))+' '+args[1])
         
-if True:
+if False:
     print('sbfl_nonbsbfl')
     for i in range(12,20):
         os.system('python3.9 diff_sbfl_nonbsbfl.py Haka '+str(round(i*0.05,2))+' '+args[1])
@@ -23,7 +23,7 @@ if False:
     for i in range(12,20):
         os.system('python3.9 diff_bsbfl_nonbsbfl.py Haka '+str(round(i*0.05,2)))
         
-if True:
+if False:
     print(args[1])
     for i in range(12,20):
         os.system('python3.9 diff_all.py Haka '+str(round(i*0.05,2))+' '+args[1])

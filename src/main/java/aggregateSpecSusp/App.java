@@ -41,7 +41,6 @@ public class App {
                     System.err.println("invarid command line");
                 }
                 threshold = Double.parseDouble(args[i + 1]);
-                System.out.println(threshold);
             }
 
             if (args[i].equals("-formula")) {
@@ -49,10 +48,7 @@ public class App {
                     System.err.println("invarid command line");
                 }
                 formuraType = Integer.parseInt(args[i + 1]);
-                System.out.println("OK");
-                System.out.println(formuraType);
             }
         }
-        System.out.println(Double.toString(threshold)+" "+weightType);
     }
 }

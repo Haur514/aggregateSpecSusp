@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import sys
 import matplotlib.pyplot as plt
+import os
 import matplotlib
 
 plt.rcParams['font.family']="Hiragino Sans"
@@ -26,12 +27,21 @@ sbfl_ave = 0.0
 nonbsbfl_ave = 0.0
 bsbfl_ave = 0.0
 
+diff_sbfl_ave = 0.0
+diff_nonbsbfl_ave = 0.0
+diff_bsbfl_ave = 0.0
+
 for i in lst:
-    result.append(float(i[1])/float(i[5]))
-    result.append(float(i[2])/float(i[5]))
+    if i[1]!=i[2] or i[1] != i[3]:
+        result.append(float(i[1])/float(i[5]))
+        result.append(float(i[2])/float(i[5]))
+        result.append(float(i[3])/float(i[5]))
+        diff_sbfl_ave += (float(i[1])/float(i[5]))
+        diff_nonbsbfl_ave+=(float(i[2])/float(i[5]))
+        diff_bsbfl_ave+=(float(i[3])/float(i[5]))
     sbfl_ave += (float(i[1])/float(i[5]))
-    bsbfl_ave+=(float(i[3])/float(i[5]))
     nonbsbfl_ave+=(float(i[2])/float(i[5]))
+    bsbfl_ave+=(float(i[3])/float(i[5]))
     if float(i[1]) > float(i[3]):
         linesNonBSBFLwinSBFL += 1
         linesNonBSBFLwinSBFL_sum += float(i[2])/float(i[5]) - float(i[1])/float(i[5])
@@ -50,17 +60,14 @@ if False:
     print(str(round(float(args[2]),2))+'&'+str(linesNonBSBFLwinSBFL)+'&'+str(linesNonBSBFLloseSBFL)+'\\\\')
 
 if True:
-    print(str(round(float(args[2]),2))+'    '+str(round(sbfl_ave/(len(result)/2)*100,5))+'  '+str(round(nonbsbfl_ave/(len(result)/2)*100,5))+'   '+str(round(bsbfl_ave/(len(result)/2)*100,5))+'\\\\')
-
-#print("all:"+str(len(result)/2))
-#print("nonbsbfl wins:" + str(linesBSBFLwinSBFL))
-#print("sbfl:"+str(sbfl_ave/(len(result)/2)))
-#print("nonsbfl:"+str(nonbsbfl_ave/(len(result)/2)))
-
+    print(str(round(float(args[2]),2))+'    '+str(round(sbfl_ave/(len(lst))*100,5))+'  '+str(round(nonbsbfl_ave/(len(lst))*100,5))+'   '+str(round(bsbfl_ave/(len(lst))*100,5))+'\\\\')
+    
+if False:
+    print(str(round(float(args[2]),2))+'    '+str(round(diff_sbfl_ave/(len(lst))*100,5))+'  '+str(round(diff_nonbsbfl_ave/(len(lst))*100,5))+'   '+str(round(diff_bsbfl_ave/(len(lst))*100,5))+'\\\\')
 
 if False:
     a = np.array(result)
-    b =  a.reshape([-1,2])
+    b =  a.reshape([-1,3])
 
     b_sort = b[np.argsort(b[:,0])[::-1]]
     filename_sort = []
@@ -69,17 +76,30 @@ if False:
 
 
     left = np.arange(len(b_sort))
+    sbfl_x = []
+    nonbsbfl_x = []
+    bsbfl_x = []
+    for i in left:
+        sbfl_x.append(left[i])
+        nonbsbfl_x.append(left[i]+0.3)
+        bsbfl_x.append(left[i]+0.6)
     sbfl = []
     nonbsbfl = []
+    bsbfl = []
     for i in b_sort:
         sbfl.append(i[0])
         nonbsbfl.append(i[1])
+        bsbfl.append(i[2])
 
-    sbfl = plt.bar(left,sbfl,width=0.3,color='#0080ff',align="edge",label="SBFL")
+    sbfl = plt.bar(sbfl_x,sbfl,width=0.3,color='#dc143c',align="edge",label="SBFL")
     plt.xticks(rotation=90)
-    nonsbfl = plt.bar(left,nonbsbfl,width=-0.3,color='#ff8000',align="edge",label="NonBSBFL")
+    nonsbfl = plt.bar(nonbsbfl_x,nonbsbfl,width=0.3,color='#708090',align="edge",label="NonBSBFL")
+    plt.legend()
+    bsbfl = plt.bar(bsbfl_x,bsbfl,width=0.3,color='#4169e1',align="edge",label="NonBSBFL")
     plt.legend()
     #plt.legend(handles=[sbfl,nonbsbfl],loc='best')
     plt.ylabel('欠陥箇所の順位/疑惑値のついた行数')
 
-    fig.savefig("./../figure/bar/diff_sbfl_nonbsbfl_"+args[1]+args[2]+".pdf",bbox_inches="tight",pad_inches=0.05)
+    os.makedirs("./../"+args[3]+"/graph", exist_ok=True)
+    os.makedirs("./../"+args[3]+"/graph/diff_all/", exist_ok=True)
+    fig.savefig("./../"+args[3]+"/graph/diff_all/"+args[1]+args[2]+".pdf",bbox_inches="tight",pad_inches=0.05)

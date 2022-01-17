@@ -99,35 +99,50 @@ public abstract class AbstractCalcProximity {
         int numberOfTest = spectrum.get(0).size();
         countUpExeRoutes(failedTestNumber);
         for (int i = 0; i < numberOfTest; i++) {
+            if(failedTestList.contains(i)){
+                continue;
+            }
             weightTestCase.set(i,weightTestCase.get(i)+formula.formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
         }
     }
+
     private void countUpExeRoutes(int failedTestNumber){
-        for (List<List<Integer>> executionRoute : spectrum) {
-            List<Integer> failedExecutionRoute = executionRoute.get(failedTestNumber);
-            for (int i = 0; i < numberOfTest; i++) {
-                if (failedTestList.contains(i)) {
-                    continue;
-                }
-                int corresponding = 0;
-                int notcorresponding = 0;
-                List<Integer> route = executionRoute.get(i);
-                for(int line = 0; line < failedExecutionRoute.size(); line++) {
-                    if (failedExecutionRoute.get(line) == 0) {
-                        if (route.get(line) == 1) {
-                            notcorresponding++;
-                        }
-                    } else {
-                        if (route.get(line) == 1) {
-                            corresponding++;
-                        } else {
-                            notcorresponding++;
-                        }
+        for(int k = 0; k < numberOfTest;k++){
+            if(failedTestList.contains(k)){
+                continue;
+            }
+            int[] tmp = countUpCorresponding(failedTestNumber, k);
+            numberOfCorrespondingBlock.set(k, tmp[0]);
+            numberOfNotCorrespondingBlock.set(k,tmp[1]);
+        }
+    }
+
+    /**
+     * ret[0] : corresponding
+     * ret[1] : notcorresponding
+     * @param fail
+     * @param pass
+     * @return
+     */
+    private int[] countUpCorresponding(int fail,int pass){
+        int ret[] = new int[2];
+        for(int i = 0; i < spectrum.size();i++){
+            List<Integer> failedExecutionRoute = spectrum.get(i).get(fail);
+            List<Integer> passedExecutionRoute = spectrum.get(i).get(pass);
+            for(int j = 0; j < failedExecutionRoute.size();j++){
+                if(failedExecutionRoute.get(j) ==-1){
+                    if(passedExecutionRoute.get(j) == 1){
+                        ret[0]++;
+                    }else{
+                        ret[1]++;
+                    }
+                }else{
+                    if(passedExecutionRoute.get(j) == 1){
+                        ret[1]++;
                     }
                 }
-                numberOfCorrespondingBlock.set(i, numberOfCorrespondingBlock.get(i) + corresponding);
-                numberOfNotCorrespondingBlock.set(i, numberOfNotCorrespondingBlock.get(i) + notcorresponding);
             }
         }
+        return ret;
     }
 }
