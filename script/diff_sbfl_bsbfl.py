@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 import matplotlib
 
-plt.rcParams['font.family']="Hiragino Sans"
+plt.rcParams['font.family']="Source Han Code JP"
 
 args = sys.argv
 weightType = args[1]

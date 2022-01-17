@@ -81,6 +81,10 @@ public abstract class FaultLocalization {
                         case -1:
                             ef += 1;
                             break;
+                        default:
+                            System.err.println("invalid number at executionRoute");
+                            System.exit(1);
+                            break;
                         }
                     } else {
                         switch (executionRoute.getExecutionRoutes().get(i).get(lineNum)) {
@@ -90,11 +94,19 @@ public abstract class FaultLocalization {
                         case 1:
                             ep += weight(i);
                             break;
+                        default:
+                            System.err.println("invalid number at executionRoute");
+                            System.exit(1);
+                            break;
                         }
                     }
                 }
-
-                double susp = formura(ef, nf, ep, np);
+                double susp;
+                if(failedTestList.size() == numberOfTest){
+                    susp = 1.0;
+                }else{
+                    susp = formura(ef, nf, ep, np);
+                }
                 suspiciousValue.add(susp);
                 suspValueInfos.add(new SuspValueInfo(fileName, executionRoute.getExecutedLineNum().get(lineNum),susp));
             }

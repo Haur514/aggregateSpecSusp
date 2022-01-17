@@ -2,9 +2,9 @@ import os
 import sys
 import shutil
 
-base = '/Users/h-yosiok/Lab/aggregateSpecSusp'
-countRankBase = '/Users/h-yosiok/Lab/BSBFL/countRankBSBFL'
-jarFile = base + '/build/libs/aggregateSpecSusp.jar'
+base = './'
+countRankBase = './../countRankBSBFL'
+jarFile = base + './build/libs/aggregateSpecSusp.jar'
 
 rangeStart = 1
 rangeEnd = 105
@@ -35,7 +35,6 @@ for j in range(12,20):
         os.chdir(base)
         os.chdir('spectrum')
         sub = "math"+str(i).zfill(3)
-        print(sub)
         os.chdir(sub)
         shutil.copy("./TR.txt", "./../../TR.txt")
         os.chdir('..')
@@ -61,5 +60,5 @@ for j in range(12,20):
                     sub + "/" + weightType + "/SBFL.txt")
         shutil.copy("./Weight.txt", "./spectrum/" +formuraType+"/"+
                     sub + "/" + weightType + "/Weight"+str(round(j*0.05,2))+".txt")
-    os.system('java -jar /Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*0.05,2)) + ' ' + formuraType)
+    os.system('java -jar ~/Lab/2022//countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*0.05,2)) + ' ' + formuraType)
     shutil.copy("./sample.txt", "./"+formuraType+"/"+weightType+str(round(j*0.05,2))+".csv")
