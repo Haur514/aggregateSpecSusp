@@ -5,6 +5,7 @@ package aggregateSpecSusp;
 
 import aggregateSpecSusp.route.*;
 import aggregateSpecSusp.proximity.*;
+import aggregateSpecSusp.proximity.jaccard.CalcInJaccard;
 import aggregateSpecSusp.fl.*;
 
 public class App {
@@ -19,10 +20,11 @@ public class App {
         ExtractLineData extractLineData = new ExtractLineData();
         CalcProximity calcProximity = new CalcProximity(extractLineData);
         NonBlockedCalcProximity nonBlockedCalcProximity = new NonBlockedCalcProximity(extractLineData);
+        CalcInJaccard calcInJaccard = new CalcInJaccard(extractLineData);
         SpectrumBasedFaultLocalization spectrumBasedFaultLocalization = new SpectrumBasedFaultLocalization(
                 extractLineData);
         BlockedSpectrumBasedFaultLocalization blockedSpectrumBasedFaultLocalization = new BlockedSpectrumBasedFaultLocalization(
-                extractLineData, calcProximity.getWeightTestCase());
+                extractLineData, calcInJaccard.getWeight());
         NonBlockedSpectrumBasedFaultLocalization nonBlockedSpectrumBasedFaultLocalization = new NonBlockedSpectrumBasedFaultLocalization(
                 extractLineData, nonBlockedCalcProximity.getWeightTestCase());
     }
