@@ -44,14 +44,6 @@ for j in range(12,20):
         os.makedirs("./spectrum/jaccard/" +formuraType+"/"+
                     sub + "/" + weightType, exist_ok=True)
         os.makedirs("./spectrum/jaccard/"+sub,exist_ok=True)
-        shutil.copy("./BSBFL.txt", "./spectrum/jaccard/" +
-                    sub + "/BSBFL.txt")
-        shutil.copy("./NonBSBFL.txt", "./spectrum/jaccard/" +
-                    sub + "/NonBSBFL.txt")
-        shutil.copy("./SBFL.txt", "./spectrum/jaccard/" +
-                    sub + "/SBFL.txt")
-        shutil.copy("./Weight.txt", "./spectrum/jaccard/" +
-                    sub + "/Weight.txt")
         shutil.copy("./BlockedExecutionRoute.txt","./spectrum/jaccard/"+sub+"/BlockedExecutionRoute.txt")
         shutil.copy("./BSBFL.txt", "./spectrum/jaccard/" +formuraType+"/"+
                     sub + "/" + weightType + "/BSBFL"+str(round(j*0.05,2))+".txt")

@@ -88,7 +88,7 @@ public abstract class AbstractCalcProximity {
                 continue;
             }
             if(!(weightTestCase.get(i) > 0.0)){
-                System.out.println("ERROR NaN");
+                System.out.println("ERROR NaN1");
                 System.exit(1);
             }
             pw.println(i + "," + Double.toString(weightTestCase.get(i)));
@@ -112,6 +112,8 @@ public abstract class AbstractCalcProximity {
                 continue;
             }
             int[] tmp = countUpCorresponding(failedTestNumber, k);
+            // System.out.println(failedTestNumber+" "+k);
+            // System.out.println(Arrays.toString(tmp));
             numberOfCorrespondingBlock.set(k, tmp[0]);
             numberOfNotCorrespondingBlock.set(k,tmp[1]);
         }
@@ -138,7 +140,7 @@ public abstract class AbstractCalcProximity {
                     }
                 }else{
                     if(passedExecutionRoute.get(j) == 1){
-                        ret[1]++;
+                        //ret[1]++;
                     }
                 }
             }

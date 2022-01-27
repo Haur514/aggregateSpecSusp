@@ -24,7 +24,7 @@ public class App {
         SpectrumBasedFaultLocalization spectrumBasedFaultLocalization = new SpectrumBasedFaultLocalization(
                 extractLineData);
         BlockedSpectrumBasedFaultLocalization blockedSpectrumBasedFaultLocalization = new BlockedSpectrumBasedFaultLocalization(
-                extractLineData, calcInJaccard.getWeight());
+                extractLineData, calcProximity.getWeightTestCase());
         NonBlockedSpectrumBasedFaultLocalization nonBlockedSpectrumBasedFaultLocalization = new NonBlockedSpectrumBasedFaultLocalization(
                 extractLineData, nonBlockedCalcProximity.getWeightTestCase());
     }

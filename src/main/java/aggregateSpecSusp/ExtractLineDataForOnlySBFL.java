@@ -71,7 +71,7 @@ class ExtractLineDataForOnlySBFL {
             e.printStackTrace();
         }
         if (text.isEmpty()) {
-            System.err.println("There is no data in TR.txt");
+            //System.err.println("There is no data in TR.txt");
             System.exit(1);
         }
         return text;

@@ -154,11 +154,11 @@ private double functionC(int corresponding,int notcorresponding){
         double thresholdL = 0.25;
         double thresholdR = 0.75;
         if (x < thresholdL) {
-            return 2.0 * thresholdL - x;
+            return 1.0-x;
         } else if (thresholdR < x) {
-            return 2.0 * thresholdR - x;
-        } else {
             return x;
+        } else {
+            return thresholdR+x-1.0;
         }
     }
 

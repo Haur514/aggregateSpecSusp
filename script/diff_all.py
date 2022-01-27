@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 import matplotlib
 
-plt.rcParams['font.family']="Hiragino Sans"
+plt.rcParams['font.family']="Source Han Sans"
 
 args = sys.argv
 weightType = args[1]
@@ -60,7 +60,7 @@ if True:
     print(str(round(float(args[2]),2))+'&'+str(linesNonBSBFLwinSBFL)+'&'+str(linesNonBSBFLloseSBFL)+'\\\\')
 
 if True:
-    print(str(round(float(args[2]),2))+'    '+str(round(sbfl_ave/(len(lst))*100,5))+'  '+str(round(nonbsbfl_ave/(len(lst))*100,5))+'   '+str(round(bsbfl_ave/(len(lst))*100,5))+'\\\\')
+    print(str(round(float(args[2]),2))+'&'+str(round(sbfl_ave/(len(lst))*100,5))+'&'+str(round(nonbsbfl_ave/(len(lst))*100,5))+'&'+str(round(bsbfl_ave/(len(lst))*100,5))+'\\\\')
     
 if False:
     print(str(round(float(args[2]),2))+'    '+str(round(diff_sbfl_ave/(len(lst))*100,5))+'  '+str(round(diff_nonbsbfl_ave/(len(lst))*100,5))+'   '+str(round(diff_bsbfl_ave/(len(lst))*100,5))+'\\\\')

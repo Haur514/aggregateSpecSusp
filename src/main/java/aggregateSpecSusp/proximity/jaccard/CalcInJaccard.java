@@ -59,11 +59,18 @@ public class CalcInJaccard {
     private void calcWeight(int fail,int pass){
         calcInJaccard(fail,pass);
         double jacCoef = getJaccardCoef();
-        if(jacCoef < App.threshold){
-            weight.set(pass,weight.get(pass)+1.0);
+        if(jacCoef <= 0.25){
+            weight.set(pass,weight.get(pass)+1-jacCoef);
+        }else if(jacCoef >= 0.75){
+            weight.set(pass,weight.get(pass)+1+0.75-jacCoef);
         }else{
-            weight.set(pass,weight.get(pass) + numberOfTest*jacCoef + 1.0);
+            weight.set(pass,weight.get(pass)+jacCoef);
         }
+        // if(jacCoef < App.threshold){
+        //     weight.set(pass,weight.get(pass)+1.0);
+        // }else{
+        //     weight.set(pass,weight.get(pass) + numberOfTest*jacCoef + 1.0);
+        // }
     }
 
     private void calcInJaccard(int fail,int pass){
