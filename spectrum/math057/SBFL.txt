@@ -1,5 +1,5 @@
-69 src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java 0.6000000000000001
-134 src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java 0.6000000000000001
+69 src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java 0.5773502691896258
+134 src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java 0.5773502691896258
 277 src/main/java/org/apache/commons/math/util/FastMath.java 0.5
 46 src/main/java/org/apache/commons/math/stat/clustering/Cluster.java 0.5
 47 src/main/java/org/apache/commons/math/stat/clustering/Cluster.java 0.5

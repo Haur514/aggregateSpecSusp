@@ -1,7 +1,7 @@
-134 src/java/org/apache/commons/math/stat/Frequency.java 0.8093064892368219
-121 src/java/org/apache/commons/math/stat/Frequency.java 0.5364918064100991
-122 src/java/org/apache/commons/math/stat/Frequency.java 0.5364918064100991
-58 src/java/org/apache/commons/math/stat/Frequency.java 0.5
+134 src/java/org/apache/commons/math/stat/Frequency.java 0.6050003337060555
+121 src/java/org/apache/commons/math/stat/Frequency.java 0.3688341559615627
+122 src/java/org/apache/commons/math/stat/Frequency.java 0.3688341559615627
+58 src/java/org/apache/commons/math/stat/Frequency.java 0.3460465960465314
 67 src/java/org/apache/commons/math/stat/Frequency.java 0.0
 78 src/java/org/apache/commons/math/stat/Frequency.java 0.0
 79 src/java/org/apache/commons/math/stat/Frequency.java 0.0

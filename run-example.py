@@ -30,7 +30,7 @@ args = sys.argv
 weightType = weightFunctionName[int(args[1])]
 formuraType = formuraName[int(args[2])]
 os.makedirs("./"+str(formuraType), exist_ok=True)
-for j in range(8,12):
+for j in range(8,9):
     for i in range(rangeStart, rangeEnd):
         os.chdir(base)
         os.chdir('spectrum')

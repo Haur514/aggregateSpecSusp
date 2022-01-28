@@ -44,16 +44,16 @@ for i in lst:
     bsbfl_ave+=(float(i[3])/float(i[5]))
     if float(i[1]) > float(i[3]):
         linesNonBSBFLwinSBFL += 1
-        linesNonBSBFLwinSBFL_sum += float(i[2])/float(i[5]) - float(i[1])/float(i[5])
+        linesNonBSBFLwinSBFL_sum += float(i[3])/float(i[5]) - float(i[1])/float(i[5])
     elif float(i[1]) < float(i[3]):
         linesNonBSBFLloseSBFL += 1
-        linesNonBSBFLloseSBFL_sum += float(i[2])/float(i[5]) - float(i[1])/float(i[5])
+        linesNonBSBFLloseSBFL_sum += float(i[3])/float(i[5]) - float(i[1])/float(i[5])
     filename.append(i[4])
 
 linesNonBSBFLwinSBFL_ave = linesNonBSBFLwinSBFL_sum/linesNonBSBFLwinSBFL
 linesNonBSBFLloseSBFL_ave = linesNonBSBFLloseSBFL_sum/linesNonBSBFLloseSBFL
 
-if False:
+if True:
     print(str(round(float(args[2]),2))+'&'+str(round(linesNonBSBFLwinSBFL_ave*100.0,2))+'&'+str(round(linesNonBSBFLloseSBFL_ave*100.0,2))+'\\\\')
 
 if True:

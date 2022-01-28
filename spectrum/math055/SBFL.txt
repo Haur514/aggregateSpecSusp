@@ -1,10 +1,10 @@
-473 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.8999999999999999
-181 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.75
-189 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.75
-197 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.75
-94 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.5142857142857143
-95 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.5142857142857143
-96 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.5142857142857143
+473 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.5773502691896258
+181 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.3779644730092272
+189 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.3779644730092272
+197 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.3779644730092272
+94 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.23570226039551587
+95 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.23570226039551587
+96 src/main/java/org/apache/commons/math/geometry/Vector3D.java 0.23570226039551587
 208 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
 209 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
 210 src/main/java/org/apache/commons/math/util/FastMath.java 0.0
