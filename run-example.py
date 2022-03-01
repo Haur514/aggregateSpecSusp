@@ -2,6 +2,8 @@ import os
 import sys
 import shutil
 
+import simplejson
+
 base = './'
 countRankBase = './../countRankBSBFL'
 jarFile = base + './build/libs/aggregateSpecSusp.jar'
@@ -24,13 +26,23 @@ formuraName = {0: "Ochiai",
                1: "Zoltar",
                2: "Jaccard",
                3: "Ample",
-               4: "Tarantula"}
+               4: "Tarantula",
+               5: "Dstar3",
+               6: "Dstar",
+               7: "Dstar5"}
+
+# 類似度のとり方/疑惑値の算出式/重み付けに使用した式/math???/~~~.csv
+kizamihaba = 0.1
 
 args = sys.argv
 weightType = weightFunctionName[int(args[1])]
 formuraType = formuraName[int(args[2])]
+ruijido = "simpson"
+
+destinationDir = "./"+ruijido+"/"+formuraType+"/"+weightType+"/"
+
 os.makedirs("./"+str(formuraType), exist_ok=True)
-for j in range(8,9):
+for j in range(9,10):
     for i in range(rangeStart, rangeEnd):
         os.chdir(base)
         os.chdir('spectrum')
@@ -40,25 +52,17 @@ for j in range(8,9):
         os.chdir('..')
         os.chdir('..')
         os.system(
-            'java -jar ./build/libs/aggregateSpecSusp.jar -weightType '+args[1] + ' -threshold ' + str(round(j*0.05,2)) + ' -formula ' + args[2])
-        os.makedirs("./spectrum/" +formuraType+"/"+
-                    sub + "/" + weightType, exist_ok=True)
-        shutil.copy("./BSBFL.txt", "./spectrum/" +
-                    sub + "/BSBFL.txt")
-        shutil.copy("./NonBSBFL.txt", "./spectrum/" +
-                    sub + "/NonBSBFL.txt")
-        shutil.copy("./SBFL.txt", "./spectrum/" +
+            'java -jar ./build/libs/aggregateSpecSusp.jar -weightType '+args[1] + ' -threshold ' + str(round(j*kizamihaba,2)) + ' -formula ' + args[2])
+        print("math"+str(i))
+        os.makedirs(destinationDir+sub, exist_ok=True)
+        shutil.copy("./BlockedExecutionRoute.txt",destinationDir+sub+"/BlockedExecutionRoute.txt")
+        shutil.copy("./BSBFL.txt", destinationDir+
+                    sub + "/BSBFL"+str(round(j*kizamihaba,2))+".txt")
+        shutil.copy("./NonBSBFL.txt", destinationDir+
+                    sub + "/NonBSBFL"+str(round(j*kizamihaba,2))+".txt")
+        shutil.copy("./SBFL.txt", destinationDir+
                     sub + "/SBFL.txt")
-        shutil.copy("./Weight.txt", "./spectrum/" +
-                    sub + "/Weight.txt")
-        shutil.copy("./BlockedExecutionRoute.txt","./spectrum/"+sub+"/BlockedExecutionRoute.txt")
-        shutil.copy("./BSBFL.txt", "./spectrum/" +formuraType+"/"+
-                    sub + "/" + weightType + "/BSBFL"+str(round(j*0.05,2))+".txt")
-        shutil.copy("./NonBSBFL.txt", "./spectrum/" +formuraType+"/"+
-                    sub + "/" + weightType + "/NonBSBFL"+str(round(j*0.05,2))+".txt")
-        shutil.copy("./SBFL.txt", "./spectrum/" +formuraType+"/"+
-                    sub + "/" + weightType + "/SBFL.txt")
-        shutil.copy("./Weight.txt", "./spectrum/" +formuraType+"/"+
-                    sub + "/" + weightType + "/Weight"+str(round(j*0.05,2))+".txt")
-    os.system('java -jar ~/Lab/2022//countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*0.05,2)) + ' ' + formuraType)
-    shutil.copy("./sample.txt", "./"+formuraType+"/"+weightType+str(round(j*0.05,2))+".csv")
+        shutil.copy("./Weight.txt", destinationDir+
+                    sub + "/Weight"+str(round(j*kizamihaba,2))+".txt")
+    os.system('java -jar ~/Lab/2022//countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*kizamihaba,2)) + ' ' + formuraType)
+    shutil.copy("./sample.txt", destinationDir+"/"+str(round(j*kizamihaba,2))+".csv")

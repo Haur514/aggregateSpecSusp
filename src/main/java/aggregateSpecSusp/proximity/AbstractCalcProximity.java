@@ -70,7 +70,7 @@ public abstract class AbstractCalcProximity {
 
     private void checkNaN(Double weight){
         if(Double.toString(weight).equals("NaN")){
-            System.out.println("NaN");
+            System.out.println("checkNaN");
             System.exit(1);
         }
     }
@@ -88,60 +88,67 @@ public abstract class AbstractCalcProximity {
                 continue;
             }
             if(!(weightTestCase.get(i) > 0.0)){
-                System.out.println("ERROR NaN1");
+                System.out.println("ERROR in printWeight()");
                 System.exit(1);
             }
             pw.println(i + "," + Double.toString(weightTestCase.get(i)));
         }
     }
 
-    final public void calcurateProximity(int failedTestNumber) {
+    final public void setWeight(int fail) {
         int numberOfTest = spectrum.get(0).size();
-        countUpExeRoutes(failedTestNumber);
-        for (int i = 0; i < numberOfTest; i++) {
-            if(failedTestList.contains(i)){
+        for (int pass = 0; pass < numberOfTest; pass++) {
+            if(failedTestList.contains(pass)){
                 continue;
             }
-            weightTestCase.set(i,weightTestCase.get(i)+formula.formura(numberOfCorrespondingBlock.get(i), numberOfNotCorrespondingBlock.get(i)));
+            weightTestCase.set(pass,weightTestCase.get(pass)+1.0+getSimpsonCoefficient(fail, pass)*Math.sqrt(getNumberOfSetElements(pass)));
         }
     }
 
-    private void countUpExeRoutes(int failedTestNumber){
-        for(int k = 0; k < numberOfTest;k++){
-            if(failedTestList.contains(k)){
-                continue;
-            }
-            int[] tmp = countUpCorresponding(failedTestNumber, k);
-            // System.out.println(failedTestNumber+" "+k);
-            // System.out.println(Arrays.toString(tmp));
-            numberOfCorrespondingBlock.set(k, tmp[0]);
-            numberOfNotCorrespondingBlock.set(k,tmp[1]);
-        }
+    final public double getJaccardCoefficient(int fail,int pass){
+        return (double)getNumberOfIntersection(fail,pass)/(double)(getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass));
     }
 
-    /**
-     * ret[0] : corresponding
-     * ret[1] : notcorresponding
-     * @param fail
-     * @param pass
-     * @return
-     */
-    private int[] countUpCorresponding(int fail,int pass){
-        int ret[] = new int[2];
+    final public double getSimpsonCoefficient(int fail,int pass){
+        if(getSimpsonDenominator(fail,pass) == 0){
+            return 0;
+        }
+        return (double)getSimpsonNumerator(fail,pass)/(double)getSimpsonDenominator(fail,pass);
+    }
+
+    private int getSimpsonNumerator(int fail,int pass){
+        return getNumberOfIntersection(fail,pass);
+    }
+
+    private int getSimpsonDenominator(int fail,int pass){
+        return Math.min(getNumberOfSetElements(fail),getNumberOfSetElements(pass));
+    }
+
+    // fail,passの共通部分の要素数を取得
+    private int getNumberOfIntersection(int fail,int pass){
+        int ret = 0;
         for(int i = 0; i < spectrum.size();i++){
             List<Integer> failedExecutionRoute = spectrum.get(i).get(fail);
             List<Integer> passedExecutionRoute = spectrum.get(i).get(pass);
             for(int j = 0; j < failedExecutionRoute.size();j++){
                 if(failedExecutionRoute.get(j) ==-1){
                     if(passedExecutionRoute.get(j) == 1){
-                        ret[0]++;
-                    }else{
-                        ret[1]++;
+                        ret++;
                     }
-                }else{
-                    if(passedExecutionRoute.get(j) == 1){
-                        //ret[1]++;
-                    }
+                }
+            }
+        }
+        return ret;
+    }
+
+    // 引数に指定したテストケースの通過した行数を取得
+    private int getNumberOfSetElements(int tc){
+        int ret = 0;
+        for(int i = 0; i < spectrum.size();i++){
+            List<Integer> executionRoute = spectrum.get(i).get(tc);
+            for(int j = 0; j < executionRoute.size();j++){
+                if(executionRoute.get(j) != 0){
+                    ret++;
                 }
             }
         }

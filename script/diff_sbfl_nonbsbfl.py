@@ -33,7 +33,7 @@ for i in lst:
     if float(i[1]) > float(i[2]):
         linesNonBSBFLwinSBFL += 1
         linesNonBSBFLwinSBFL_sum += float(i[2])/float(i[5]) - float(i[1])/float(i[5])
-    else:
+    elif float(i[1]) < float(i[2]):
         linesNonBSBFLloseSBFL += 1
         linesNonBSBFLloseSBFL_sum += float(i[2])/float(i[5]) - float(i[1])/float(i[5])
     filename.append(i[4])
@@ -46,7 +46,7 @@ if False:
 
 
 if True:
-    print(str(round(float(args[2]),2))+'&'+str(linesNonBSBFLwinSBFL)+'&'+str(linesNonBSBFLloseSBFL)+'\\\\')
+    print(str(round(float(args[2]),2))+'&'+str(linesNonBSBFLloseSBFL)+'&'+str(linesNonBSBFLwinSBFL)+'\\\\')
     
 if False:
     print(str(round(float(args[2]),2))+'&'+str(round(sbfl_ave/(len(result)/2)*100,2))+'&'+str(round(nonbsbfl_ave/(len(result)/2)*100,2))+'\\\\')

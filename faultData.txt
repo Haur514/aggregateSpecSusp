@@ -1,3 +1,9 @@
+math001 140 FastDateFormat
+math001 144 FastDateFormat
+math002 268 HypergeometricDistribution
+math003 822 MathArrays
+math004 116 threed/SubLine
+math004 117 twod/SubLine
 math005 305 Complex
 math006 51 BaseOptimizer replace
 math006 214 NonLinearConjugateGradientOptimizer delete
@@ -28,18 +34,28 @@ math007 372 AbstractIntegrator
 math008 181 DiscreteDistribution
 math008 187 DiscreteDistribution
 math009 87 threed/Line
+math010 1413 DSCompiler
 math011 183 MultivariateNormalDistribution
 math012 29 BitsStreamGenerator
+math013 562 AbstractLeastSquaresOptimizer
+math013 563 AbstractLeastSquaresOptimizer
 math014 43 Weight
 math014 44 Weight
 math014 45 Weight
 math014 46 Weight
 math015 1541 FastMath
+math016 83 FastMath
+math016 395 FastMath
+math016 397 FastMath
+math016 456 FastMath
+math016 458 FastMath
+math017 1603 dfp/Dfp
 math018 932 CMAESOptimizer replace
 math018 958 CMAESOptimizer replace
 math018 991 CMAESOptimizer insert
 math018 992 CMAESOptimizer replace
 math018 995 CMAESOptimizer replace
+math019 537 CMAESOptimizer
 math020 921 CMAESOptimizer replace
 math021 69 RectangularCholeskyDecomposition
 math021 79 RectangularCholeskyDecomposition
@@ -51,6 +67,20 @@ math021 91 RectangularCholeskyDecomposition
 math021 92 RectangularCholeskyDecomposition
 math021 93 RectangularCholeskyDecomposition
 math021 128 RectangularCholeskyDecomposition
+math022 275 FDistribution
+math022 184 UniformRealDistribution
+math023 152 BrentOptimizer
+math023 233 BrentOptimizer
+math023 237 BrentOptimizer
+math023 274 BrentOptimizer
+math024 230 BrentOptimizer
+math024 267 BrentOptimizer
+math025 326 HarmonicFitter
+math026 181 fraction/Fraction
+math026 209 fraction/Fraction
+math027 597 fraction/Fraction
+math028 119 SimplexSolver
+math028 138 SimplexSolver
 math029 349 OpenMapRealVector replace
 math029 350 OpenMapRealVector replace
 math029 351 OpenMapRealVector delete

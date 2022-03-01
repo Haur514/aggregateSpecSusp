@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 import matplotlib
 
-plt.rcParams['font.family']="Source Han Sans"
+plt.rcParams['font.family']="Ubuntu"
 
 args = sys.argv
 weightType = args[1]
@@ -53,14 +53,14 @@ for i in lst:
 linesNonBSBFLwinSBFL_ave = linesNonBSBFLwinSBFL_sum/linesNonBSBFLwinSBFL
 linesNonBSBFLloseSBFL_ave = linesNonBSBFLloseSBFL_sum/linesNonBSBFLloseSBFL
 
-if True:
+if False:
     print(str(round(float(args[2]),2))+'&'+str(round(linesNonBSBFLwinSBFL_ave*100.0,2))+'&'+str(round(linesNonBSBFLloseSBFL_ave*100.0,2))+'\\\\')
 
-if True:
+if False:
     print(str(round(float(args[2]),2))+'&'+str(linesNonBSBFLwinSBFL)+'&'+str(linesNonBSBFLloseSBFL)+'\\\\')
 
 if True:
-    print(str(round(float(args[2]),2))+'&'+str(round(sbfl_ave/(len(lst))*100,5))+'&'+str(round(nonbsbfl_ave/(len(lst))*100,5))+'&'+str(round(bsbfl_ave/(len(lst))*100,5))+'\\\\')
+    print(str(round(float(args[2]),2))+'&'+str(round(sbfl_ave/(len(lst))*100,5)).ljust(8,'0')+'&'+str(round(nonbsbfl_ave/(len(lst))*100,5)).ljust(8,'0')+'&'+str(round(bsbfl_ave/(len(lst))*100,5)).ljust(8,'0')+'\\\\')
     
 if False:
     print(str(round(float(args[2]),2))+'    '+str(round(diff_sbfl_ave/(len(lst))*100,5))+'  '+str(round(diff_nonbsbfl_ave/(len(lst))*100,5))+'   '+str(round(diff_bsbfl_ave/(len(lst))*100,5))+'\\\\')

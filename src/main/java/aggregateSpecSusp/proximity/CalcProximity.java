@@ -16,7 +16,7 @@ public class CalcProximity extends AbstractCalcProximity{
         super(extractLineData);
         init();
         for (Integer failedTestNumber : failedTestList) {
-            calcurateProximity(failedTestNumber);
+            setWeight(failedTestNumber);
         }
         takeWeightAverage();
         printWeight();

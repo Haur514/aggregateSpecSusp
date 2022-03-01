@@ -1,60 +1,58 @@
 package aggregateSpecSusp.formula;
 
 import aggregateSpecSusp.*;
+
 public class Formula {
     final public double formura(int corresponding, int notcorresponding) {
 
         double ret = 0;
         int type = App.weightType;
         switch (type) {
-        case 0:
-            ret = haruka(corresponding, notcorresponding);
-            break;
-        case 1:
-            ret = yoshiruka(corresponding, notcorresponding);
-            break;
-        case 2:
-            ret = ruka(corresponding,notcorresponding);
-            break;
-        case 3:
-            ret = haru(corresponding,notcorresponding);
-            break;
-        case 4:
-            ret = haka(corresponding, notcorresponding);
-            break;
-        case 5:
-            ret = yoruka((double) (corresponding / (corresponding + notcorresponding + 1.0)));
-            break;
-        case 6:
-            ret = senko((double) (corresponding / (corresponding + notcorresponding + 1.0)));
-            break;
-        case 7:
-            ret = yoshiokaharuka(corresponding, notcorresponding);
-            break;
+            case 0:
+                ret = haruka(corresponding, notcorresponding);
+                break;
+            case 1:
+                ret = yoshiruka(corresponding, notcorresponding);
+                break;
+            case 2:
+                ret = ruka(corresponding, notcorresponding);
+                break;
+            case 3:
+                ret = haru(corresponding, notcorresponding);
+                break;
+            case 4:
+                ret = haka(corresponding, notcorresponding);
+                break;
+            case 5:
+                ret = yoruka((double) (corresponding / (corresponding + notcorresponding + 1.0)));
+                break;
+            case 6:
+                ret = senko((double) (corresponding / (corresponding + notcorresponding + 1.0)));
+                break;
+            case 7:
+                ret = yoshiokaharuka(corresponding, notcorresponding);
+                break;
             case 8:
-            ret = functionC(corresponding,notcorresponding);
-            break;
+                ret = functionC(corresponding, notcorresponding);
+                break;
         }
 
         return ret;
     }
 
-private double functionC(int corresponding,int notcorresponding){
-    double x;
-    if (corresponding + notcorresponding == 0) {
-        x = 1.0;
-    } else {
-        x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
+    final public double sigmoidFunction(double proximity) {
+        double gain = 10.0;
+        return (Math.tanh(gain * (proximity - 0.9) / 2.0) + 1.0) / 2.0;
     }
-    double threshold = 0.75;
-    if (x < threshold) {
-        return 1.0;
-    } else {
-        return (double) corresponding / Math.sqrt((double)corresponding + (double)notcorresponding);
-    }
-}
 
-    private double yoshiruka(int corresponding,int notcorresponding){
+    final public double sigmoidWeight(double proximity, int numberOfTest) {
+        if ((double) sigmoidFunction(proximity) * (double) numberOfTest > 1.0) {
+            return (double) sigmoidFunction(proximity) * (double) numberOfTest;
+        }
+        return 1.0;
+    }
+
+    private double functionC(int corresponding, int notcorresponding) {
         double x;
         if (corresponding + notcorresponding == 0) {
             x = 1.0;
@@ -65,11 +63,26 @@ private double functionC(int corresponding,int notcorresponding){
         if (x < threshold) {
             return 1.0;
         } else {
-            return 1.0 + 10.0*(x - 0.75);
+            return (double) corresponding / Math.sqrt((double) corresponding + (double) notcorresponding);
         }
     }
 
-    private double haru(int corresponding,int notcorresponding){
+    private double yoshiruka(int corresponding, int notcorresponding) {
+        double x;
+        if (corresponding + notcorresponding == 0) {
+            x = 1.0;
+        } else {
+            x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
+        }
+        double threshold = 0.75;
+        if (x < threshold) {
+            return 1.0;
+        } else {
+            return 1.0 + 10.0 * (x - 0.75);
+        }
+    }
+
+    private double haru(int corresponding, int notcorresponding) {
         double x;
         if (corresponding + notcorresponding == 0) {
             x = 1.0;
@@ -77,12 +90,12 @@ private double functionC(int corresponding,int notcorresponding){
             x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
         }
         double threshold = 0.25;
-        if(x < threshold){
+        if (x < threshold) {
             return x + 0.75;
-        }else if (threshold <= x && x <= (1-threshold)) {
+        } else if (threshold <= x && x <= (1 - threshold)) {
             return 1.0;
         } else {
-            return 1.0+x-0.75;
+            return 1.0 + x - 0.75;
         }
     }
 
@@ -101,7 +114,7 @@ private double functionC(int corresponding,int notcorresponding){
         }
     }
 
-    private double ruka(int corresponding,int notcorresponding){
+    private double ruka(int corresponding, int notcorresponding) {
         double x;
         if (corresponding + notcorresponding == 0) {
             x = 1.0;
@@ -116,14 +129,14 @@ private double functionC(int corresponding,int notcorresponding){
         }
     }
 
-    private double haka(int corresponding,int notcorresponding){
+    private double haka(int corresponding, int notcorresponding) {
         double x;
         double mother;
         if (corresponding + notcorresponding == 0) {
             mother = 1.0;
             x = 1.0;
         } else {
-            mother = (double)((double)corresponding + (double)notcorresponding);
+            mother = (double) ((double) corresponding + (double) notcorresponding);
             x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
         }
         double threshold = App.threshold;
@@ -133,7 +146,6 @@ private double functionC(int corresponding,int notcorresponding){
             return (double) corresponding / Math.sqrt(mother);
         }
     }
-
 
     private double yoshiokaharuka(int corresponding, int notcorrespoinding) {
         double x;
@@ -154,11 +166,11 @@ private double functionC(int corresponding,int notcorresponding){
         double thresholdL = 0.25;
         double thresholdR = 0.75;
         if (x < thresholdL) {
-            return 1.0-x;
+            return 1.0 - x;
         } else if (thresholdR < x) {
             return x;
         } else {
-            return thresholdR+x-1.0;
+            return thresholdR - x + 1.0;
         }
     }
 

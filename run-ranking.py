@@ -2,8 +2,8 @@ import os
 import sys
 import shutil
 
-base = 'C:/Users/h-yosiok/Lab/aggregateSpecSusp'
-countRankBase = 'C:/Users/h-yosiok/Lab/countRankBSBFL'
+base = '/home/h-yosiok/Lab/2022/aggregateSpecSusp'
+countRankBase = '/home/h-yosiok/Lab/2022/countRankBSBFL'
 jarFile = base + '/build/libs/aggregateSpecSusp.jar'
 
 rangeStart = 1
@@ -24,6 +24,6 @@ formuraType = args[2]
 weightType = weightFunctionName[int(args[1])]
 data = {}
 
-for j in range(12,20):
-    os.system('java -jar /Users/h-yosiok/Lab/countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*0.05,2)) + ' ' + formuraType)
-    shutil.copy("./sample.txt", "./"+formuraType+"/"+weightType+str(round(j*0.05,2))+".csv")
+for j in range(4,10):
+    os.system('java -jar /home/h-yosiok/Lab/2022/countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*0.1,2)) + ' ' + formuraType)
+    shutil.copy("./sample.txt", "./"+formuraType+"/"+weightType+str(round(j*0.1,2))+".csv")

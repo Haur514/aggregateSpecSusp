@@ -4,7 +4,10 @@ import sys
 import matplotlib.pyplot as plt
 import matplotlib
 
-plt.rcParams['font.family']="Hiragino Sans"
+from matplotlib.font_manager import FontProperties
+font_path = "/home/h-yosiok/.fonts/SourceHanCodeJP-Medium.otf"
+font_prop = FontProperties(fname=font_path)
+matplotlib.rcParams["font.family"] = font_prop.get_name()
 
 args = sys.argv
 
@@ -33,7 +36,7 @@ for i in lst:
     if float(i[2]) > float(i[3]):
         linesBSBFLwinNonBSBFL += 1
         linesNonBSBFLwinSBFL_sum += float(i[2])/float(i[5]) - float(i[1])/float(i[5])
-    else:
+    elif float(i[2]) < float(i[3]):
         linesBSBFLloseNonBSBFL += 1
         linesNonBSBFLloseSBFL_sum += float(i[2])/float(i[5]) - float(i[1])/float(i[5])
     filename.append(i[4])
@@ -43,7 +46,7 @@ if False:
     print(str(round(float(args[2]),2))+'&'+str(round(linesNonBSBFLwinSBFL_ave*100.0,2))+'&'+str(round(linesNonBSBFLloseSBFL_ave*100.0,2))+'\\\\')
 
 if True:
-    print(str(round(float(args[2]),2))+'    '+str(linesBSBFLwinNonBSBFL)+'  '+str(linesBSBFLloseNonBSBFL)+'\\\\')
+    print(str(round(float(args[2]),2))+'&'+str(linesBSBFLwinNonBSBFL)+'&'+str(linesBSBFLloseNonBSBFL)+'\\\\')
 
 if False:
     print(str(round(float(args[2]),2))+'&'+str(round(bsbfl_ave/(len(result)/2)*100,2))+'&'+str(round(nonbsbfl_ave/(len(result)/2)*100,2))+'\\\\')

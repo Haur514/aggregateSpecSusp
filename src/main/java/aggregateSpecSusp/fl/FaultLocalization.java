@@ -145,6 +145,12 @@ public abstract class FaultLocalization {
             return ample(ef,nf,ep,np);
             case 4:
             return tarantula(ef, nf, ep, np);
+            case 5:
+            return dstar3(ef,nf,ep,np);
+            case 6:
+            return dstar(ef,nf,ep,np);
+            case 7:
+            return dstar5(ef,nf,ep,np);
         }
         System.exit(1);
         return ochiai(ef,nf,ep,np);
@@ -168,5 +174,14 @@ public abstract class FaultLocalization {
 
     private double tarantula(final double ef, final double nf, final double ep, final double np) {
         return (ef / (ef + nf)) / (ef / (ef + nf) + ep / (ep + np));
+    }
+    private double dstar3(final double ef, final double nf, final double ep, final double np) {
+        return ef*ef*ef/(nf+ep);
+    }
+    private double dstar(final double ef, final double nf, final double ep, final double np) {
+        return Math.pow(ef,2)/(nf+ep);
+    }
+    private double dstar5(final double ef, final double nf, final double ep, final double np) {
+        return Math.pow(ef,5)/(nf+ep);
     }
 }
