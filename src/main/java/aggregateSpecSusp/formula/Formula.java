@@ -40,8 +40,19 @@ public class Formula {
         return ret;
     }
 
+    final public double motherRoot(int son,int mother){
+        double threshold = App.threshold;
+        if(mother == 0){
+            return 1.0;
+        }
+        if((double)son/(double)mother < threshold){
+            return 1.0;
+        }
+        return Math.max(1.0,son/Math.sqrt(mother));
+    }
+
     final public double sigmoidFunction(double proximity) {
-        double gain = 10.0;
+        double gain = 20.0;
         return (Math.tanh(gain * (proximity - 0.9) / 2.0) + 1.0) / 2.0;
     }
 

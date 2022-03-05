@@ -9,7 +9,7 @@ countRankBase = './../countRankBSBFL'
 jarFile = base + './build/libs/aggregateSpecSusp.jar'
 
 rangeStart = 1
-rangeEnd = 105
+rangeEnd = 100
 os.system('gradle jar')
 
 weightFunctionName = {0: "Haruka",
@@ -37,7 +37,7 @@ kizamihaba = 0.1
 args = sys.argv
 weightType = weightFunctionName[int(args[1])]
 formuraType = formuraName[int(args[2])]
-ruijido = "simpson"
+ruijido = "dice"
 
 destinationDir = "./"+ruijido+"/"+formuraType+"/"+weightType+"/"
 
@@ -45,11 +45,9 @@ os.makedirs("./"+str(formuraType), exist_ok=True)
 for j in range(9,10):
     for i in range(rangeStart, rangeEnd):
         os.chdir(base)
-        os.chdir('spectrum')
+        os.chdir('route')
         sub = "math"+str(i).zfill(3)
-        os.chdir(sub)
-        shutil.copy("./TR.txt", "./../../TR.txt")
-        os.chdir('..')
+        shutil.copy("./"+sub+".txt", "./../TR.txt")
         os.chdir('..')
         os.system(
             'java -jar ./build/libs/aggregateSpecSusp.jar -weightType '+args[1] + ' -threshold ' + str(round(j*kizamihaba,2)) + ' -formula ' + args[2])

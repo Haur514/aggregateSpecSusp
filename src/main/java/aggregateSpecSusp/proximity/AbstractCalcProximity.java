@@ -77,7 +77,7 @@ public abstract class AbstractCalcProximity {
 
     private void checkSize(int size){
         if(size == 0){
-            System.out.println("error");
+            System.out.println("Error: AbstractCalcProximity checkSize()");
             System.exit(1);
         }
     }
@@ -89,6 +89,7 @@ public abstract class AbstractCalcProximity {
             }
             if(!(weightTestCase.get(i) > 0.0)){
                 System.out.println("ERROR in printWeight()");
+                System.out.println(weightTestCase.get(i));
                 System.exit(1);
             }
             pw.println(i + "," + Double.toString(weightTestCase.get(i)));
@@ -101,14 +102,46 @@ public abstract class AbstractCalcProximity {
             if(failedTestList.contains(pass)){
                 continue;
             }
-            weightTestCase.set(pass,weightTestCase.get(pass)+1.0+getSimpsonCoefficient(fail, pass)*Math.sqrt(getNumberOfSetElements(pass)));
+            weightTestCase.set(pass,weightTestCase.get(pass)+formula.motherRoot(getJaccardNumerator(fail,pass),getJaccardDenominator(fail, pass)));
         }
     }
 
-    final public double getJaccardCoefficient(int fail,int pass){
-        return (double)getNumberOfIntersection(fail,pass)/(double)(getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass));
+    private boolean isNotZero(int num){
+        if(num == 0){
+            return false;
+        }
+        return true;
     }
 
+
+    // ジャカード係数
+    final public double getJaccardCoefficient(int fail,int pass){
+        if(isNotZero(getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass))){
+            System.err.println("Error : getJaccardCoefficient");
+            System.exit(1);
+        }
+        return (double)getNumberOfIntersection(fail,pass)/(double)(getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass));
+    }
+    final public int getJaccardDenominator(int fail,int pass){
+        return getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass);
+    }
+
+    final public int getJaccardNumerator(int fail,int pass){
+        return getNumberOfIntersection(fail,pass);
+    }
+
+
+    // ダイス係数
+    final public int getDiceDenominator(int fail,int pass){
+        return getNumberOfSetElements(fail)+getNumberOfSetElements(pass);
+    }
+
+    final public int getDiceNumerator(int fail,int pass){
+        return 2*getNumberOfIntersection(fail,pass);
+    }
+
+
+    // シンプソン係数
     final public double getSimpsonCoefficient(int fail,int pass){
         if(getSimpsonDenominator(fail,pass) == 0){
             return 0;

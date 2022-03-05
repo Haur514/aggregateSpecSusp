@@ -18,8 +18,8 @@ public class NonBlockedCalcProximity extends AbstractCalcProximity{
     public NonBlockedCalcProximity(ExtractLineData extractLineData) {
         super(extractLineData);
         init();
-        for (Integer failedTestNumber : failedTestList) {
-            calcurateProximity(failedTestNumber);
+        for (Integer fail: failedTestList) {
+            setWeight(fail);
         }
         takeWeightAverage();
         printWeight();

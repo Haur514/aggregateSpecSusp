@@ -4,7 +4,7 @@ math002 268 HypergeometricDistribution
 math003 822 MathArrays
 math004 116 threed/SubLine
 math004 117 twod/SubLine
-math005 305 Complex
+math005 305 Complex.java
 math006 51 BaseOptimizer replace
 math006 214 NonLinearConjugateGradientOptimizer delete
 math006 217 NonLinearConjugateGradientOptimizer replace
@@ -127,10 +127,10 @@ math035 51 ElitisticListPopulation
 math035 65 ElitisticListPopulation
 math036 688 BigFraction
 math036 735 BigFraction
-math037 1018 Complex replace
-math037 1022 Complex insert
-math037 1063 Complex replace
-math037 1066 Complex insert
+math037 1018 Complex.java replace
+math037 1022 Complex.java insert
+math037 1063 Complex.java replace
+math037 1066 Complex.java insert
 math038 1660 BOBYQAOptimizer delete
 math038 1662 BOBYQAOptimizer replace
 math038 1663 BOBYQAOptimizer replace
@@ -147,11 +147,11 @@ math044 280 AbstractIntegrator
 math044 334 AbstractIntegrator
 math044 343 AbstractIntegrator
 math045 50 OpenMapRealMatrix
-math046 260 Complex
-math046 297 Complex
-math047 256 Complex
-math047 257 Complex
-math047 293 Complex
+math046 260 Complex.java
+math046 297 Complex.java
+math047 256 Complex.java
+math047 257 Complex.java
+math047 293 Complex.java
 math048 189 BaseSecantSolver
 math049 345 OpenMapRealVector
 math049 358 OpenMapRealVector
@@ -165,7 +165,7 @@ math051 187 BaseSecantSolver
 math052 344 Rotation
 math052 353 Rotation
 math052 359 Rotation
-math053 153 Complex
+math053 153 Complex.java
 math054 273 Dfp
 math054 2319 Dfp
 math055 473 Vector3D
@@ -325,7 +325,7 @@ math094 412 MathUtils
 math095 144 MathUtils
 math095 145 MathUtils
 math095 148 MathUtils
-math096 258 Complex
+math096 258 Complex.java
 math097 138 BrentSolver
 math097 141 BrentSolver
 math097 145 BrentSolver
@@ -334,6 +334,3 @@ math098 991 BigMatrixImpl
 math098 779 RealMatrixImpl
 math099 543 MathUtils
 math099 714 MathUtils
-math100 166 AbstractEstimator
-math100 202 AbstractEstimator
-math100 207 AbstractEstimator
