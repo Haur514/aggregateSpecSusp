@@ -11,7 +11,7 @@ args = sys.argv
 weightType = args[1]
 threshold = args[2]
 formulaType=args[3]
-lst = pd.read_csv("./../"+formulaType+"/"+args[1]+args[2]+".csv").values.tolist()
+lst = pd.read_csv("./../jaccard/"+formulaType+"/"+weightType+"/"+threshold+".csv").values.tolist()
 
 fig=plt.figure()
 result = []
@@ -50,8 +50,8 @@ for i in lst:
         linesNonBSBFLloseSBFL_sum += float(i[3])/float(i[5]) - float(i[1])/float(i[5])
     filename.append(i[4])
 
-linesNonBSBFLwinSBFL_ave = linesNonBSBFLwinSBFL_sum/linesNonBSBFLwinSBFL
-linesNonBSBFLloseSBFL_ave = linesNonBSBFLloseSBFL_sum/linesNonBSBFLloseSBFL
+# linesNonBSBFLwinSBFL_ave = linesNonBSBFLwinSBFL_sum/linesNonBSBFLwinSBFL
+# linesNonBSBFLloseSBFL_ave = linesNonBSBFLloseSBFL_sum/linesNonBSBFLloseSBFL
 
 if False:
     print(str(round(float(args[2]),2))+'&'+str(round(linesNonBSBFLwinSBFL_ave*100.0,2))+'&'+str(round(linesNonBSBFLloseSBFL_ave*100.0,2))+'\\\\')

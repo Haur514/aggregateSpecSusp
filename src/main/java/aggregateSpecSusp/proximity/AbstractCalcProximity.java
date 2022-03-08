@@ -102,8 +102,19 @@ public abstract class AbstractCalcProximity {
             if(failedTestList.contains(pass)){
                 continue;
             }
-            weightTestCase.set(pass,weightTestCase.get(pass)+formula.motherRoot(getJaccardNumerator(fail,pass),getJaccardDenominator(fail, pass)));
+            weightTestCase.set(pass,weightTestCase.get(pass)+formula.haka(getSimpsonNumerator(fail,pass),getNumberOfSetElements(fail)-getNumberOfIntersection(fail, pass)));
         }
+    }
+
+    final public List<Double> setProximityWith(int fail){
+        List<Double> ret = new ArrayList<>();
+        for (int pass = 0; pass < numberOfTest; pass++) {
+            if(failedTestList.contains(pass)){
+                continue;
+            }
+            ret.set(pass,ret.get(pass)+formula.senko(getJaccardCoefficient(fail, pass)));
+        }
+        return ret;
     }
 
     private boolean isNotZero(int num){
@@ -116,7 +127,7 @@ public abstract class AbstractCalcProximity {
 
     // ジャカード係数
     final public double getJaccardCoefficient(int fail,int pass){
-        if(isNotZero(getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass))){
+        if(!isNotZero(getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass))){
             System.err.println("Error : getJaccardCoefficient");
             System.exit(1);
         }
@@ -132,6 +143,14 @@ public abstract class AbstractCalcProximity {
 
 
     // ダイス係数
+    final public double getDiceCoefficient(int fail,int pass){
+        if(!isNotZero(getDiceDenominator(fail,pass))){
+            System.err.println("Error : getDiceCoefficient");
+            System.exit(1);
+        }
+        return (double)getDiceNumerator(fail,pass)/(double)(getDiceDenominator(fail,pass));
+    }
+
     final public int getDiceDenominator(int fail,int pass){
         return getNumberOfSetElements(fail)+getNumberOfSetElements(pass);
     }

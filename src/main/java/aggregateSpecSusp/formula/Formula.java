@@ -1,5 +1,8 @@
 package aggregateSpecSusp.formula;
 
+import java.util.Collections;
+import java.util.List;
+
 import aggregateSpecSusp.*;
 
 public class Formula {
@@ -57,10 +60,10 @@ public class Formula {
     }
 
     final public double sigmoidWeight(double proximity, int numberOfTest) {
-        if ((double) sigmoidFunction(proximity) * (double) numberOfTest > 1.0) {
-            return (double) sigmoidFunction(proximity) * (double) numberOfTest;
+        if(proximity < App.threshold){
+            return 1.0;
         }
-        return 1.0;
+        return 1.0+sigmoidFunction(proximity);
     }
 
     private double functionC(int corresponding, int notcorresponding) {
@@ -110,18 +113,12 @@ public class Formula {
         }
     }
 
-    private double haruka(int corresponding, int notcorresponding) {
-        double x;
-        if (corresponding + notcorresponding == 0) {
-            x = 1.0;
-        } else {
-            x = (double) ((double) corresponding / (double) (corresponding + notcorresponding));
-        }
-        double threshold = 0.8;
-        if (x < threshold) {
+    final public double haruka(double proximity, int numberOfTest) {
+        double threshold = App.threshold;
+        if (proximity < threshold) {
             return 1.0;
         } else {
-            return (double) corresponding / x;
+            return (double) 1.0+sigmoidFunction(proximity);
         }
     }
 
@@ -140,7 +137,7 @@ public class Formula {
         }
     }
 
-    private double haka(int corresponding, int notcorresponding) {
+    final public double haka(int corresponding, int notcorresponding) {
         double x;
         double mother;
         if (corresponding + notcorresponding == 0) {
@@ -173,7 +170,7 @@ public class Formula {
         }
     }
 
-    private double senko(double x) {
+    final public double senko(int pass,List<Double> proximity) {
         double thresholdL = 0.25;
         double thresholdR = 0.75;
         if (x < thresholdL) {
@@ -183,6 +180,19 @@ public class Formula {
         } else {
             return thresholdR - x + 1.0;
         }
+    }
+
+    private double getFirstQuartile(List<Double> proximity){
+        Collections.sort(proximity);
+        if(proximity.size()%2==0){
+
+        }else{
+
+        }
+    }
+
+    private double getThirdQuartile(List<Double> proximity){
+        
     }
 
     private double yoruka(double x) {

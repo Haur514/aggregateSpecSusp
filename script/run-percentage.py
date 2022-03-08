@@ -7,16 +7,16 @@ import matplotlib
 
 plt.rcParams['font.family']="Hiragino Sans"
 
-rangestart = 9
-rangeend = 10
+rangestart = 16
+rangeend = 20
 
 # 0.05 or 0.1
-kizamihaba=0.1 
+kizamihaba=0.05
 
 
 args = sys.argv
 
-if True:
+if False:
     print('sbfl_bsbfl')
     for i in range(rangestart,rangeend):
         os.system('python3 diff_sbfl_bsbfl.py Haka '+str(round(i*kizamihaba,2))+' Ochiai')
@@ -30,9 +30,9 @@ if False:
     for i in range(rangestart,rangeend):
         os.system('python3 diff_bsbfl_nonbsbfl.py Haka '+str(round(i*kizamihaba,2))+' Ochiai')
         
-if False:
+if True:
     for i in range(rangestart,rangeend):
-        os.system('python3 diff_all.py Haka '+str(round(i*kizamihaba,2))+' Jaccard')
+        os.system('python3 diff_all.py Haka '+str(round(i*kizamihaba,2))+' Ochiai')
     # print("Jaccard")
     # for i in range(rangestart,rangeend):
     #     os.system('python3 diff_all.py Haka '+str(round(i*kizamihaba,2))+' Jaccard')

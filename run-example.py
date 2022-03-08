@@ -32,17 +32,17 @@ formuraName = {0: "Ochiai",
                7: "Dstar5"}
 
 # 類似度のとり方/疑惑値の算出式/重み付けに使用した式/math???/~~~.csv
-kizamihaba = 0.1
+kizamihaba = 0.05
 
 args = sys.argv
 weightType = weightFunctionName[int(args[1])]
 formuraType = formuraName[int(args[2])]
-ruijido = "dice"
+ruijido = "jaccard"
 
 destinationDir = "./"+ruijido+"/"+formuraType+"/"+weightType+"/"
 
 os.makedirs("./"+str(formuraType), exist_ok=True)
-for j in range(9,10):
+for j in range(16,20):
     for i in range(rangeStart, rangeEnd):
         os.chdir(base)
         os.chdir('route')
