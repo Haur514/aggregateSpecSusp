@@ -9,7 +9,7 @@ countRankBase = './../countRankBSBFL'
 jarFile = base + './build/libs/aggregateSpecSusp.jar'
 
 rangeStart = 1
-rangeEnd = 100
+rangeEnd = 41
 os.system('gradle jar')
 
 weightFunctionName = {0: "Haruka",
@@ -42,16 +42,16 @@ ruijido = "jaccard"
 destinationDir = "./"+ruijido+"/"+formuraType+"/"+weightType+"/"
 
 os.makedirs("./"+str(formuraType), exist_ok=True)
-for j in range(12,16):
+for j in range(1,20):
     for i in range(rangeStart, rangeEnd):
         os.chdir(base)
         os.chdir('route')
-        sub = "math"+str(i).zfill(3)
+        sub = "lang"+str(i).zfill(3)
         shutil.copy("./"+sub+".txt", "./../TR.txt")
         os.chdir('..')
         os.system(
             'java -jar ./build/libs/aggregateSpecSusp.jar -weightType '+args[1] + ' -threshold ' + str(round(j*kizamihaba,2)) + ' -formula ' + args[2])
-        print("math"+str(i))
+        print("lang"+str(i))
         os.makedirs(destinationDir+sub, exist_ok=True)
         shutil.copy("./BlockedExecutionRoute.txt",destinationDir+sub+"/BlockedExecutionRoute.txt")
         shutil.copy("./BSBFL.txt", destinationDir+
@@ -62,5 +62,5 @@ for j in range(12,16):
                     sub + "/SBFL.txt")
         shutil.copy("./Weight.txt", destinationDir+
                     sub + "/Weight"+str(round(j*kizamihaba,2))+".txt")
-    os.system('java -jar ~/Lab/2022//countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*kizamihaba,2)) + ' ' + formuraType)
-    shutil.copy("./sample.txt", destinationDir+"/"+str(round(j*kizamihaba,2))+".csv")
+    os.system('java -jar ~/Lab/2022//countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*kizamihaba,2)) + ' ' + formuraType + ' lang')
+    shutil.copy("./sample.txt", destinationDir+"/"+"lang"+str(round(j*kizamihaba,2))+".csv")

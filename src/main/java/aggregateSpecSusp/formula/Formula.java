@@ -1,7 +1,9 @@
 package aggregateSpecSusp.formula;
 
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Set;
 
 import aggregateSpecSusp.*;
 
@@ -12,7 +14,6 @@ public class Formula {
         int type = App.weightType;
         switch (type) {
             case 0:
-                ret = haruka(corresponding, notcorresponding);
                 break;
             case 1:
                 ret = yoshiruka(corresponding, notcorresponding);
@@ -30,7 +31,7 @@ public class Formula {
                 ret = yoruka((double) (corresponding / (corresponding + notcorresponding + 1.0)));
                 break;
             case 6:
-                ret = senko((double) (corresponding / (corresponding + notcorresponding + 1.0)));
+
                 break;
             case 7:
                 ret = yoshiokaharuka(corresponding, notcorresponding);
@@ -43,15 +44,15 @@ public class Formula {
         return ret;
     }
 
-    final public double motherRoot(int son,int mother){
+    final public double motherRoot(int son, int mother) {
         double threshold = App.threshold;
-        if(mother == 0){
+        if (mother == 0) {
             return 1.0;
         }
-        if((double)son/(double)mother < threshold){
+        if ((double) son / (double) mother < threshold) {
             return 1.0;
         }
-        return Math.max(1.0,son/Math.sqrt(mother));
+        return Math.max(1.0, son / Math.sqrt(mother));
     }
 
     final public double sigmoidFunction(double proximity) {
@@ -60,10 +61,10 @@ public class Formula {
     }
 
     final public double sigmoidWeight(double proximity, int numberOfTest) {
-        if(proximity < App.threshold){
+        if (proximity < App.threshold) {
             return 1.0;
         }
-        return 1.0+sigmoidFunction(proximity);
+        return 1.0 + sigmoidFunction(proximity);
     }
 
     private double functionC(int corresponding, int notcorresponding) {
@@ -113,12 +114,18 @@ public class Formula {
         }
     }
 
-    final public double haruka(double proximity, int numberOfTest) {
+    final public double haruka(int corresponding,int notcorrespoinding, int numberOfTest) {
+        double proximity = 0.0;
         double threshold = App.threshold;
+        double mother;
+        if((corresponding + notcorrespoinding) == 0){
+            return 1;
+        }
+        proximity = (double)corresponding/(double)(corresponding+notcorrespoinding);
         if (proximity < threshold) {
             return 1.0;
         } else {
-            return (double) 1.0+sigmoidFunction(proximity);
+            return (double) 1.0+proximity*numberOfTest;
         }
     }
 
@@ -155,6 +162,8 @@ public class Formula {
         }
     }
 
+
+
     private double yoshiokaharuka(int corresponding, int notcorrespoinding) {
         double x;
         if (corresponding + notcorrespoinding == 0) {
@@ -170,29 +179,54 @@ public class Formula {
         }
     }
 
-    final public double senko(int pass,List<Double> proximity) {
-        double thresholdL = 0.25;
-        double thresholdR = 0.75;
-        if (x < thresholdL) {
-            return 1.0 - x;
-        } else if (thresholdR < x) {
-            return x;
+    final public double senko(int pass, List<Double> proximity,Set<Integer> failedTestList) {
+        double thresholdL = 0;//getFirstQuartile(proximity,failedTestList);
+        double thresholdR = 0;//getThirdQuartile(proximity,failedTestList);
+    //    System.out.println(proximity);
+    //    System.out.println(thresholdL);
+    //    System.out.println(thresholdR);
+       if (proximity.get(pass) <= thresholdL) {
+            return 1.0 - proximity.get(pass);
+        } else if (thresholdL < proximity.get(pass) && proximity.get(pass) < thresholdR) {
+            return proximity.get(pass);
         } else {
-            return thresholdR - x + 1.0;
+            return thresholdR - proximity.get(pass) + 1.0;
         }
     }
 
-    private double getFirstQuartile(List<Double> proximity){
-        Collections.sort(proximity);
-        if(proximity.size()%2==0){
-
-        }else{
-
+    // [start,end]における中央値を返す
+    private double getMedianOfSpecifiedSection(List<Double> proximity, int start, int end) {
+        List<Double> tmp = new ArrayList<>();
+        for (Double p : proximity) {
+            tmp.add(p);
+        }
+        Collections.sort(tmp);
+        // System.out.println(tmp);
+        if ((end - start) % 2 == 0) {
+            return (tmp.get((start + end) / 2));
+        } else {
+            return (tmp.get((start + end) / 2) + tmp.get((start + end) / 2 + 1)) / 2;
         }
     }
 
-    private double getThirdQuartile(List<Double> proximity){
-        
+    private double getFirstQuartile(List<Double> proximity,Set<Integer> failedTestList) {
+        int start = failedTestList.size();
+        int end = proximity.size();
+        if ((proximity.size()-failedTestList.size()) % 2 == 0) {
+            return getMedianOfSpecifiedSection(proximity, start, (proximity.size() - failedTestList.size()) / 2 + start);
+        } else {
+            return getMedianOfSpecifiedSection(proximity, start, (proximity.size() - failedTestList.size()) / 2 - 1 + start);
+        }
+    }
+
+    private double getThirdQuartile(List<Double> proximity,Set<Integer> failedTestList) {
+        if ((proximity.size()-failedTestList.size()) % 2 == 0) {
+            return getMedianOfSpecifiedSection(proximity,
+                    proximity.size() - 1 - (proximity.size() -  failedTestList.size()) / 2 , proximity.size() - 1);
+        } else {
+            return getMedianOfSpecifiedSection(proximity,
+                    proximity.size() - 1 - (proximity.size() -  failedTestList.size()) / 2 , proximity.size() - 1);
+        }
     }
 
     private double yoruka(double x) {

@@ -42,7 +42,7 @@ ruijido = "jaccard"
 destinationDir = "./"+ruijido+"/"+formuraType+"/"+weightType+"/"
 
 os.makedirs("./"+str(formuraType), exist_ok=True)
-for j in range(12,16):
+for j in range(0,20):
     for i in range(rangeStart, rangeEnd):
         os.chdir(base)
         os.chdir('route')
@@ -62,5 +62,5 @@ for j in range(12,16):
                     sub + "/SBFL.txt")
         shutil.copy("./Weight.txt", destinationDir+
                     sub + "/Weight"+str(round(j*kizamihaba,2))+".txt")
-    os.system('java -jar ~/Lab/2022//countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*kizamihaba,2)) + ' ' + formuraType)
-    shutil.copy("./sample.txt", destinationDir+"/"+str(round(j*kizamihaba,2))+".csv")
+    os.system('java -jar ~/Lab/2022//countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*kizamihaba,2)) + ' ' + formuraType +' math')
+    shutil.copy("./sample.txt", destinationDir+"/"+"math"+str(round(j*kizamihaba,2))+".csv")

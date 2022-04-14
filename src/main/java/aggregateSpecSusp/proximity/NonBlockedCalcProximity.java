@@ -12,16 +12,13 @@ import java.util.List;
 /**
  * calc proximity with non-blocked spectrum for control experiment
  */
-public class NonBlockedCalcProximity extends AbstractCalcProximity{
+public class NonBlockedCalcProximity extends AbstractCalcProximity {
     private List<List<List<Integer>>> exRoute = new ArrayList<>();
 
     public NonBlockedCalcProximity(ExtractLineData extractLineData) {
         super(extractLineData);
         init();
-        for (Integer fail: failedTestList) {
-            setWeight(fail);
-        }
-        takeWeightAverage();
+        setWeight();
         printWeight();
         pw.close();
     }
@@ -37,7 +34,7 @@ public class NonBlockedCalcProximity extends AbstractCalcProximity{
 
         initSpectrumListAndWeight();
         // set exRoutes
-        for(ExecutionRoute executionRoute : executionRoutes){
+        for (ExecutionRoute executionRoute : executionRoutes) {
             exRoute.add(executionRoute.getExecutionRoutes());
         }
         setExecutionRoutes(exRoute);

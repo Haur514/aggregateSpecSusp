@@ -27,7 +27,7 @@ public abstract class AbstractCalcProximity {
 
     private Formula formula;
 
-    AbstractCalcProximity(ExtractLineData extractLineData){
+    AbstractCalcProximity(ExtractLineData extractLineData) {
         formula = new Formula();
         this.extractLineData = extractLineData;
         this.executionRoutes = extractLineData.getExecutionRoutes();
@@ -40,15 +40,15 @@ public abstract class AbstractCalcProximity {
         return this.weightTestCase;
     }
 
-    protected void setFailedTestList(Set<Integer> list){
+    protected void setFailedTestList(Set<Integer> list) {
         this.failedTestList = list;
     }
 
-    protected void setNumberOfTest(int num){
+    protected void setNumberOfTest(int num) {
         this.numberOfTest = num;
     }
 
-    protected void initSpectrumListAndWeight(){
+    protected void initSpectrumListAndWeight() {
         for (int i = 0; i < numberOfTest; i++) {
             numberOfCorrespondingBlock.add(0);
             numberOfNotCorrespondingBlock.add(0);
@@ -56,11 +56,11 @@ public abstract class AbstractCalcProximity {
         }
     }
 
-    protected void setExecutionRoutes(List<List<List<Integer>>> exRoutes){
+    protected void setExecutionRoutes(List<List<List<Integer>>> exRoutes) {
         this.spectrum = exRoutes;
     }
 
-    protected void takeWeightAverage(){
+    protected void takeWeightAverage() {
         for (int i = 0; i < numberOfTest; i++) {
             checkNaN(weightTestCase.get(i));
             checkSize(failedTestList.size());
@@ -68,123 +68,131 @@ public abstract class AbstractCalcProximity {
         }
     }
 
-    private void checkNaN(Double weight){
-        if(Double.toString(weight).equals("NaN")){
+    private void checkNaN(Double weight) {
+        if (Double.toString(weight).equals("NaN")) {
             System.out.println("checkNaN");
             System.exit(1);
         }
     }
 
-    private void checkSize(int size){
-        if(size == 0){
+    private void checkSize(int size) {
+        if (size == 0) {
             System.out.println("Error: AbstractCalcProximity checkSize()");
             System.exit(1);
         }
     }
 
-    protected void printWeight(){
+    protected void printWeight() {
         for (int i = 0; i < numberOfTest; i++) {
-            if(failedTestList.contains(i)){
+            if (failedTestList.contains(i)) {
                 continue;
             }
-            if(!(weightTestCase.get(i) > 0.0)){
+            if (!(weightTestCase.get(i) > 0.0)) {
                 System.out.println("ERROR in printWeight()");
-                System.out.println(weightTestCase.get(i));
+                System.out.println(i);
                 System.exit(1);
             }
             pw.println(i + "," + Double.toString(weightTestCase.get(i)));
         }
     }
 
-    final public void setWeight(int fail) {
+    final public void setWeight() {
         int numberOfTest = spectrum.get(0).size();
         for (int pass = 0; pass < numberOfTest; pass++) {
-            if(failedTestList.contains(pass)){
+            if (failedTestList.contains(pass)) {
                 continue;
             }
-            weightTestCase.set(pass,weightTestCase.get(pass)+formula.haka(getSimpsonNumerator(fail,pass),getNumberOfSetElements(fail)-getNumberOfIntersection(fail, pass)));
+            for(int fail : failedTestList){
+                // weightTestCase.set(pass, weightTestCase.get(pass) + formula.haruka(getNumberOfIntersection(fail, pass),getNumberOfSetElements(fail)-getNumberOfIntersection(fail, pass),failedTestList.size())/failedTestList.size());
+                weightTestCase.set(pass, weightTestCase.get(pass) + formula.haka(getNumberOfIntersection(fail, pass),getNumberOfSetElements(fail)-getNumberOfIntersection(fail, pass))/failedTestList.size());
+            }
         }
     }
 
-    final public List<Double> setProximityWith(int fail){
+    final public List<Double> getProximity() {
         List<Double> ret = new ArrayList<>();
-        for (int pass = 0; pass < numberOfTest; pass++) {
-            if(failedTestList.contains(pass)){
-                continue;
+        for(int i = 0; i < numberOfTest;i++){
+            ret.add(0.0);
+        }
+        for (Integer fail : failedTestList) {
+            for (int pass = 0; pass < numberOfTest; pass++) {
+                if (failedTestList.contains(pass)) {
+                    continue;
+                }
+                ret.set(pass, ret.get(pass) + getJaccardCoefficient(fail, pass)/(double)failedTestList.size());
             }
-            ret.set(pass,ret.get(pass)+formula.senko(getJaccardCoefficient(fail, pass)));
         }
         return ret;
     }
 
-    private boolean isNotZero(int num){
-        if(num == 0){
+    private boolean isNotZero(int num) {
+        if (num == 0) {
             return false;
         }
         return true;
     }
 
-
     // ジャカード係数
-    final public double getJaccardCoefficient(int fail,int pass){
-        if(!isNotZero(getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass))){
+    final public double getJaccardCoefficient(int fail, int pass) {
+        if (!isNotZero(
+                getNumberOfSetElements(fail) + getNumberOfSetElements(pass) - getNumberOfIntersection(fail, pass))) {
             System.err.println("Error : getJaccardCoefficient");
             System.exit(1);
         }
-        return (double)getNumberOfIntersection(fail,pass)/(double)(getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass));
-    }
-    final public int getJaccardDenominator(int fail,int pass){
-        return getNumberOfSetElements(fail)+getNumberOfSetElements(pass)-getNumberOfIntersection(fail,pass);
+        return (double) getNumberOfIntersection(fail, pass) / (double) (getNumberOfSetElements(fail)
+                + getNumberOfSetElements(pass) - getNumberOfIntersection(fail, pass));
     }
 
-    final public int getJaccardNumerator(int fail,int pass){
-        return getNumberOfIntersection(fail,pass);
+    final public int getJaccardDenominator(int fail, int pass) {
+        return getNumberOfSetElements(fail) + getNumberOfSetElements(pass) - getNumberOfIntersection(fail, pass);
     }
 
+    final public int getJaccardNumerator(int fail, int pass) {
+        return getNumberOfIntersection(fail, pass);
+    }
 
     // ダイス係数
-    final public double getDiceCoefficient(int fail,int pass){
-        if(!isNotZero(getDiceDenominator(fail,pass))){
+    final public double getDiceCoefficient(int fail, int pass) {
+        if (!isNotZero(getDiceDenominator(fail, pass))) {
             System.err.println("Error : getDiceCoefficient");
             System.exit(1);
         }
-        return (double)getDiceNumerator(fail,pass)/(double)(getDiceDenominator(fail,pass));
+        return (double) getDiceNumerator(fail, pass) / (double) (getDiceDenominator(fail, pass));
     }
 
-    final public int getDiceDenominator(int fail,int pass){
-        return getNumberOfSetElements(fail)+getNumberOfSetElements(pass);
+    final public int getDiceDenominator(int fail, int pass) {
+        return getNumberOfSetElements(fail) + getNumberOfSetElements(pass);
     }
 
-    final public int getDiceNumerator(int fail,int pass){
-        return 2*getNumberOfIntersection(fail,pass);
+    final public int getDiceNumerator(int fail, int pass) {
+        return 2 * getNumberOfIntersection(fail, pass);
     }
-
 
     // シンプソン係数
-    final public double getSimpsonCoefficient(int fail,int pass){
-        if(getSimpsonDenominator(fail,pass) == 0){
+    final public double getSimpsonCoefficient(int fail, int pass) {
+        if (getSimpsonDenominator(fail, pass) == 0) {
             return 0;
         }
-        return (double)getSimpsonNumerator(fail,pass)/(double)getSimpsonDenominator(fail,pass);
+        return (double) getSimpsonNumerator(fail, pass) / (double) getSimpsonDenominator(fail, pass);
     }
 
-    private int getSimpsonNumerator(int fail,int pass){
-        return getNumberOfIntersection(fail,pass);
+    private int getSimpsonNumerator(int fail, int pass) {
+        return getNumberOfIntersection(fail, pass);
     }
 
-    private int getSimpsonDenominator(int fail,int pass){
-        return Math.min(getNumberOfSetElements(fail),getNumberOfSetElements(pass));
+    private int getSimpsonDenominator(int fail, int pass) {
+        return Math.min(getNumberOfSetElements(fail), getNumberOfSetElements(pass));
     }
 
     // fail,passの共通部分の要素数を取得
-    private int getNumberOfIntersection(int fail,int pass){
+    private int getNumberOfIntersection(int fail, int pass) {
         int ret = 0;
-        for(int i = 0; i < spectrum.size();i++){
+        for (int i = 0; i < spectrum.size(); i++) {
             List<Integer> failedExecutionRoute = spectrum.get(i).get(fail);
             List<Integer> passedExecutionRoute = spectrum.get(i).get(pass);
-            for(int j = 0; j < failedExecutionRoute.size();j++){
-                if(failedExecutionRoute.get(j) ==-1){
-                    if(passedExecutionRoute.get(j) == 1){
+            for (int j = 0; j < failedExecutionRoute.size(); j++) {
+                if (failedExecutionRoute.get(j) == -1) {
+                    if (passedExecutionRoute.get(j) == 1) {
                         ret++;
                     }
                 }
@@ -194,12 +202,12 @@ public abstract class AbstractCalcProximity {
     }
 
     // 引数に指定したテストケースの通過した行数を取得
-    private int getNumberOfSetElements(int tc){
+    private int getNumberOfSetElements(int tc) {
         int ret = 0;
-        for(int i = 0; i < spectrum.size();i++){
+        for (int i = 0; i < spectrum.size(); i++) {
             List<Integer> executionRoute = spectrum.get(i).get(tc);
-            for(int j = 0; j < executionRoute.size();j++){
-                if(executionRoute.get(j) != 0){
+            for (int j = 0; j < executionRoute.size(); j++) {
+                if (executionRoute.get(j) != 0) {
                     ret++;
                 }
             }

@@ -4,12 +4,12 @@ import shutil
 
 import simplejson
 
-base = './'
+base = '/home/h-yosiok/Lab/2022/aggregateSpecSusp/'
 countRankBase = './../countRankBSBFL'
 jarFile = base + './build/libs/aggregateSpecSusp.jar'
 
 rangeStart = 1
-rangeEnd = 100
+rangeEnd = 27
 os.system('gradle jar')
 
 weightFunctionName = {0: "Haruka",
@@ -42,16 +42,18 @@ ruijido = "jaccard"
 destinationDir = "./"+ruijido+"/"+formuraType+"/"+weightType+"/"
 
 os.makedirs("./"+str(formuraType), exist_ok=True)
-for j in range(12,16):
+for j in range(0,20):
     for i in range(rangeStart, rangeEnd):
         os.chdir(base)
-        os.chdir('route')
-        sub = "math"+str(i).zfill(3)
+        os.chdir("route")
+        sub = "time"+str(i).zfill(3)
+        if not os.path.exists("./"+sub+".txt"):
+            continue
         shutil.copy("./"+sub+".txt", "./../TR.txt")
         os.chdir('..')
         os.system(
             'java -jar ./build/libs/aggregateSpecSusp.jar -weightType '+args[1] + ' -threshold ' + str(round(j*kizamihaba,2)) + ' -formula ' + args[2])
-        print("math"+str(i))
+        print("time"+str(i))
         os.makedirs(destinationDir+sub, exist_ok=True)
         shutil.copy("./BlockedExecutionRoute.txt",destinationDir+sub+"/BlockedExecutionRoute.txt")
         shutil.copy("./BSBFL.txt", destinationDir+
@@ -62,5 +64,5 @@ for j in range(12,16):
                     sub + "/SBFL.txt")
         shutil.copy("./Weight.txt", destinationDir+
                     sub + "/Weight"+str(round(j*kizamihaba,2))+".txt")
-    os.system('java -jar ~/Lab/2022//countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*kizamihaba,2)) + ' ' + formuraType)
-    shutil.copy("./sample.txt", destinationDir+"/"+str(round(j*kizamihaba,2))+".csv")
+    os.system('java -jar ~/Lab/2022//countRankBSBFL/build/libs/countRankBSBFL.jar '+args[1]+' ' + str(round(j*kizamihaba,2)) + ' ' + formuraType + ' time')
+    shutil.copy("./sample.txt", destinationDir+"/"+"time"+str(round(j*kizamihaba,2))+".csv")
